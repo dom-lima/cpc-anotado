@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Se usar esta obra, cite-a conforme os metadados abaixo."
+title: "CPC anotado: Parte Geral (arts. 1º a 317)"
+authors:
+  - family-names: "Souza Lima Júnior"
+    given-names: "Domingos José de"
+date-released: 2026-10-17
+license: CC-BY-4.0
+url: "https://github.com/domingossouzalima-dev/cpc-anotado-parte-geral"
+abstract: "Parte Geral do Código de Processo Civil (Lei nº 13.105/2015, arts. 1º a 317) anotada com a jurisprudência principal do STF e do STJ de cada artigo, em versão normal (uma coluna) e vade-mécum (duas colunas)."
