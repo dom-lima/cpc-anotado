@@ -33,3 +33,7 @@ Os dados desta pesquisa foram conferidos por meio de inteligência artificial (I
 ## Como citar
 
 SOUZA LIMA JÚNIOR, Domingos José de. *CPC anotado: Parte Geral (arts. 1º a 317)*. 2026. Disponível em: https://github.com/domingossouzalima-dev/cpc-anotado-parte-geral. Licença CC BY 4.0.
+
+## Contribuir
+
+Veja [`CONTRIBUTING.md`](CONTRIBUTING.md) e o [Código de Conduta](CODE_OF_CONDUCT.md).
