@@ -1,19 +1,29 @@
-# CPC anotado: Parte Geral (arts. 1º a 317)
+# Código de Processo Civil anotado
 
-*Código de Processo Civil anotado com a jurisprudência do STF e do STJ a partir de 2016.*
+*Parte Geral (arts. 1º a 317) e Parte Especial, Livro I (arts. 318 a 770), com a jurisprudência do STF e do STJ a partir de 2016.*
 
-Parte Geral do Código de Processo Civil (Lei nº 13.105/2015, arts. 1º a 317) anotada com a jurisprudência principal do STF e do STJ de cada artigo, em versão normal (uma coluna) e vade-mécum (duas colunas).
+CPC anotado com a jurisprudência do STF e do STJ a partir de 2016: Parte Geral (arts. 1º a 317) e Parte Especial, Livro I (arts. 318 a 770), em versão normal e vade-mécum.
 
-**Autor:** Domingos José de Souza Lima Júnior  
-**Data:** 17 de outubro de 2026
+**Autor:** Domingos José de Souza Lima Júnior
+**Data:** Realizado em 18 de outubro de 2026
 
 ## Arquivos
 
+### Código de Processo Civil anotado: Parte Geral, arts. 1º a 317
+
+- [`pesquisa_cpc-anotado-parte-geral_2026-10-17.md`](pesquisa_cpc-anotado-parte-geral_2026-10-17.md)
 - [`pesquisa_cpc-anotado-parte-geral_2026-10-17_normal.pdf`](pesquisa_cpc-anotado-parte-geral_2026-10-17_normal.pdf)
 - [`pesquisa_cpc-anotado-parte-geral_2026-10-17_normal.docx`](pesquisa_cpc-anotado-parte-geral_2026-10-17_normal.docx)
 - [`pesquisa_cpc-anotado-parte-geral_2026-10-17_vademecum.pdf`](pesquisa_cpc-anotado-parte-geral_2026-10-17_vademecum.pdf)
 - [`pesquisa_cpc-anotado-parte-geral_2026-10-17_vademecum.docx`](pesquisa_cpc-anotado-parte-geral_2026-10-17_vademecum.docx)
-- [`pesquisa_cpc-anotado-parte-geral_2026-10-17.md`](pesquisa_cpc-anotado-parte-geral_2026-10-17.md)
+
+### Código de Processo Civil anotado: Parte Especial, Livro I, arts. 318 a 770
+
+- [`pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18.md`](pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18.md)
+- [`pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18_normal.pdf`](pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18_normal.pdf)
+- [`pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18_normal.docx`](pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18_normal.docx)
+- [`pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18_vademecum.pdf`](pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18_vademecum.pdf)
+- [`pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18_vademecum.docx`](pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18_vademecum.docx)
 
 ## Licença
 
@@ -32,7 +42,7 @@ Os dados desta pesquisa foram conferidos por meio de inteligência artificial (I
 
 ## Como citar
 
-SOUZA LIMA JÚNIOR, Domingos José de. *CPC anotado: Parte Geral (arts. 1º a 317)*. 2026. Disponível em: https://github.com/domingossouzalima-dev/cpc-anotado-parte-geral. Licença CC BY 4.0.
+SOUZA LIMA JÚNIOR, Domingos José de. *Código de Processo Civil anotado*. Disponível em: https://github.com/dom-lima/cpc-anotado. Licença CC BY 4.0.
 
 ## Contribuir
 
