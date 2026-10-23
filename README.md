@@ -20,9 +20,9 @@ CPC anotado com a jurisprudência do STF e do STJ a partir de 2016: Parte Geral 
 ### Código de Processo Civil anotado: Parte Especial, Livro I, arts. 318 a 770
 
 - [`pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18.md`](pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18.md)
-- [`pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18_normal.pdf`](pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18_normal.pdf)
+- [`pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-22_normal.pdf`](pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-22_normal.pdf)
 - [`pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18_normal.docx`](pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18_normal.docx)
-- [`pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18_vademecum.pdf`](pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18_vademecum.pdf)
+- [`pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-22_vademecum.pdf`](pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-22_vademecum.pdf)
 - [`pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18_vademecum.docx`](pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18_vademecum.docx)
 
 ## Licença
