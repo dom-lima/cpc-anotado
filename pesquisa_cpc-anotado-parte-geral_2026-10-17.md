@@ -16,12 +16,15 @@ lang: pt-BR
 | **AgInt** | Agravo interno |
 | **AgRg** | Agravo regimental |
 | **AREsp** | Agravo em recurso especial |
+| **CF** | Constituição Federal |
 | **CPC** | Código de Processo Civil |
 | **CPP** | Código de Processo Penal |
 | **DJ** | Diário da Justiça |
 | **DJe** | Diário da Justiça eletrônico |
 | **DJEN** | Diário de Justiça Eletrônico Nacional |
 | **EDcl** | Embargos de declaração |
+| **EREsp** | Embargos de divergência em recurso especial |
+| **HC** | _Habeas corpus_ |
 | **IA** | Inteligência artificial |
 | **IAC** | Incidente de assunção de competência |
 | **RE** | Recurso extraordinário |
@@ -49,7 +52,7 @@ lang: pt-BR
 - **Pesquisa realizada por:** Domingos José de Souza Lima Júnior
 - **Data da pesquisa:** 17/10/2026
 - **Bases consultadas:** legislação e jurisprudência do STF e do STJ (curadoria interna); e repositório externo, com os acórdãos assinalados como **[Repositório externo]**
-- **Recorte:** julgados e entendimentos de 1º/01/2016 a 17/10/2026. Entendimento anterior só aparece quando ainda é o marco vigente do artigo, com a data de origem declarada. Só os artigos com julgado relevante são anotados (78 dos 317); os demais trazem apenas o texto legal.
+- **Recorte:** julgados e entendimentos de 1º/01/2016 a 17/10/2026. Entendimento anterior só aparece quando ainda é o marco vigente do artigo, com a data de origem declarada. Só os artigos com julgado relevante são anotados (171 dos 317); os demais trazem apenas o texto legal.
 - **Datas dos julgados:** a data indicada é a do julgamento e, quando a fonte traz apenas a da publicação, a do Diário da Justiça eletrônico (DJe).
 - **Uso de IA:** consulta às fontes e redação assistidas por IA generativa (Claude Code). A conferência dos julgados na fonte primária cabe ao leitor (ver seção 7).
 - **Estrutura:** a seção 5 reproduz o texto legal artigo por artigo, na ordem do Código, com as anotações nos artigos que as têm; cada Livro abre com página própria, seguido dos Títulos, Capítulos e Seções do Código, com a faixa de artigos de cada um. O índice de artigos, ao final, remete cada artigo à sua página.
@@ -60,7 +63,7 @@ lang: pt-BR
 
 > [!IMPORTANT]
 >
-> **Vinculante.** Na ação direta de inconstitucionalidade (ADI) 5737, julgada em conjunto com a ADI 5492 e concluída em 24/04/2023, o Supremo Tribunal Federal (STF) decidiu que, nas hipóteses do art. 9º, parágrafo único, II, e do art. 311, parágrafo único, o contraditório é diferido, e não suprimido, e que o art. 15 só se aplica supletiva e subsidiariamente aos processos administrativos dos entes federados. Na ADI 5814 (Plenário, 06/02/2019, **[Repositório externo]**), assentou que as prerrogativas processuais dos entes públicos, como o prazo recursal em dobro e a intimação pessoal, não se aplicam ao controle abstrato.
+> **Vinculante.** Na ação direta de inconstitucionalidade (ADI) 5737, julgada em conjunto com a ADI 5492 e concluída em 24/04/2023, o Supremo Tribunal Federal (STF) decidiu que, nas hipóteses do art. 9º, parágrafo único, II, e do art. 311, parágrafo único, o contraditório é diferido, e não suprimido, e que o art. 15 só se aplica supletiva e subsidiariamente aos processos administrativos dos entes federados. Na ADI 5814 (Plenário, 06/02/2019), assentou que as prerrogativas processuais dos entes públicos, como o prazo recursal em dobro e a intimação pessoal, não se aplicam ao controle abstrato.
 
 > [!IMPORTANT]
 >
@@ -96,19 +99,23 @@ lang: pt-BR
 >
 > **Admitido.** As Seções disciplinam a reunião de processos e a conexão (CC 151.295, 2017; CC 160.329, 2019), o conceito de conflito de competência, inclusive entre decisões excludentes (CC 153.641, 2017; agravo interno (AgInt) no CC 177.499, 2022) e a perpetuação da competência no cumprimento de sentença (CC 191.185, 2024).
 
+> [!TIP]
+>
+> **Admitido.** Sobre os limites subjetivos e a cooperação internacional: o locatário não tem legitimidade para pleitear em nome próprio direito do locador (embargos de divergência em recurso especial (EREsp) 1.630.199, 2021, art. 18); o auxílio direto distingue-se da carta rogatória pela origem — medida que não decorre diretamente de decisão jurisdicional estrangeira —, e a produção de provas por decisão estrangeira é admissível em carta rogatória, com juízo de delibação do Superior Tribunal de Justiça (AgInt na CR 21.916, 2025, art. 27); nesse juízo, a defesa restringe-se à autenticidade dos documentos, à inteligência da decisão e aos requisitos legais, vedado o exame do mérito e da citação no processo estrangeiro (AgInt no CR 19.637, 2025, art. 36). Quanto à arbitragem, cabe ao juízo arbitral analisar a própria existência, validade e eficácia da cláusula compromissória, inclusive seus limites (AgInt no agravo em recurso especial (AREsp) 1.197.814, 2019, art. 42).
+
 > [!WARNING]
 >
 > **Divergências.** Ver a seção 6.
 
 > [!WARNING]
 >
-> **Cautela.** Para os arts. 16, 18 a 20, 22, 27, 29, 31 a 41, 44, 47 a 51, 54, 57, 60 a 62, 65 e 67 a 69 não há, nos acervos consultados, acórdão com tese própria. Ver as pendências.
+> **Cautela.** Para os arts. 16, 19, 20, 22, 29 a 35, 37 a 41, 44, 47 a 51, 54, 57, 60 a 62, 65 e 67 a 69 não há, nos acervos consultados, acórdão com tese própria. Ver as pendências.
 
 **Livro III: dos sujeitos do processo (arts. 70 a 187).**
 
 > [!IMPORTANT]
 >
-> **Vinculante.** No STF, a ADI 5953 declarou inconstitucional o art. 144, VIII (impedimento por cliente do escritório de parente); a ADI 5941 julgou improcedente o pedido de afastar as medidas coercitivas atípicas do art. 139, IV; a ADI 6159 (com remissão às ADI 6053, 6165, 6178, 6181 e 6197) declarou constitucional o pagamento de honorários sucumbenciais aos advogados públicos, no limite do teto constitucional (art. 85, § 19), e a ADI 7014 invalidou desconto estadual sobre esses honorários; as ADI 5737 e 5492 trataram do art. 75, § 4º; a ADI 5814 e a arguição de descumprimento de preceito fundamental (ADPF) 205 afastaram as prerrogativas processuais da Fazenda Pública no controle abstrato (art. 183). Os Temas 1002 e 1220 da repercussão geral tratam dos honorários da Defensoria Pública e da preferência dos honorários, ambos **[Repositório externo]**.
+> **Vinculante.** No STF, a ADI 5953 declarou inconstitucional o art. 144, VIII (impedimento por cliente do escritório de parente); a ADI 5941 julgou improcedente o pedido de afastar as medidas coercitivas atípicas do art. 139, IV; a ADI 6324 declarou constitucional a facultatividade de advogado ou defensor nos Centros Judiciários de Solução de Conflitos e Cidadania (art. 165); a ADI 6159 (com remissão às ADI 6053, 6165, 6178, 6181 e 6197) declarou constitucional o pagamento de honorários sucumbenciais aos advogados públicos, no limite do teto constitucional (art. 85, § 19), e a ADI 7014 invalidou desconto estadual sobre esses honorários; as ADI 5737 e 5492 trataram do art. 75, § 4º; a ADI 5814 e a arguição de descumprimento de preceito fundamental (ADPF) 205 afastaram as prerrogativas processuais da Fazenda Pública no controle abstrato (art. 183). Os Temas 1002 e 1220 da repercussão geral tratam dos honorários da Defensoria Pública e da preferência dos honorários, ambos **[Repositório externo]**.
 
 > [!IMPORTANT]
 >
@@ -120,7 +127,11 @@ lang: pt-BR
 
 > [!TIP]
 >
-> **Admitido.** Nas Turmas, a desconsideração da personalidade jurídica pode ser requerida por simples petição no cumprimento de sentença (REsp 2.239.150, 2026) e dispensa o incidente quando pedida na inicial (agravo em recurso especial (AREsp) 2.982.042, 2026); a Defensoria tem prazo em dobro desde que se habilite no prazo originário (REsp 2.042.061, 2025) e a prerrogativa de intimação pessoal alcança o defensor dativo (RMS 64.894, 2021).
+> **Admitido.** Nas Turmas, a desconsideração da personalidade jurídica pode ser requerida por simples petição no cumprimento de sentença (REsp 2.239.150, 2026) e dispensa o incidente quando pedida na inicial (AREsp 2.982.042, 2026); a Defensoria tem prazo em dobro desde que se habilite no prazo originário (REsp 2.042.061, 2025) e a prerrogativa de intimação pessoal alcança o defensor dativo (RMS 64.894, 2021).
+
+> [!TIP]
+>
+> **Admitido.** Sobre capacidade, representação e litisconsórcio: a baixa fiscal sem baixa na Junta Comercial não afasta a capacidade de estar em juízo (REsp 2.154.502, 2026, art. 70); constatada irregularidade de representação, o relator deve suspender o processo e fixar prazo para saneamento, sendo o não conhecimento medida residual, e o princípio da cooperação impõe indicar com exatidão a representação a sanar (AREsp 2.974.466, 2026, art. 76); é necessária a identificação do representante legal da pessoa jurídica na procuração, sob pena de deficiência de representação (AgInt no AREsp 2.230.102, 2023, art. 105); o dever de informar a alteração da representação é da parte, e a arguição tardia da nulidade configura nulidade de algibeira (AgInt no AREsp 1.790.001, 2021, art. 111); é necessário o litisconsórcio do ente federado responsável pelo contrato quando se questionam os valores recebidos (AgInt no REsp 2.137.725, 2024, art. 114), e é nulo o processo sem a integração de litisconsorte necessário (REsp 1.831.507, 2024, art. 115); o assistente simples só atua como substituto em caso de revelia ou omissão, prevalecendo a vontade do assistido (AgInt no REsp 2.154.773, 2025, art. 121); a denunciação da lide não pode ser determinada de ofício (AREsp 1.992.131, 2022, art. 126).
 
 > [!WARNING]
 >
@@ -128,17 +139,21 @@ lang: pt-BR
 
 > [!WARNING]
 >
-> **Cautela.** A tese do Tema 1076/STJ está sujeita ao Tema 1255 do STF, afetado e sem tese. A ADPF 774, a que o art. 143 remete, não consta dos acervos consultados. Ver as pendências.
+> **Cautela.** A tese do Tema 1076/STJ está sujeita ao Tema 1255 do STF, afetado e sem tese. A ADPF 774, a que o art. 143 remete, está pendente de julgamento definitivo: a cautelar de 22/03/2022 foi deferida em parte e não alcança as ações fundadas exclusivamente no art. 143. Ver as pendências.
 
 **Livro IV: dos atos processuais (arts. 188 a 293).**
 
 > [!IMPORTANT]
 >
-> **Vinculante.** A ADI 5737 declarou compatível com a Constituição o art. 242, § 3º (citação dos entes públicos perante a Advocacia Pública), e a ação declaratória de constitucionalidade (ADC) 51 (Plenário, 23/02/2023, **[Repositório externo]**) declarou constitucionais as normas de cooperação jurídica internacional e de cartas rogatórias, inclusive o art. 237, II. No STJ, o Tema 1131 (Primeira Seção) tratou da interrupção da prescrição pela citação (art. 240), o Tema 1015 (Segunda Seção) do pacto de não judicialização como negócio processual (art. 190) e o Tema 379 (Corte Especial) do início do prazo recursal com a juntada do aviso de recebimento, do mandado ou da carta (art. 231).
+> **Vinculante.** A ADI 5737 declarou compatível com a Constituição o art. 242, § 3º (citação dos entes públicos perante a Advocacia Pública), e a ação declaratória de constitucionalidade (ADC) 51 (Plenário, 23/02/2023) declarou constitucionais as normas de cooperação jurídica internacional e de cartas rogatórias, inclusive o art. 237, II. No STJ, o Tema 1131 (Primeira Seção) tratou da interrupção da prescrição pela citação (art. 240), o Tema 1015 (Segunda Seção) do pacto de não judicialização como negócio processual (art. 190) e o Tema 379 (Corte Especial) do início do prazo recursal com a juntada do aviso de recebimento, do mandado ou da carta (art. 231).
 
 > [!TIP]
 >
 > **Admitido.** As Turmas admitem a intimação eletrônica sem publicação no diário, quando a parte está cadastrada no portal (REsp 1.948.877, 2025), fazem prevalecer, na duplicidade, a intimação do portal (AgInt no AREsp 2.072.362, 2023), reconhecem presunção relativa na citação entregue à portaria do condomínio (REsp 2.069.123, 2023) e exigem que a impugnação ao valor da causa seja decidida antes do mérito (REsp 1.857.194, 2024).
+
+> [!TIP]
+>
+> **Admitido.** Sobre os atos processuais e as comunicações: a renúncia ao prazo é negócio jurídico processual e o erro substancial e escusável na sua declaração permite afastá-la, conhecendo-se o recurso (REsp 2.126.117, 2024, art. 225); a citação por hora certa exige que o oficial de justiça justifique a suspeita de ocultação, não bastando indicar que o réu está em local incerto (REsp 2.059.799, 2026, art. 252); a citação por edital é excepcional e só se admite após esgotadas as tentativas de localização (AgInt no AREsp 2.332.925, 2024, art. 257); a intimação eletrônica dispensa a publicação no órgão oficial, ainda que a parte tenha requerido a publicação (REsp 1.948.877, 2025, art. 274); a falta de intimação do Ministério Público para atuar em segundo grau gera nulidade (AREsp 2.094.467, 2026, art. 279); e a distribuição por dependência não é absoluta quando a nova ação é proposta em outro foro legalmente competente, sem burla ao juiz natural (CC 215.225, 2025, art. 286).
 
 > [!WARNING]
 >
@@ -158,9 +173,13 @@ lang: pt-BR
 >
 > **Divergências.** A estabilização da tutela antecipada antecedente (art. 304) é decidida de modo diverso pelas Turmas; ver a seção 6.
 
+> [!TIP]
+>
+> **Admitido.** Na tutela antecipada antecedente, a ciência do conteúdo decisório presume-se com a intimação formal, e a juntada superveniente de petição só supre a intimação quando revelar conhecimento inequívoco da decisão e do dever de adotar atitude processual, do que decorre o prazo de aditamento do art. 303, § 1º, I (REsp 1.766.376, 2020).
+
 > [!WARNING]
 >
-> **Cautela.** Para os arts. 295 a 298, 302, 303 e 305 a 310 há apenas as referências indicadas. Ver as pendências.
+> **Cautela.** Para os arts. 295 a 298, 302 e 305 a 310 há apenas as referências indicadas. Ver as pendências.
 
 **Livro VI: da formação, da suspensão e da extinção do processo (arts. 312 a 317).**
 
@@ -225,14 +244,14 @@ Reúne os entendimentos de eficácia vinculante ou de observância obrigatória 
 | Recurso repetitivo (Tema) | 1419 | STJ, Primeira Seção | A decisão que, para aplicar a modulação de efeitos realizada pelo STF no Tema 69 da repercussão geral, julga procedente ação rescisória contestada até 11/9/2024 não deve condenar ao pagamento de honorários advocatícios de sucumbên… | 85 | Acórdão Publicado |
 | Recurso repetitivo (Tema) | 1424 | STJ, Corte Especial | A demonstração da hipossuficiência econômico-financeira da pessoa jurídica, para fins de obtenção de gratuidade de justiça, reclama esclarecimentos sobre a sua situação financeira e patrimonial - com a indicação do seu ativo, pass… | 98; 99 | Trânsito em Julgado |
 | ADI | 6159 | STF, Plenário | É constitucional o pagamento de honorários sucumbenciais aos advogados públicos, observado o teto do art. 37, XI, da Constituição (mesma linha das ADI 6053, 6165, 6178, 6181 e 6197) | 85, § 19 | Sessão virtual de 14 a 21/08/2020 **[Repositório externo]** |
-| ADI | 5941 | STF, Plenário | Improcedente o pedido de afastar, em qualquer hipótese, medidas coercitivas, indutivas ou sub-rogatórias atípicas (suspensão do direito de dirigir, apreensão de passaporte, proibição de concursos e licitações) | 139, IV; 380; 400; 403; 536; 773 | Julgada em 09/02/2023 **[Repositório externo]** |
+| ADI | 5941 | STF, Plenário | Improcedente o pedido de afastar, em qualquer hipótese, medidas coercitivas, indutivas ou sub-rogatórias atípicas (suspensão do direito de dirigir, apreensão de passaporte, proibição de concursos e licitações) | 139, IV; 380; 400; 403; 536; 773 | Julgada em 09/02/2023 |
 | Recurso repetitivo (Tema) | 1000 | STJ, Segunda Seção | Desde que prováveis a existência da relação jurídica entre as partes e de documento ou coisa que se pretende seja exibido, apurada em contraditório prévio, poderá o juiz, após tentativa de busca e apreensão ou outra medida coercit… | 139, IV; 400 | Trânsito em Julgado |
 | Recurso repetitivo (Tema) | 959 | STJ, Terceira Seção | O termo inicial da contagem do prazo para impugnar decisão judicial é, para o Ministério Público, a data da entrega dos autos na repartição administrativa do órgão, sendo irrelevante que a intimação pessoal tenha se dado em audiên… | 180; 183 | Trânsito em Julgado |
 | ADI | 5737 e 5492 (julgamento conjunto) | STF, Plenário | Art. 242, § 3º, compatível com a Constituição: a citação dos entes públicos é feita perante o órgão de Advocacia Pública responsável por sua representação judicial | 242, § 3º (e 9º, 15, 46, 52, 75, 311, entre outros) | Julgado em 24/04/2023 |
 | Recurso repetitivo (Tema) | 1131 | STJ, Primeira Seção | Nas ações relacionadas ao Tema 928, a citação válida de dois dos réus interrompe a prescrição também em relação à União, com efeito retroativo à propositura, mesmo se a citação da União ocorrer após cinco anos, quando a demora for imputável exclusivamente ao Judiciário em razão do reconhecimento de litisconsórcio passivo necessário | 240, §§ 1º e 3º | Acórdão publicado |
 | Recurso repetitivo (Tema) | 1015 | STJ, Segunda Seção | Homologação de pacto de não judicialização como negócio jurídico processual, com eficácia parcialmente erga omnes e vinculante | 190; 927, III | Acórdão publicado |
 | Súmula | 106 | STJ, Corte Especial | Proposta a ação no prazo, a demora na citação por motivos inerentes ao mecanismo da Justiça não justifica o acolhimento da prescrição ou da decadência | 240, § 3º | Vigente (aprovada em 26/05/1994) |
-| ADC | 51 | STF, Plenário | Constitucionalidade das normas do MLAT, do CPC (art. 237, II) e do CPP sobre cooperação jurídica internacional e cartas rogatórias, que convivem com a requisição direta de dados do art. 11 do Marco Civil da Internet e do art. 18 da Convenção de Budapeste | 237, II | Julgada em 23/02/2023 **[Repositório externo]** |
+| ADC | 51 | STF, Plenário | Constitucionalidade das normas do MLAT, do CPC (art. 237, II) e do CPP sobre cooperação jurídica internacional e cartas rogatórias, que convivem com a requisição direta de dados do art. 11 do Marco Civil da Internet e do art. 18 da Convenção de Budapeste | 237, II | Julgada em 23/02/2023 |
 | Recurso repetitivo (Tema) | 379 | STJ, Corte Especial | Nos casos de intimação/citação realizadas por Correio, Oficial de Justiça, ou por Carta de Ordem, Precatória ou Rogatória, o prazo recursal inicia-se com a juntada aos autos do aviso de recebimento, do mandado cumprido, ou da junt… | 230; 231 | Trânsito em Julgado |
 | ADI | 5737 e 5492 (julgamento conjunto) | STF, Plenário | Contraditório diferido, e não suprimido, nos arts. 9º, parágrafo único, II, e 311, parágrafo único | 311, parágrafo único (e 9º, 15, 46, 52, 75, 242, entre outros) | Julgado em 24/04/2023 |
 | Recurso repetitivo (Tema) | 692 | STJ, Primeira Seção | Reforma da tutela antecipada obriga a devolver benefícios previdenciários ou assistenciais recebidos, com desconto de até 30% e liquidação nos mesmos autos | 297, parágrafo único; 302; 520, II | Trânsito em julgado (revisão julgada em 11/05/2022) |
@@ -267,6 +286,13 @@ As fontes desta pesquisa são exclusivamente a legislação e a jurisprudência,
 
 **Art. 2º** O processo começa por iniciativa da parte e se desenvolve por impulso oficial, salvo as exceções previstas em lei.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — inércia da jurisdição e decisão extra petita | REsp 2.270.544, Segunda Turma, relator Min. Teodoro Silva Santos, julgado em 12/08/2026 | O processo começa por iniciativa da parte (art. 2º); a determinação judicial, em embargos de declaração, para receber a exceção de pré-executividade como embargos à execução, sem pedido da parte, instauraria nova relação processual por determinação judicial e configura decisão extra petita. |
+| Art. 2º, caput, parte final (impulso oficial) (aplicação narrada) | REsp 2.264.854, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 25/05/2026 | O abandono da causa pressupõe a desídia do demandante, que deixa de praticar ou cumprir diligências indispensáveis ao andamento do processo. No caso, a ausência de manifestação quanto à réplica e à produção de provas não configurou óbice intransponível, de modo que prevaleceu o impulso oficial e a primazia do julgamento de mérito, com cassação do acórdão que mantivera a extinção. Trecho: “Na espécie, a ausência de manifestação quanto à réplica e à produção de provas não configurou óbice intransponível, devendo prevalecer o impulso oficial e a primazia do julgamento de mérito, impondo a cassação do acórdão recorrido.” |
+
 ###### Art. 3º
 
 **Art. 3º** Não se excluirá da apreciação jurisdicional ameaça ou lesão a direito.
@@ -288,9 +314,21 @@ As fontes desta pesquisa são exclusivamente a legislação e a jurisprudência,
 
 **Art. 4º** As partes têm o direito de obter em prazo razoável a solução integral do mérito, incluída a atividade satisfativa.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — direito à solução integral do mérito em prazo razoável (aplicação narrada) | AREsp 3.163.394, Segunda Turma, relator Min. Francisco Falcão, julgado em 18/08/2026 | Pendente controvérsia sobre parcela de depósito judicial, a manutenção do valor excedente sob custódia judicial vinculada ao mandado de segurança foi justificada como providência que privilegia a efetividade e a razoável duração do processo, evitando que a parte fosse submetida ao regime de precatórios para reaver quantia cuja legitimidade ainda se discute. Trecho: “A providência de manter o montante excedente sob custódia judicial vinculada ao mandado de segurança privilegia os princípios da cooperação, efetividade, eficiência razoável duração do processo e razoabilidade, atendendo às exigências do bem comum (arts. 4º, 6º e 8º do CPC/2015).” |
+
 ###### Art. 5º
 
 **Art. 5º** Aquele que de qualquer forma participa do processo deve comportar-se de acordo com a boa-fé.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — boa-fé objetiva | AREsp 1.914.617, Quarta Turma, relator Min. Raul Araújo, julgado em 01/06/2026 | A aplicação da penalidade por litigância de má-fé exige a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmite regular do processo ou de causar prejuízo à parte contrária. |
 
 ###### Art. 6º
 
@@ -302,6 +340,7 @@ As fontes desta pesquisa são exclusivamente a legislação e a jurisprudência,
 |---|---|---|
 | Art. 6º (colaboração e boa-fé); art. 17 (interesse de agir) | Tema Repetitivo 1124, REsp 1.913.152, Primeira Seção, relatora Min. Maria Thereza de Assis Moura, julgado em 08/10/2025, Diário de Justiça Eletrônico Nacional (DJEN) de 06/11/2025 | A atuação cooperativa entre o segurado e a Administração orienta o interesse de agir na ação previdenciária. O segurado deve apresentar requerimento administrativo apto, com documentação minimamente suficiente; o indeferimento forçado, ou a omissão em complementar a documentação depois de intimado, impede o reconhecimento do interesse de agir. Se o requerimento veio com documentação apta ao seu conhecimento, embora insuficiente, o INSS deve intimar o segurado a complementá-la; não o fazendo, o interesse de agir está configurado. |
 | Art. 6º (cooperação e boa-fé); arts. 77 e 80 (litigância abusiva) | Tema Repetitivo 1198, REsp 2.021.665, Corte Especial, relator Min. Moura Ribeiro, julgado em 13/03/2025, DJEN de 11/06/2026 | Constatados indícios de litigância abusiva, o juiz pode exigir, de modo fundamentado e com observância da razoabilidade do caso concreto, a emenda da petição inicial para demonstrar o interesse de agir e a autenticidade da postulação, respeitadas as regras de distribuição do ônus da prova. |
+| Caput — limites do dever de cooperação (dever de auxílio) | REsp 2.224.132, Terceira Turma, relator Min. Ricardo Villas Bôas Cueva, julgado em 16/06/2026 | O princípio da cooperação, na vertente do dever de auxílio, não impõe ao magistrado o dever de suprir a deficiência probatória da parte nem de assumir ônus que incumbem ao credor, especialmente quando este dispõe de meios para obter as informações necessárias. |
 
 ###### Art. 7º
 
@@ -311,11 +350,17 @@ As fontes desta pesquisa são exclusivamente a legislação e a jurisprudência,
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
-| Art. 7º (paridade de tratamento); art. 183 | ADI 5.814, Tribunal Pleno, relator Min. Roberto Barroso, julgado em 06/02/2019 **[Repositório externo]** | As prerrogativas processuais dos entes públicos, como o prazo recursal em dobro e a intimação pessoal, não se aplicam aos processos de controle abstrato de constitucionalidade. Agravo regimental desprovido por maioria. |
+| Art. 7º (paridade de tratamento); art. 183 | ADI 5.814, Tribunal Pleno, relator Min. Roberto Barroso, julgado em 06/02/2019 | As prerrogativas processuais dos entes públicos, como o prazo recursal em dobro e a intimação pessoal, não se aplicam aos processos de controle abstrato de constitucionalidade. Agravo regimental desprovido por maioria. |
 
 ###### Art. 8º
 
 **Art. 8º** Ao aplicar o ordenamento jurídico, o juiz atenderá aos fins sociais e às exigências do bem comum, resguardando e promovendo a dignidade da pessoa humana e observando a proporcionalidade, a razoabilidade, a legalidade, a publicidade e a eficiência.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — proporcionalidade e razoabilidade na medida executiva atípica | REsp 1.996.081, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 16/03/2026 | A adoção de medidas executivas atípicas do art. 139, IV, é possível quando fundamentada, após o esgotamento dos meios típicos e observadas a proporcionalidade e a razoabilidade exigidas pelo art. 8º; a revisão da necessidade e da proporcionalidade da medida no caso concreto exige reexame de provas, vedado pela Súmula 7 do STJ. |
 
 ###### Art. 9º
 
@@ -426,7 +471,7 @@ II - se enquadrar na hipótese do art. 1.040, inciso II.
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
-| Art. 15 (aplicação supletiva e subsidiária) | ADI 5737 e ADI 5492, Tribunal Pleno, relator Min. Dias Toffoli, redator para o acórdão Min. Roberto Barroso, sessão virtual de 14 a 24/04/2023 | O art. 15 não cerceia a capacidade de os entes federados se organizarem e estabelecerem ritos e regras para seus processos administrativos. O Código só se aplica a eles, de forma supletiva e subsidiária, se houver omissão legislativa. |
+| Art. 15 (aplicação supletiva e subsidiária) (aplicação narrada) | ADI 5737 e ADI 5492, Tribunal Pleno, relator Min. Dias Toffoli, redator para o acórdão Min. Roberto Barroso, sessão virtual de 14 a 24/04/2023 | O art. 15 não cerceia a capacidade de os entes federados se organizarem e estabelecerem ritos e regras para seus processos administrativos. O Código só se aplica a eles, de forma supletiva e subsidiária, se houver omissão legislativa. Trecho: “O código somente será aplicável aos processos administrativos das demais entidades federativas de forma supletiva e subsidiária, caso haja omissão legislativa.” |
 
 ## Livro II: da função jurisdicional (arts. 16 a 69)
 
@@ -454,6 +499,13 @@ II - se enquadrar na hipótese do art. 1.040, inciso II.
 
 Parágrafo único. Havendo substituição processual, o substituído poderá intervir como assistente litisconsorcial.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Art. 18, caput (vedação de pleitear direito alheio em nome próprio) (aplicação narrada) | RMS 79.162, Segunda Turma, relator Min. Teodoro Silva Santos, julgado em 12/08/2026 | O licitante classificado em quarto lugar detém apenas expectativa de direito e não pode pleitear, em nome próprio, a inabilitação de concorrente que o antecede: a legitimidade para postular a substituição do vencedor mediante desclassificação restringe-se, em tese, ao concorrente imediatamente subsequente, sob pena de ofensa ao art. 18. Trecho: “A legitimidade para pleitear a substituição do vencedor mediante sua desclassificação, em tese, restringe-se ao concorrente imediatamente subsequente.” |
+| Caput — locatário e direito do locador | EREsp 1.630.199, Quarta Turma, relator Min. Antonio Carlos Ferreira, DJe de 10/08/2021 | Nos termos do art. 18, ninguém pode pleitear direito alheio em nome próprio sem autorização legal: não há norma que confira ao locatário legitimidade para atuar em juízo na defesa dos interesses do condômino locador, nem para ajuizar ação contra o condomínio questionando o descumprimento de regra estatutária, pois o vínculo da locação é entre inquilino e locador. |
+
 ###### Art. 19
 
 **Art. 19.** O interesse do autor pode limitar-se à declaração:
@@ -461,6 +513,12 @@ Parágrafo único. Havendo substituição processual, o substituído poderá int
 I - da existência, da inexistência ou do modo de ser de uma relação jurídica;
 
 II - da autenticidade ou da falsidade de documento.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput e I — ação declaratória e interesse meramente reflexo de terceiro | REsp 2.196.099, Terceira Turma, relator Min. Moura Ribeiro, julgado em 08/06/2026 | Em ação meramente declaratória de união estável post mortem, não há relação jurídica de direito material entre o convivente supérstite e os colaterais que imponha julgamento uniforme; o interesse destes é apenas reflexo e patrimonial, admitindo-se, se o caso, a intervenção como assistentes simples do espólio. |
 
 ###### Art. 20
 
@@ -492,6 +550,7 @@ Parágrafo único. Para o fim do disposto no inciso I, considera-se domiciliada 
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
+| Caput — competência concorrente e limites da carta rogatória | AgInt nos EDcl na CR 20.634, Corte Especial, relator Min. Herman Benjamin, julgado em 18/08/2026, DJEN de 21/08/2026 | O art. 21 do CPC diz respeito à competência concorrente ou relativa; processo estrangeiro sobre execução civil não invade a soberania nacional nem se enquadra nas hipóteses de competência exclusiva do art. 23, e o debate sobre a competência da justiça rogante extrapola os limites cognitivos da carta rogatória. |
 | Art. 21 (competência concorrente da justiça brasileira e da estrangeira) | HDE 6.527, Corte Especial, relator Min. Francisco Falcão, julgado em 21/06/2023, DJe de 26/06/2023 | Na competência concorrente, a citação no processo estrangeiro pode ser verificada pela efetiva atuação da requerida no processo. A chancela consular ou o apostilamento é dispensada quando convênio de cooperação judiciária assim prevê (no caso, o convênio entre o Brasil e a Espanha, promulgado pelo Decreto 166/1991). |
 | Art. 21 (sentença arbitral estrangeira) | SEC 7.009, Corte Especial, relator Min. Francisco Falcão, julgado em 15/08/2018, DJe de 28/08/2018 | A sentença arbitral estrangeira é título executivo judicial e pode ser homologada no Brasil (art. 515, VII). Estando a matéria no rol do art. 21, seu conhecimento é de competência concorrente entre a jurisdição brasileira e a estrangeira. |
 
@@ -509,6 +568,12 @@ II - decorrentes de relações de consumo, quando o consumidor tiver domicílio 
 
 III - em que as partes, expressa ou tacitamente, se submeterem à jurisdição nacional.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Inciso I — alimentos e vínculos no Brasil | AgInt nos EDcl na HDE 11.520, Corte Especial, relator Min. Luis Felipe Salomão, julgado em 09/06/2026 | Compete à autoridade judiciária brasileira processar e julgar as ações de alimentos quando o réu mantiver vínculos no Brasil, tais como posse ou propriedade de bens, recebimento de renda ou obtenção de benefícios econômicos (art. 22, I, "b"); a jurisdição brasileira é concorrente com a estrangeira, e o ajuizamento de ação no Brasil não inviabiliza, por si só, a homologação de sentença estrangeira sobre a mesma matéria. |
+
 ###### Art. 23
 
 **Art. 23.** Compete à autoridade judiciária brasileira, com exclusão de qualquer outra:
@@ -524,6 +589,7 @@ III - em divórcio, separação judicial ou dissolução de união estável, pro
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Art. 23 (competência exclusiva; divórcio e partilha de bens) | HDE 11.889, Corte Especial, relator Min. Raul Araújo, julgado em 03/06/2026, DJEN de 12/06/2026 | É devida a homologação da sentença estrangeira de divórcio, com acordo das partes sobre a partilha de bens, quando atendidos os requisitos dos arts. 963 e 964 do CPC e dos arts. 216-C e 216-D do Regimento Interno do Superior Tribunal de Justiça, sem ofensa à soberania nacional, à dignidade da pessoa humana e à ordem pública. |
+| II — jurisdição exclusiva sobre sucessão de bens situados no Brasil | HDE 11.278, Corte Especial, relator Min. Francisco Falcão, julgado em 12/05/2026, DJEN de 15/05/2026 | A sucessão causa mortis de bens situados no território nacional submete-se à jurisdição internacional exclusiva da autoridade judiciária brasileira (art. 23, II), ainda que o autor da herança seja estrangeiro ou domiciliado no exterior, sendo inviável homologar título estrangeiro que disponha, ainda que indiretamente, sobre inventário, partilha ou transmissão desses bens. |
 | Art. 23, II (inventário e partilha; disposições de última vontade) | HDE 966, Corte Especial, relatora Min. Nancy Andrighi, julgado em 07/10/2020, DJe de 16/10/2020 | Pode ser homologada a sentença estrangeira, de cunho essencialmente declaratório, sobre a validade das disposições de última vontade que não dispõe sobre sucessão, vocação hereditária e partilha de bens no Brasil. O juízo do inventário decide sobre a situação dos bens situados no Brasil, observada a legislação nacional. |
 
 ###### Art. 24
@@ -603,6 +669,13 @@ V - assistência jurídica internacional;
 
 VI - qualquer outra medida judicial ou extrajudicial não proibida pela lei brasileira.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Art. 27, II (colheita de provas na cooperação jurídica internacional) (aplicação narrada) | AgInt na CR 22.011, Corte Especial, relator Min. Herman Benjamin, julgado em 19/08/2026, DJEN de 21/08/2026 | Na colheita de provas em cumprimento de decisão judicial estrangeira é admissível o rito do contraditório diferido em carta rogatória, sujeita ao juízo de delibação do Superior Tribunal de Justiça para a concessão do exequatur; a providência não ofende a soberania nacional, a dignidade da pessoa humana nem a ordem pública. Trecho: “Compete ao Superior Tribunal de Justiça emitir juízo de delibação acerca da concessão de exequatur à Carta Rogatória que não ofenda a soberania nacional, a dignidade da pessoa humana e/ou a ordem pública.” |
+| Caput — distinção entre auxílio direto e carta rogatória | AgInt na CR 21.916, Corte Especial, relator Min. Herman Benjamin, julgado em 23/09/2025, DJEN de 29/09/2025 | O auxílio direto tem natureza distinta da carta rogatória: cabe auxílio direto quando a medida não decorrer diretamente de decisão de autoridade jurisdicional estrangeira, e a carta rogatória é utilizada no cumprimento de decisão jurisdicional estrangeira, com juízo de delibação do Superior Tribunal de Justiça. A produção de provas em cumprimento de decisão judicial estrangeira é admissível em carta rogatória. |
+
 ##### Seção II: do auxílio direto (arts. 28 a 34)
 
 ###### Art. 28
@@ -643,6 +716,12 @@ III - qualquer outra medida judicial ou extrajudicial não proibida pela lei bra
 
 Parágrafo único. O Ministério Público requererá em juízo a medida solicitada quando for autoridade central.
 
+###### Jurisprudência do Supremo Tribunal Federal
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — auxílio direto e atuação do Ministério Público (orientação de aplicação) | Pet 5946, Primeira Turma, relator Min. Marco Aurélio, julgado em 16/08/2016 | O pedido de cooperação jurídica internacional na modalidade de auxílio direto tem natureza distinta da carta rogatória; cabendo auxílio direto, a oitiva de preso para fins de extradição é dirigida ao Ministério Público como autoridade central, sem necessidade de exequatur. |
+
 ###### Art. 34
 
 **Art. 34.** Compete ao juízo federal do lugar em que deva ser executada a medida apreciar pedido de auxílio direto passivo que demande prestação de atividade jurisdicional.
@@ -661,6 +740,18 @@ Parágrafo único. O Ministério Público requererá em juízo a medida solicita
 
 § 2º Em qualquer hipótese, é vedada a revisão do mérito do pronunciamento judicial estrangeiro pela autoridade judiciária brasileira.
 
+###### Jurisprudência do Supremo Tribunal Federal
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — procedimento da carta rogatória perante o Superior Tribunal de Justiça | RE 634595, Segunda Turma, relator Min. Dias Toffoli, julgado em 03/04/2018 (Informativo 896) | É possível a concessão de exequatur de carta rogatória, para fins de citação, por decisão monocrática do relator no Superior Tribunal de Justiça, posteriormente confirmada pela Corte Especial, em homenagem aos princípios da cooperação e da celeridade processual; o juízo do Superior Tribunal de Justiça é de delibação e se limita à análise dos requisitos formais da decisão estrangeira. |
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| § 1º — limites da defesa no juízo de delibação | AgInt no CR 19.637, Corte Especial, relator Min. Herman Benjamin, DJe de 25/03/2025 | A defesa em carta rogatória restringe-se à autenticidade dos documentos, à inteligência da decisão e à observância dos requisitos legais; o Superior Tribunal de Justiça exerce juízo meramente de delibação, e questões de mérito e a regularidade da citação no processo estrangeiro não podem ser ali examinadas. |
+
 ##### Seção IV: disposições comuns às seções anteriores (arts. 37 a 41)
 
 ###### Art. 37
@@ -675,15 +766,33 @@ Parágrafo único. O Ministério Público requererá em juízo a medida solicita
 
 **Art. 39.** O pedido passivo de cooperação jurídica internacional será recusado se configurar manifesta ofensa à ordem pública.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — recusa por ofensa à ordem pública | AgInt na CR 22.011, Corte Especial, relator Min. Herman Benjamin, julgado em 19/08/2026, DJEN de 21/08/2026 | Compete ao Superior Tribunal de Justiça emitir juízo meramente de delibação sobre a carta rogatória, concedendo o exequatur quando o ato não ofenda a soberania nacional, a dignidade da pessoa humana nem a ordem pública. |
+
 ###### Art. 40
 
 **Art. 40.** A cooperação jurídica internacional para execução de decisão estrangeira dar-se-á por meio de carta rogatória ou de ação de homologação de sentença estrangeira, de acordo com o art. 960.
+
+###### Jurisprudência do Supremo Tribunal Federal
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — auxílio direto e dispensa da carta rogatória (orientação de aplicação) | Pet 5946, Primeira Turma, relator Min. Marco Aurélio, julgado em 16/08/2016 | Cabe auxílio direto quando a medida não decorrer diretamente de decisão de autoridade jurisdicional estrangeira sujeita a juízo de delibação no Brasil; nessa hipótese, dispensa-se a carta rogatória. |
 
 ###### Art. 41
 
 **Art. 41.** Considera-se autêntico o documento que instruir pedido de cooperação jurídica internacional, inclusive tradução para a língua portuguesa, quando encaminhado ao Estado brasileiro por meio de autoridade central ou por via diplomática, dispensando-se ajuramentação, autenticação ou qualquer procedimento de legalização.
 
 Parágrafo único. O disposto no caput não impede, quando necessária, a aplicação pelo Estado brasileiro do princípio da reciprocidade de tratamento.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — dispensa de tradução juramentada | AREsp 2.554.171, Quarta Turma, relator Min. Antonio Carlos Ferreira, julgado em 04/05/2026 | A tradução juramentada de documentos em idioma estrangeiro não é obrigatória para a eficácia e a validade da prova. |
 
 ### Título III: da competência interna (arts. 42 a 69)
 
@@ -694,6 +803,12 @@ Parágrafo único. O disposto no caput não impede, quando necessária, a aplica
 ###### Art. 42
 
 **Art. 42.** As causas cíveis serão processadas e decididas pelo juiz nos limites de sua competência, ressalvado às partes o direito de instituir juízo arbitral, na forma da lei.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — competência do juízo arbitral para examinar a própria cláusula | AgInt no AREsp 1.197.814, Quarta Turma, relator Min. Raul Araújo, julgado em 25/06/2019, DJe de 01/07/2019 | Cabe ao juízo arbitral analisar a própria existência, validade e eficácia da cláusula compromissória, inclusive os limites de sua aplicação; não compete ao Judiciário aferir se o pedido está abrangido pela cláusula, o que impõe a extinção do feito sem resolução do mérito. |
 
 ###### Art. 43
 
@@ -708,7 +823,7 @@ Parágrafo único. O disposto no caput não impede, quando necessária, a aplica
 
 ###### Art. 44
 
-**Art. 44.** Obedecidos os limites estabelecidos pela Constituição Federal, a competência é determinada pelas normas previstas neste Código ou em legislação especial, pelas normas de organização judiciária e, ainda, no que couber, pelas constituições dos Estados.
+**Art. 44.** Obedecidos os limites estabelecidos pela Constituição Federal (CF), a competência é determinada pelas normas previstas neste Código ou em legislação especial, pelas normas de organização judiciária e, ainda, no que couber, pelas constituições dos Estados.
 
 ###### Art. 45
 
@@ -771,6 +886,13 @@ II - sujeitas à justiça eleitoral e à justiça do trabalho.
 
 § 2º A ação possessória imobiliária será proposta no foro de situação da coisa, cujo juízo tem competência absoluta.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — foro da situação da coisa | AREsp 2.434.964, Quarta Turma, relator Min. Raul Araújo, julgado em 16/03/2026 | A ação que busca anular escritura pública de cessão de direitos possessórios, quando tem como pano de fundo a disputa pela posse e pela titularidade de direito real sobre o imóvel, atrai a competência absoluta do foro da situação da coisa (art. 47, caput). |
+| Art. 47, caput e § 1º (foro da situação da coisa; ações pessoais) (aplicação narrada) | AREsp 1.613.920, Terceira Turma, relator Min. Moura Ribeiro, julgado em 16/03/2026 | O foro da situação da coisa restringe-se às ações fundadas em direito real sobre imóveis e às possessórias. Nas ações de natureza pessoal, havendo pluralidade de réus com domicílios distintos, a competência é do foro de qualquer deles, à escolha do autor (art. 46, § 4º), sendo inaplicável a regra do art. 47; as regras de competência territorial não podem ser alteradas por juízo de conveniência do magistrado quanto à facilitação da instrução probatória. Trecho: “Nas ações de natureza pessoal, havendo pluralidade de réus com domicílios distintos, a competência é fixada no foro de qualquer um deles, por escolha do autor, nos termos do art.” |
+
 ###### Art. 48
 
 **Art. 48.** O foro de domicílio do autor da herança, no Brasil, é o competente para o inventário, a partilha, a arrecadação, o cumprimento de disposições de última vontade, a impugnação ou anulação de partilha extrajudicial e para todas as ações em que o espólio for réu, ainda que o óbito tenha ocorrido no estrangeiro.
@@ -782,6 +904,12 @@ I - o foro de situação dos bens imóveis;
 II - havendo bens imóveis em foros diferentes, qualquer destes;
 
 III - não havendo bens imóveis, o foro do local de qualquer dos bens do espólio.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — foro do último domicílio do autor da herança | AREsp 3.029.990, Terceira Turma, relator Min. Moura Ribeiro, julgado em 01/06/2026 | No direito sucessório, a competência é determinada pelo último domicílio do de cujus (art. 48 do CPC e art. 1.785 do Código Civil); domicílio não se confunde com mera residência, exigindo a concomitância do elemento objetivo (habitação) e do subjetivo (animus manendi). |
 
 ###### Art. 49
 
@@ -865,6 +993,12 @@ V - de domicílio do autor ou do local do fato, para a ação de reparação de 
 
 **Art. 54.** A competência relativa poderá modificar-se pela conexão ou pela continência, observado o disposto nesta Seção.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — modificação da competência relativa pela conexão e pela continência — orientação de aplicação (aplicação narrada) | AgInt no CC 202.644, Primeira Seção, relatora Min. Maria Thereza de Assis Moura, julgado em 11/03/2026 | Em ações civis públicas de âmbito nacional ou regional, a reunião de processos por conexão ou continência não se submete à Súmula 235 do STJ, e a competência fixa-se pela prevenção, no juízo que primeiro conheceu de uma delas, conforme a tese do Tema 1.075 do STF. Trecho: “A competência para julgamento de ações civis públicas de âmbito nacional ou regional deve ser fixada no juízo que primeiro conheceu de uma delas, conforme a tese fixada pelo STF no Tema 1075.” |
+
 ###### Art. 55
 
 **Art. 55.** Reputam-se conexas 2 (duas) ou mais ações quando lhes for comum o pedido ou a causa de pedir.
@@ -907,6 +1041,12 @@ II - às execuções fundadas no mesmo título executivo.
 
 **Art. 57.** Quando houver continência e a ação continente tiver sido proposta anteriormente, no processo relativo à ação contida será proferida sentença sem resolução de mérito, caso contrário, as ações serão necessariamente reunidas.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — continência e reunião dos processos | REsp 2.131.408, Terceira Turma, relator Min. Ricardo Villas Bôas Cueva, julgado em 07/04/2026 | Caracterizada a continência entre as demandas, a regra do art. 57 impõe, em princípio, a reunião dos processos, e não a extinção da demanda proposta em primeiro lugar. |
+
 ###### Art. 58
 
 **Art. 58.** A reunião das ações propostas em separado far-se-á no juízo prevento, onde serão decididas simultaneamente.
@@ -921,6 +1061,12 @@ II - às execuções fundadas no mesmo título executivo.
 
 **Art. 59.** O registro ou a distribuição da petição inicial torna prevento o juízo.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — prevenção não eliminada pelo cancelamento da distribuição | REsp 2.187.009, Terceira Turma, relator Min. Humberto Martins, julgado em 09/03/2026 | O cancelamento da distribuição por falta de pagamento das custas iniciais implica extinção do processo sem resolução do mérito, mas não elimina a prevenção do juízo onde a ação foi inicialmente distribuída. |
+
 ###### Art. 60
 
 **Art. 60.** Se o imóvel se achar situado em mais de um Estado, comarca, seção ou subseção judiciária, a competência territorial do juízo prevento estender-se-á sobre a totalidade do imóvel.
@@ -929,9 +1075,21 @@ II - às execuções fundadas no mesmo título executivo.
 
 **Art. 61.** A ação acessória será proposta no juízo competente para a ação principal.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — ação acessória no juízo da ação principal (aplicação narrada) | AgInt no REsp 2.206.431, Segunda Turma, relatora Min. Maria Thereza de Assis Moura | A ação anulatória de acordo extrajudicial homologado em segundo grau deve ser proposta e processada no juízo da ação principal, tal como decidiu o tribunal de origem ao aplicar o art. 61; a homologação da transação em fase recursal não desloca a competência para o tribunal. Trecho: “A ação ordinária principal, in casu, foi ajuizada perante a Vara Única de Brasilândia/MS, juízo onde deve tramitar a ação anulatória.” |
+
 ###### Art. 62
 
 **Art. 62.** A competência determinada em razão da matéria, da pessoa ou da função é inderrogável por convenção das partes.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — competência absoluta e ausência de preclusão | EDcl no AgInt no REsp 2.187.071, Quarta Turma, relator Min. Luís Carlos Gambogi (Desembargador Convocado do Tjmg), julgado em 12/08/2026 | Nos termos do Tema 1.011 do STF, a competência absoluta, por ser matéria de ordem pública, não se sujeita à preclusão. |
 
 ###### Art. 63
 
@@ -946,6 +1104,14 @@ II - às execuções fundadas no mesmo título executivo.
 § 4º Citado, incumbe ao réu alegar a abusividade da cláusula de eleição de foro na contestação, sob pena de preclusão.
 
 § 5º O ajuizamento de ação em juízo aleatório, entendido como aquele sem vinculação com o domicílio ou a residência das partes ou com o negócio jurídico discutido na demanda, constitui prática abusiva que justifica a declinação de competência de ofício. (Incluído pela Lei nº 14.879/2024)
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — eleição de foro e declinação de ofício | CC 213.886, Segunda Seção, relatora Min. Daniela Teixeira, DJe de 15/09/2025 | A nova redação do art. 63, dada pela Lei 14.879/2024, permite a declinação de ofício da competência apenas quando o foro de eleição for aleatório ou abusivo; fora dessas hipóteses, a competência relativa não se declina de ofício (Súmula 33 do Superior Tribunal de Justiça). |
+| § 3º — cláusula abusiva e remessa de ofício | REsp 2.249.200, Quarta Turma, relator Min. Antonio Carlos Ferreira, julgado em 12/08/2026 | O art. 63, § 3º, autoriza o afastamento de ofício da cláusula de eleição de foro abusiva, com remessa dos autos ao foro de domicílio do réu; a natureza relativa da competência territorial (Súmula 33/STJ) não impede a atuação judicial, mas a abusividade exige demonstração de vulnerabilidade técnica e financeira e de prejuízo ao exercício da defesa, não se presumindo. |
+| § 3º — foro de eleição em relação de consumo | AgInt nos EDcl no AREsp 2.153.668, Quarta Turma, relatora Min. Maria Isabel Gallotti, julgado em 04/05/2026 | Nas ações propostas pelo fornecedor de bens ou serviços contra o consumidor, não prevalece o foro de eleição nem o da prática do ato quando prejudicial à defesa, mas o do domicílio do réu: é competência absoluta, cognoscível de ofício, na forma do art. 63, § 3º. |
 
 ##### Seção III: da incompetência (arts. 64 a 66)
 
@@ -979,6 +1145,12 @@ II - às execuções fundadas no mesmo título executivo.
 
 Parágrafo único. A incompetência relativa pode ser alegada pelo Ministério Público nas causas em que atuar.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — prorrogação da competência relativa e vedação de declinação de ofício | CC 218.817, Primeira Seção, relator Min. Teodoro Silva Santos, julgado em 16/06/2026 | A competência territorial, de natureza relativa, prorroga-se quando não arguida no momento oportuno (art. 65), operando-se a preclusão, inclusive pro judicato, com a estabilização da jurisdição; a incompetência relativa não pode ser declarada de ofício (Súmula 33 do STJ). |
+
 ###### Art. 66
 
 **Art. 66.** Há conflito de competência quando:
@@ -1004,6 +1176,12 @@ Parágrafo único. O juiz que não acolher a competência declinada deverá susc
 ###### Art. 67
 
 **Art. 67.** Aos órgãos do Poder Judiciário, estadual ou federal, especializado ou comum, em todas as instâncias e graus de jurisdição, inclusive aos tribunais superiores, incumbe o dever de recíproca cooperação, por meio de seus magistrados e servidores.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — dever de recíproca cooperação entre os órgãos do Poder Judiciário (aplicação narrada) | AgInt no AREsp 3.023.882, Segunda Turma, relator Min. Marco Aurélio Bellizze, julgado em 24/06/2026 | O juízo da execução fiscal pode determinar a constrição de bens da empresa em recuperação judicial, mas, por dever de cooperação, deve comunicar a medida ao juízo da recuperação, a quem cabe controlar a essencialidade dos bens de capital e eventual substituição. Trecho: “Os atos de constrição podem ser determinados pelo juízo da execução, que, por dever de cooperação, deve comunicar a medida ao juízo da recuperação para que este exerça o controle sobre a essencialidade dos bens de capital, podendo determinar sua substituição.” |
 
 ###### Art. 68
 
@@ -1041,6 +1219,12 @@ VII - a execução de decisão jurisdicional.
 
 § 3º O pedido de cooperação judiciária pode ser realizado entre órgãos jurisdicionais de diferentes ramos do Poder Judiciário.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — pedido de cooperação jurisdicional (aplicação narrada) | REsp 2.229.257, Terceira Turma, relator Min. Ricardo Villas Bôas Cueva, julgado em 09/02/2026, DJEN de 12/02/2026 | Na recuperação judicial, a substituição de constrição efetivada em execução fiscal sobre bens de capital essenciais é providência do juízo da recuperação, realizada mediante pedido de cooperação jurisdicional; valores em dinheiro não são bens de capital e não autorizam a substituição. Trecho: “se a constrição efetivada pelo Juízo da execução fiscal recair sobre bens de capital essenciais à manutenção da atividade empresarial, caberá ao Juízo da recuperação determinar a substituição por outros bens, providência que será realizada mediante pedido de cooperação jurisdicional.” |
+
 ## Livro III: dos sujeitos do processo (arts. 70 a 187)
 
 ### Título I: das partes e dos procuradores (arts. 70 a 112)
@@ -1050,6 +1234,13 @@ VII - a execução de decisão jurisdicional.
 ###### Art. 70
 
 **Art. 70.** Toda pessoa que se encontre no exercício de seus direitos tem capacidade para estar em juízo.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Art. 70 (capacidade de ser parte; extinção da pessoa jurídica) (aplicação narrada) | AgInt nos EDcl no REsp 1.722.693, Quarta Turma, relatora Min. Maria Isabel Gallotti, julgado em 22/06/2026 | O cancelamento da inscrição da sociedade empresária na Junta Comercial implica sua extinção e, por conseguinte, a ausência de capacidade para ser parte em juízo; a reativação posterior à propositura da ação não regulariza a capacidade processual inexistente na data do ajuizamento. Trecho: “O cancelamento da inscrição de sociedade empresária na Junta Comercial implica sua extinção e, por conseguinte, a ausência da capacidade para ser parte em juízo.” |
+| Caput — pessoa jurídica com baixa fiscal | REsp 2.154.502, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 09/02/2026, DJEN de 12/02/2026 | A baixa em cadastros fiscais, sem baixa definitiva na Junta Comercial, não extingue a personalidade jurídica nem afasta, por si só, a capacidade de estar em juízo (arts. 70 e 75, VIII e IX); não incide a Súmula 7/STJ quando a controvérsia é eminentemente jurídica sobre essa capacidade. |
 
 ###### Art. 71
 
@@ -1070,6 +1261,7 @@ Parágrafo único. A curatela especial será exercida pela Defensoria Pública, 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Art. 72, II (curador especial ao réu revel citado por edital ou com hora certa) | Súmula 196, Corte Especial, aprovada em 01/10/1997 (DJ de 09/10/1997) | Ao executado citado por edital ou por hora certa que permanecer revel nomeia-se curador especial, com legitimidade para apresentar embargos. Marco vigente de aplicação do dispositivo. |
+| II — curador especial do réu revel citado por edital | REsp 2.027.283, Quarta Turma, relatora Min. Maria Isabel Gallotti, julgado em 12/08/2026 | A atuação do curador especial nomeado ao réu revel citado por edital (art. 72, II) destina-se à preservação formal do contraditório e da ampla defesa, não se confundindo com resistência material ao pedido; a contestação por negativa geral não autoriza, por si, a imposição de custas e honorários à parte curatelada. |
 | Art. 72 (curador especial) | REsp 1.651.165, Terceira Turma, relatora Min. Nancy Andrighi, julgado em 19/09/2017, DJe de 26/09/2017 | Diante da incompatibilidade entre o exercício concomitante das funções de custos legis e de curador especial, não cabe ao Ministério Público exercer a curadoria especial; o múnus compete à Defensoria Pública. |
 
 ###### Art. 73
@@ -1162,6 +1354,14 @@ I - não conhecerá do recurso, se a providência couber ao recorrente;
 
 II - determinará o desentranhamento das contrarrazões, se a providência couber ao recorrido.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| § 2º, I — juntada intempestiva de procuração | AgRg no AREsp 3.132.410, Quinta Turma, relator Min. Joel Ilan Paciornik, julgado em 04/08/2026 | A ausência de procuração ou de cadeia completa de substabelecimento, não regularizada no prazo assinalado, impede o conhecimento do recurso (Súmula 115/STJ); a juntada posterior e intempestiva do instrumento não sana o vício. |
+| § 2º, I — intimação para regularizar e preclusão | AgInt no AREsp 3.110.344, Quinta Turma, relatora Min. Daniela Teixeira, julgado em 22/06/2026 | A intimação para regularizar a representação processual é oportunidade de saneamento do vício (arts. 76, § 2º, e 932, parágrafo único); não atendida no prazo, a preclusão temporal impede o conhecimento do recurso, pois o recurso interposto sem procuração é inexistente (Súmula 115/STJ). |
+| Caput — dever de saneamento e princípio da cooperação | AREsp 2.974.466, Quarta Turma, relator Min. Raul Araújo, julgado em 11/05/2026, DJEN de 15/05/2026 | Constatada incapacidade processual ou irregularidade de representação, o relator deve suspender o processo e designar prazo razoável para o saneamento (art. 76), sendo o não conhecimento do recurso medida residual, cabível apenas diante do descumprimento de ordem expressa de regularização; o princípio da cooperação impõe ao julgador indicar com exatidão a representação a ser sanada. |
+
 #### Capítulo II: dos deveres das partes e de seus procuradores (arts. 77 a 102)
 
 ##### Seção I: dos deveres (arts. 77 a 78)
@@ -1220,6 +1420,12 @@ VII - informar e manter atualizados seus dados cadastrais perante os órgãos do
 ###### Art. 79
 
 **Art. 79.** Responde por perdas e danos aquele que litigar de má-fé como autor, réu ou interveniente.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — orientação de aplicação (aplicação narrada) | REsp 2.092.572, Terceira Turma, relator Min. Ricardo Villas Bôas Cueva, julgado em 09/03/2026, DJe de 12/03/2026 | A jurisprudência desta Corte firmou posicionamento no sentido de que somente as partes (autor, réu ou interveniente) podem praticar o ato que se repute de má-fé, a teor do disposto nos artigos 79 e 80 do Código de Processo Civil, de modo que os danos eventualmente causados pela conduta do advogado deverão ser apurados em ação própria. Trecho: “A jurisprudência desta Corte firmou posicionamento no sentido de que somente as partes (autor, réu ou interveniente) podem praticar o ato que se repute de má-fé, a teor do disposto nos artigos 79 e 80 do Código de Processo Civil, de modo que os danos eventualmente causados pela conduta do advogado deverão ser apurados em ação própria.” |
 
 ###### Art. 80
 
@@ -1296,6 +1502,12 @@ III - na reconvenção.
 ###### Art. 84
 
 **Art. 84.** As despesas abrangem as custas dos atos do processo, a indenização de viagem, a remuneração do assistente técnico e a diária de testemunha.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — despesas estritamente processuais | REsp 2.120.455, Quarta Turma, relator Min. Antonio Carlos Ferreira, julgado em 11/05/2026 | Os arts. 84 e 95 restringem o dever de ressarcimento do vencido às despesas estritamente processuais — custas dos atos processuais, indenização de viagem, remuneração do assistente técnico e diária de testemunha —, que não se confundem com honorários contratuais nem com a remuneração de profissional contratado pela parte. |
 
 ###### Art. 85
 
@@ -1405,6 +1617,13 @@ IV - será considerado o salário-mínimo vigente quando prolatada sentença lí
 
 Parágrafo único. Se um litigante sucumbir em parte mínima do pedido, o outro responderá, por inteiro, pelas despesas e pelos honorários.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Art. 86, parágrafo único (sucumbência mínima) (aplicação narrada) | AREsp 3.068.822, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 01/06/2026 | Decaindo o litigante de parte mínima dos pedidos, aplica-se o art. 86, parágrafo único: reconhece-se a sucumbência mínima e impõe-se à parte adversa o pagamento integral das despesas e dos honorários, afastada a sucumbência recíproca. Trecho: “Decaindo a parte agravante de parte mínima dos pedidos, aplica-se o art.” |
+| Caput — procedência parcial e redistribuição proporcional | AgInt no AREsp 2.062.597, Quarta Turma, relatora Min. Maria Isabel Gallotti, DJe de 31/03/2023 | A procedência de apenas um dos três pedidos deduzidos na inicial configura sucumbência recíproca, com a redistribuição proporcional das custas e dos honorários entre as partes, nos termos do art. 86, caput. |
+
 ###### Art. 87
 
 **Art. 87.** Concorrendo diversos autores ou diversos réus, os vencidos respondem proporcionalmente pelas despesas e pelos honorários.
@@ -1412,6 +1631,13 @@ Parágrafo único. Se um litigante sucumbir em parte mínima do pedido, o outro 
 § 1º A sentença deverá distribuir entre os litisconsortes, de forma expressa, a responsabilidade proporcional pelo pagamento das verbas previstas no caput.
 
 § 2º Se a distribuição de que trata o § 1º não for feita, os vencidos responderão solidariamente pelas despesas e pelos honorários.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Art. 87, § 2º (solidariedade pela falta de distribuição expressa) | AREsp 3.128.009, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 12/08/2026 | A sentença deve distribuir de forma expressa, entre os litisconsortes vencidos, a responsabilidade proporcional pelas despesas e pelos honorários (art. 87, § 1º); não realizada essa distribuição, os vencidos respondem solidariamente pelas verbas sucumbenciais (art. 87, § 2º). |
+| Caput — rateio da sucumbência entre litisconsortes vencidos | AREsp 2.937.328, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 22/04/2026 | A distribuição das verbas de sucumbência entre litisconsortes vencidos decorre do art. 87 do CPC e não configura a solidariedade obrigacional dos arts. 264 e 265 do Código Civil. |
 
 ###### Art. 88
 
@@ -1433,6 +1659,13 @@ Parágrafo único. Se um litigante sucumbir em parte mínima do pedido, o outro 
 
 § 4º Se o réu reconhecer a procedência do pedido e, simultaneamente, cumprir integralmente a prestação reconhecida, os honorários serão reduzidos pela metade.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — honorários na desistência, renúncia ou reconhecimento | AgInt no ExeAR 6.369, Segunda Seção, relator Min. Ricardo Villas Bôas Cueva, DJe de 16/05/2024 | Proferida sentença com fundamento em desistência, renúncia ou reconhecimento do pedido, as despesas e os honorários são devidos pela parte que praticou o ato, por força do princípio da causalidade; a condenação subsiste quando a desistência vem aos autos somente depois de a parte contrária impugnar o cumprimento do julgado. |
+| Caput — desistência e honorários | AgInt no AREsp 2.792.284, Primeira Turma, relator Min. Gurgel de Faria, DJe de 06/05/2025 | A sentença fundada em desistência, renúncia ou reconhecimento do pedido condena a parte que desistiu, renunciou ou reconheceu ao pagamento das despesas processuais, na forma do art. 90. |
+
 ###### Art. 91
 
 **Art. 91.** As despesas dos atos processuais praticados a requerimento da Fazenda Pública, do Ministério Público ou da Defensoria Pública serão pagas ao final pelo vencido.
@@ -1440,6 +1673,12 @@ Parágrafo único. Se um litigante sucumbir em parte mínima do pedido, o outro 
 § 1º As perícias requeridas pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública poderão ser realizadas por entidade pública ou, havendo previsão orçamentária, ter os valores adiantados por aquele que requerer a prova.
 
 § 2º Não havendo previsão orçamentária no exercício financeiro para adiantamento dos honorários periciais, eles serão pagos no exercício seguinte ou ao final, pelo vencido, caso o processo se encerre antes do adiantamento a ser feito pelo ente público.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — despesas de atos requeridos pelo Ministério Público | AgInt no REsp 2.046.942, Primeira Turma, relator Min. Benedito Gonçalves, julgado em 20/11/2023, DJe de 22/11/2023 | O Ministério Público não adianta honorários periciais em ação civil pública: o encargo é transferido à Fazenda Pública (Tema 510 do Superior Tribunal de Justiça), na forma do art. 91. |
 
 ###### Art. 92
 
@@ -1476,6 +1715,7 @@ II - paga com recursos alocados no orçamento da União, do Estado ou do Distrit
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Art. 95, § 3º (honorários periciais; ação acidentária; beneficiário isento de ônus sucumbenciais) | Tema Repetitivo 1044, REsp 1.823.402, Primeira Seção, relatora Min. Assusete Magalhães, julgado em 21/10/2021, DJe de 25/10/2021 | Nas ações de acidente do trabalho, os honorários periciais, adiantados pelo INSS, constituirão despesa a cargo do Estado, nos casos em que sucumbente a parte autora, beneficiária da isenção de ônus sucumbenciais, prevista no parágrafo único do art. 129 da Lei 8.213/91. |
+| Caput — adiantamento dos honorários periciais | REsp 1.821.048, Terceira Turma, relatora Min. Nancy Andrighi, julgado em 27/08/2019, DJe de 29/08/2019 | A despesa de antecipação dos honorários periciais incumbe a quem requereu a prova técnica (art. 95, caput); o rateio do art. 603, § 1º, exige manifestação expressa e unânime de concordância com a dissolução parcial, ausente na hipótese. |
 
 ###### Art. 96
 
@@ -1556,6 +1796,7 @@ IX - os emolumentos devidos a notários ou registradores em decorrência da prá
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Art. 99 (pedido de gratuidade formulado em recurso) | REsp 2.241.508, Terceira Turma, relator Min. Ricardo Villas Bôas Cueva, julgado em 15/12/2025, DJEN de 18/12/2025 | Não se pode indeferir de plano o pedido de gratuidade da justiça formulado em recurso, sem abrir prazo ao requerente para comprovar a hipossuficiência, nem determinar de imediato o recolhimento em dobro do preparo. |
+| § 3º — presunção de insuficiência do menor | REsp 2.055.363, Terceira Turma, relatora Min. Nancy Andrighi, julgado em 13/06/2023, DJe de 23/06/2023 | A gratuidade é direito individual e personalíssimo: no pedido formulado por menor, incide inicialmente a presunção do art. 99, § 3º, e o benefício não se condiciona à comprovação da insuficiência de recursos dos genitores. |
 
 ###### Art. 100
 
@@ -1571,11 +1812,24 @@ Parágrafo único. Revogado o benefício, a parte arcará com as despesas proces
 
 § 2º Confirmada a denegação ou a revogação da gratuidade, o relator ou o órgão colegiado determinará ao recorrente o recolhimento das custas processuais, no prazo de 5 (cinco) dias, sob pena de não conhecimento do recurso.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| § 2º — exigibilidade do preparo | REsp 2.230.568, Terceira Turma, relator Min. Moura Ribeiro, julgado em 04/05/2026 | O preparo não é exigível enquanto pendente de confirmação colegiada o indeferimento da gratuidade proferido pelo relator; a exigência só se impõe após o julgamento do agravo interno ou o transcurso do prazo recursal sem sua interposição, na forma do art. 101, § 2º. |
+| § 2º — recolhimento do preparo e confirmação do indeferimento | REsp 2.246.112, Quarta Turma, relator Min. Raul Araújo, julgado em 30/03/2026, DJEN de 08/04/2026 | Quando o recurso versar sobre gratuidade de justiça no mérito, a determinação de recolhimento do preparo em cinco dias (art. 101, § 2º) só se admite após a confirmação do indeferimento da gratuidade pelo relator — pelo julgamento do agravo interno ou pelo decurso do prazo sem interposição. |
+
 ###### Art. 102
 
 **Art. 102.** Sobrevindo o trânsito em julgado de decisão que revoga a gratuidade, a parte deverá efetuar o recolhimento de todas as despesas de cujo adiantamento foi dispensada, inclusive as relativas ao recurso interposto, se houver, no prazo fixado pelo juiz, sem prejuízo de aplicação das sanções previstas em lei.
 
 Parágrafo único. Não efetuado o recolhimento, o processo será extinto sem resolução de mérito, tratando-se do autor, e, nos demais casos, não poderá ser deferida a realização de nenhum ato ou diligência requerida pela parte enquanto não efetuado o depósito.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Parágrafo único — extinção do processo por não recolhimento das despesas após a revogação da gratuidade (aplicação narrada) | AREsp 3.023.022, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 30/03/2026 | Revogada a gratuidade e não recolhidas as custas, a extinção do processo sem resolução do mérito foi afastada porque o prazo judicial de cinco dias desrespeitou os quinze dias do art. 290 do CPC e o recolhimento, ainda que intempestivo, ocorreu antes do cancelamento da distribuição, impondo-se o juízo de retratação do art. 485, § 7º. Trecho: “extinguiu o processo sem resolução do mérito por não recolhimento das custas no prazo assinalado após a revogação da gratuidade e condenou ao pagamento de custas e honorários de sucumbência.” |
 
 #### Capítulo III: dos procuradores (arts. 103 a 107)
 
@@ -1610,6 +1864,14 @@ Parágrafo único. É lícito à parte postular em causa própria quando tiver h
 § 3º Se o outorgado integrar sociedade de advogados, a procuração também deverá conter o nome dessa, seu número de registro na Ordem dos Advogados do Brasil e endereço completo.
 
 § 4º Salvo disposição expressa em sentido contrário constante do próprio instrumento, a procuração outorgada na fase de conhecimento é eficaz para todas as fases do processo, inclusive para o cumprimento de sentença.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — procuração geral para o foro | REsp 2.259.176, Terceira Turma, relatora Min. Nancy Andrighi, julgado em 16/06/2026 | A procuração geral para o foro habilita o advogado a praticar todos os atos do processo; a outorga simultânea de poderes extrajudiciais, ainda que descrita como finalidade "especial" ou "principal", não limita a atuação judicial, e a exigência de nova procuração só cabe em hipótese excepcional e fundamentada. |
+| Caput — mandato genérico e poder de cautela | REsp 2.232.532, Terceira Turma, relator Min. Moura Ribeiro, julgado em 04/05/2026 | A procuração geral habilita o advogado a praticar todos os atos do processo, ressalvados os que exigem poderes específicos; diante de mandato genérico e da distribuição de múltiplas ações com o mesmo instrumento, a exigência de procuração específica é exercício legítimo do poder geral de cautela (art. 139, VIII), sem ofensa ao art. 105. |
+| Caput — identificação do representante legal na procuração | AgInt no AREsp 2.230.102, Terceira Turma, relator Min. Humberto Martins, julgado em 21/08/2023, DJe de 24/08/2023 | É necessária a identificação do representante legal da pessoa jurídica no instrumento de procuração, sob pena de deficiência na representação processual (Súmula 115/STJ); a dispensa da juntada dos atos constitutivos só vale quando não houver dúvida fundada sobre a validade da representação, e não se aplica ao caso em que não há sequer identificação do subscritor. |
 
 ###### Art. 106
 
@@ -1659,6 +1921,12 @@ III - retirar os autos do cartório ou da secretaria, pelo prazo legal, sempre q
 
 § 3º Estendem-se os efeitos da sentença proferida entre as partes originárias ao adquirente ou cessionário.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| § 3º — adquirente de coisa litigiosa e extensão da sentença | REsp 2.224.697, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 09/03/2026, DJEN de 12/03/2026 | Aplica-se o art. 109, § 3º, ao adquirente de coisa litigiosa independentemente de má-fé ou de registro, e a Súmula 375/STJ não se aplica quando a discussão recai sobre a extensão objetiva da sentença na alienação de coisa litigiosa; a análise fática da impenhorabilidade do bem de família esbarra na Súmula 7/STJ. |
+
 ###### Art. 110
 
 **Art. 110.** Ocorrendo a morte de qualquer das partes, dar-se-á a sucessão pelo seu espólio ou pelos seus sucessores, observado o disposto no art. 313, §§ 1º e 2º.
@@ -1675,6 +1943,12 @@ III - retirar os autos do cartório ou da secretaria, pelo prazo legal, sempre q
 
 Parágrafo único. Não sendo constituído novo procurador no prazo de 15 (quinze) dias, observar-se-á o disposto no art. 76.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — dever de informar a alteração da representação | AgInt no AREsp 1.790.001, Terceira Turma, relatora Min. Nancy Andrighi, DJe de 25/06/2021 | O art. 111 exige que a parte que revoga o mandato constitua, no mesmo ato, outro advogado; incumbe à parte informar nos autos a alteração de sua representação processual, assumindo as consequências do descumprimento. A arguição tardia da nulidade, guardada para o momento em que o recurso não foi conhecido, configura nulidade de algibeira, incompatível com a boa-fé. |
+
 ###### Art. 112
 
 **Art. 112.** O advogado poderá renunciar ao mandato a qualquer tempo, provando, na forma prevista neste Código, que comunicou a renúncia ao mandante, a fim de que este nomeie sucessor.
@@ -1688,6 +1962,7 @@ Parágrafo único. Não sendo constituído novo procurador no prazo de 15 (quinz
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Art. 112 (renúncia ao mandato) | AgInt no AREsp 2.891.635, Primeira Turma, relator Min. Paulo Sérgio Domingues, julgado em 24/08/2026, DJEN de 27/08/2026 | A renúncia de mandato regularmente comunicada pelo patrono ao seu constituinte, na forma do art. 112, dispensa a determinação judicial de intimação da parte para regularizar a representação processual. |
+| Caput — renúncia e dispensa de intimação judicial | AREsp 2.828.269, Terceira Turma, relator Min. Moura Ribeiro, julgado em 27/10/2025, DJEN de 30/10/2025 | A renúncia ao mandato, comunicada ao constituinte na forma do art. 112, dispensa determinação judicial de intimação da parte para regularizar a representação; não regularizada no prazo, não se conhece do recurso (art. 76, § 2º, I, c/c art. 932, parágrafo único). |
 
 ### Título II: do litisconsórcio (arts. 113 a 118)
 
@@ -1705,9 +1980,22 @@ III - ocorrer afinidade de questões por ponto comum de fato ou de direito.
 
 § 2º O requerimento de limitação interrompe o prazo para manifestação ou resposta, que recomeçará da intimação da decisão que o solucionar.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| § 1º — limitação do litisconsórcio facultativo e indeferimento da denunciação | REsp 2.169.413, Terceira Turma, relatora Min. Nancy Andrighi, julgado em 03/03/2026 | O art. 113, § 1º, confere ao juiz o poder de limitar o litisconsórcio facultativo quando este comprometer a rápida solução do litígio, podendo, pelo mesmo fundamento, indeferir a denunciação da lide em ação possessória. |
+
 ###### Art. 114
 
 **Art. 114.** O litisconsórcio será necessário por disposição de lei ou quando, pela natureza da relação jurídica controvertida, a eficácia da sentença depender da citação de todos que devam ser litisconsortes.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Art. 114 (litisconsórcio necessário pela natureza da relação jurídica) (aplicação narrada) | AREsp 3.133.518, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 16/06/2026 | Na ação reivindicatória, o litisconsórcio passivo necessário define-se pela posse injusta efetivamente exercida sobre o imóvel, e não pela mera copropriedade registral; a ausência de prova de que a coproprietária exercia posse sobre a área litigiosa afasta a necessidade de sua inclusão no polo passivo. Trecho: “A ausência de prova de que a coproprietária registral exercia posse sobre a área litigiosa afasta a necessidade de sua inclusão no polo passivo da ação reivindicatória.” |
+| Caput — litisconsórcio necessário de ente federado | AgInt no REsp 2.137.725, Primeira Turma, relatora Min. Regina Helena Costa, DJe de 12/12/2024 | É necessária a participação do ente político responsável pela celebração do contrato ou convênio quando se questiona a adequação dos valores recebidos na execução do objeto, reconhecendo-se a violação do art. 114 e a necessidade de citação na forma do art. 115, parágrafo único. |
 
 ###### Art. 115
 
@@ -1718,6 +2006,12 @@ I - nula, se a decisão deveria ser uniforme em relação a todos que deveriam t
 II - ineficaz, nos outros casos, apenas para os que não foram citados.
 
 Parágrafo único. Nos casos de litisconsórcio passivo necessário, o juiz determinará ao autor que requeira a citação de todos que devam ser litisconsortes, dentro do prazo que assinar, sob pena de extinção do processo.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| I — nulidade por falta de integração de litisconsorte necessário | REsp 1.831.507, Segunda Turma, relator Min. Mauro Campbell Marques, julgado em 06/08/2024, DJe de 09/08/2024 | É nulo o processo desenvolvido sem a integração de litisconsortes necessários, nos termos dos arts. 114 e 115 do CPC. |
 
 ###### Art. 116
 
@@ -1754,12 +2048,19 @@ Parágrafo único. A assistência será admitida em qualquer procedimento e em t
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Art. 119 (assistência; interesse jurídico) | EDcl nos EDcl no REsp 1.338.942, Primeira Seção, relator Min. Og Fernandes, julgado em 22/08/2018, DJe de 28/08/2018 | A lei processual admite o ingresso de terceiro como assistente simples ou litisconsorcial apenas quando demonstrado o seu interesse jurídico na solução da controvérsia, o que se verifica quando existe relação jurídica integrada pelo assistente que será diretamente atingida pelo provimento jurisdicional. |
+| Caput — interesse jurídico para a assistência simples | REsp 2.255.093, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 08/06/2026 | A assistência simples exige interesse jurídico, não bastando o interesse econômico; a verificação desse interesse nas particularidades do caso demanda reexame do conjunto fático-probatório, vedado pela Súmula 7 do STJ. |
 
 ###### Art. 120
 
 **Art. 120.** Não havendo impugnação no prazo de 15 (quinze) dias, o pedido do assistente será deferido, salvo se for caso de rejeição liminar.
 
 Parágrafo único. Se qualquer parte alegar que falta ao requerente interesse jurídico para intervir, o juiz decidirá o incidente, sem suspensão do processo.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — assistência e ausência de deferimento tácito | AgInt no AREsp 2.513.897, Primeira Turma, relator Min. Sérgio Kukina | Não há deferimento tácito do pedido de assistência: o silêncio da parte não supre a decisão que aprecia o requerimento, e a hipótese não se resolve pelo art. 24 da Lei de Introdução. |
 
 ##### Seção II: da assistência simples (arts. 121 a 123)
 
@@ -1768,6 +2069,12 @@ Parágrafo único. Se qualquer parte alegar que falta ao requerente interesse ju
 **Art. 121.** O assistente simples atuará como auxiliar da parte principal, exercerá os mesmos poderes e sujeitar-se-á aos mesmos ônus processuais que o assistido.
 
 Parágrafo único. Sendo revel ou, de qualquer outro modo, omisso o assistido, o assistente será considerado seu substituto processual.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Parágrafo único — substituição processual do assistido | AgInt no REsp 2.154.773, Quarta Turma, relator Min. Marco Buzzi, DJe de 19/12/2025 | O art. 121, parágrafo único, confere ao assistente simples a possibilidade de atuar como substituto processual do assistido apenas quando houver revelia ou omissão, e desde que os interesses de ambos sejam convergentes; havendo oposição, aquiescência ou concordância expressa do assistido com a decisão impugnada, prevalece a vontade da parte principal (art. 122), em regime de acessoriedade. |
 
 ###### Art. 122
 
@@ -1786,6 +2093,12 @@ II - desconhecia a existência de alegações ou de provas das quais o assistido
 ###### Art. 124
 
 **Art. 124.** Considera-se litisconsorte da parte principal o assistente sempre que a sentença influir na relação jurídica entre ele e o adversário do assistido.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — interesse jurídico direto para a assistência litisconsorcial | REsp 2.021.425, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 11/05/2026 | A estipulante de plano de saúde coletivo não tem interesse jurídico direto para ingressar como assistente litisconsorcial em demanda de ex-empregado contra a operadora: após a rescisão do vínculo, sua relação de custeio e cobertura é apenas econômica reflexa, não influindo a sentença na relação entre ela e o adversário do assistido. |
 
 #### Capítulo II: da denunciação da lide (arts. 125 a 129)
 
@@ -1812,6 +2125,13 @@ II - àquele que estiver obrigado, por lei ou pelo contrato, a indenizar, em aç
 
 **Art. 126.** A citação do denunciado será requerida na petição inicial, se o denunciante for autor, ou na contestação, se o denunciante for réu, devendo ser realizada na forma e nos prazos previstos no art. 131.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Art. 126 (citação do denunciado; inércia do denunciante) (aplicação narrada) | AREsp 2.367.534, Quarta Turma, relator Min. Raul Araújo, julgado em 16/03/2026 | A inobservância do prazo de trinta dias para promover a citação do denunciado acarreta a ineficácia da denunciação da lide, sobretudo quando não demonstrada a diligência máxima da parte nem a responsabilidade exclusiva do aparelho judiciário pelo atraso; o indeferimento da lide secundária não impede o exercício do direito de regresso em ação autônoma (art. 125, § 1º). Trecho: “A inobservância do prazo de trinta dias para a promoção da citação do denunciado acarreta a ineficácia da intervenção de terceiros, especialmente quando não demonstrada a diligência máxima da parte ou a responsabilidade exclusiva do aparelho judiciário pelo atraso de anos na integração da lide.” |
+| Caput — vedação da denunciação de ofício | AREsp 1.992.131, Segunda Turma, relator Min. Francisco Falcão, julgado em 08/11/2022, DJe de 14/11/2022 | A denunciação da lide é ação de regresso promovida por qualquer das partes (art. 125), e a citação do denunciado deve ser requerida pelo denunciante (art. 126); o CPC/2015 não permite que o magistrado a determine de ofício. |
+
 ###### Art. 127
 
 **Art. 127.** Feita a denunciação pelo autor, o denunciado poderá assumir a posição de litisconsorte do denunciante e acrescentar novos argumentos à petição inicial, procedendo-se em seguida à citação do réu.
@@ -1834,6 +2154,12 @@ Parágrafo único. Procedente o pedido da ação principal, pode o autor, se for
 
 Parágrafo único. Se o denunciante for vencedor, a ação de denunciação não terá o seu pedido examinado, sem prejuízo da condenação do denunciante ao pagamento das verbas de sucumbência em favor do denunciado.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Parágrafo único — denunciante vencedor | AgInt no AREsp 2.830.723, Terceira Turma, relator Min. Humberto Martins, julgado em 01/06/2026 | Sendo o denunciante vencedor na ação principal, a denunciação da lide não tem seu pedido examinado, ficando o denunciante responsável pelas verbas sucumbenciais em favor dos denunciados. |
+
 #### Capítulo III: do chamamento ao processo (arts. 130 a 132)
 
 ###### Art. 130
@@ -1846,11 +2172,23 @@ II - dos demais fiadores, na ação proposta contra um ou alguns deles;
 
 III - dos demais devedores solidários, quando o credor exigir de um ou de alguns o pagamento da dívida comum.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — chamamento ao processo como intervenção facultativa | EDcl no AgInt no AREsp 2.890.761, Terceira Turma, relator Min. Moura Ribeiro, julgado em 22/06/2026 | O chamamento ao processo, modalidade de intervenção de terceiro de caráter facultativo, não tem o condão de alterar a competência absoluta constitucionalmente estabelecida nem de compelir a inclusão de entes federais quando o exequente opta por demandar exclusivamente sociedade de economia mista. |
+
 ###### Art. 131
 
 **Art. 131.** A citação daqueles que devam figurar em litisconsórcio passivo será requerida pelo réu na contestação e deve ser promovida no prazo de 30 (trinta) dias, sob pena de ficar sem efeito o chamamento.
 
 Parágrafo único. Se o chamado residir em outra comarca, seção ou subseção judiciárias, ou em lugar incerto, o prazo será de 2 (dois) meses.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — requerimento na contestação | AREsp 2.503.062, Terceira Turma, relator Min. Moura Ribeiro, julgado em 16/03/2026 | O chamamento ao processo é instituto típico da fase de conhecimento, não se harmonizando com a fase executiva, sobretudo pela incompatibilidade de ritos. |
 
 ###### Art. 132
 
@@ -1891,6 +2229,7 @@ Parágrafo único. Se o chamado residir em outra comarca, seção ou subseção 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Art. 134, § 2º (desconsideração requerida na petição inicial) | AREsp 2.982.042, Terceira Turma, relator Min. Ricardo Villas Bôas Cueva, julgado em 22/04/2026, DJEN de 27/04/2026 | Dispensa-se a instauração do incidente de desconsideração da personalidade jurídica quando a desconsideração for requerida na petição inicial. |
+| § 4º — requerimento na inicial exige demonstração dos pressupostos | AgInt no AREsp 2.237.543, Segunda Turma, relator Min. Herman Benjamin, julgado em 24/06/2024, DJe de 28/06/2024 | O art. 134, § 2º, autoriza a citação dos sócios quando a desconsideração é requerida na petição inicial, mas o § 4º exige que o requerimento demonstre o preenchimento dos pressupostos legais específicos; a teoria da asserção, por si só, não sustenta a manutenção dos sócios no polo passivo. |
 
 ###### Art. 135
 
@@ -1924,7 +2263,7 @@ Parágrafo único. Se a decisão for proferida pelo relator, cabe agravo interno
 |---|---|---|
 | Art. 138, § 1º (recurso do amicus curiae em controle abstrato) | ADI 5934, Tribunal Pleno, relator Min. André Mendonça, sessão virtual de 09 a 16/08/2024 **[Repositório externo]** | O amicus curiae exerce atividade colaborativa e não integra o rol dos legitimados a recorrer nas ações de controle abstrato; não se lhe aplica o art. 138, § 1º, do CPC. Embargos de declaração não conhecidos, por unanimidade. |
 | Art. 138 (decisão sobre o ingresso do amicus curiae) | ADI 6697, Tribunal Pleno, relator Min. André Mendonça, julgada em 09/05/2022 **[Repositório externo]** | É firme a jurisprudência da Corte sobre a irrecorribilidade da decisão que defere ou indefere o pedido de ingresso na ação como amicus curiae. Agravo regimental não conhecido. |
-| Art. 138, caput (admissão do amicus curiae no controle concentrado) | ADI 5086 e ADPF 449, Tribunal Pleno, relator Min. Luiz Fux, sessão virtual de 11 a 17/05/2018 **[Repositório externo]** | Compete ao relator admitir ou não o pedido de manifestação de terceiros como amici curiae nas ações de controle concentrado, orientado pela relevância da matéria e pela representatividade adequada dos postulantes (art. 7º, § 2º, da Lei 9.868/1999 e art. 138, caput, do CPC), bem como pela conveniência para a instrução da causa. Agravo regimental desprovido, por unanimidade. |
+| Art. 138, caput (admissão do amicus curiae no controle concentrado) | ADI 5086, Tribunal Pleno, relator Min. Luiz Fux, sessão virtual de 11 a 17/05/2018 **[Repositório externo]** | Compete ao relator admitir ou não o pedido de manifestação de terceiros como amici curiae nas ações de controle concentrado, orientado pela relevância da matéria e pela representatividade adequada dos postulantes (art. 7º, § 2º, da Lei 9.868/1999 e art. 138, caput, do CPC), bem como pela conveniência para a instrução da causa. Agravo regimental desprovido, por unanimidade. |
 | Art. 138 (ingresso do amicus curiae após o julgamento do mérito) | RE 593849, Tribunal Pleno, relator Min. Edson Fachin, julgado em 22/09/2017 **[Repositório externo]** | Não é devido o ingresso, como terceiro interveniente, após a ocorrência do julgamento do mérito do recurso extraordinário sob a sistemática da repercussão geral; a existência de embargos de declaração com pedido de efeitos infringentes e de modulação de efeitos não gera exceção a essa orientação. |
 
 ###### Jurisprudência do Superior Tribunal de Justiça
@@ -1967,7 +2306,7 @@ Parágrafo único. A dilação de prazos prevista no inciso VI somente pode ser 
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
-| Art. 139, IV (medidas coercitivas, indutivas ou sub-rogatórias atípicas) | ADI 5941, Tribunal Pleno, relator Min. Luiz Fux, julgada em 09/02/2023 **[Repositório externo]** | Julgado improcedente, por maioria (vencido em parte o Min. Edson Fachin), o pedido de declaração de inconstitucionalidade, sem redução de texto, dos arts. 139, IV; 380, parágrafo único; 400, parágrafo único; 403, parágrafo único; 536, caput e § 1º; e 773 do CPC, para afastar em qualquer hipótese medidas coercitivas, indutivas ou sub-rogatórias como a suspensão do direito de dirigir, a apreensão de passaporte e a proibição de participar de concursos públicos ou de licitações. |
+| Art. 139, IV (medidas coercitivas, indutivas ou sub-rogatórias atípicas) | ADI 5941, Tribunal Pleno, relator Min. Luiz Fux, julgada em 09/02/2023 | Julgado improcedente, por maioria (vencido em parte o Min. Edson Fachin), o pedido de declaração de inconstitucionalidade, sem redução de texto, dos arts. 139, IV; 380, parágrafo único; 400, parágrafo único; 403, parágrafo único; 536, caput e § 1º; e 773 do CPC, para afastar em qualquer hipótese medidas coercitivas, indutivas ou sub-rogatórias como a suspensão do direito de dirigir, a apreensão de passaporte e a proibição de participar de concursos públicos ou de licitações. |
 
 ###### Jurisprudência do Superior Tribunal de Justiça
 
@@ -1981,9 +2320,23 @@ Parágrafo único. A dilação de prazos prevista no inciso VI somente pode ser 
 
 Parágrafo único. O juiz só decidirá por equidade nos casos previstos em lei.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Parágrafo único — decisão por equidade apenas nos casos previstos em lei | REsp 2.178.775, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 08/06/2026 | Em causa de valor elevado e conteúdo econômico líquido incidem os arts. 85, § 2º e § 6º-A, do CPC e a tese do Tema 1.076 do STJ, sendo vedada a fixação de honorários por equidade; a decisão por equidade só é cabível nas hipóteses legais do art. 140, parágrafo único. |
+
 ###### Art. 141
 
 **Art. 141.** O juiz decidirá o mérito nos limites propostos pelas partes, sendo-lhe vedado conhecer de questões não suscitadas a cujo respeito a lei exige iniciativa da parte.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — limites do pedido | EREsp 1.810.281, Corte Especial, relatora Min. Nancy Andrighi, DJe de 14/05/2025 | Não há ofensa ao princípio da adstrição (art. 141) quando o exame dos pedidos é realizado mediante interpretação lógico-sistemática da petição inicial. |
+| Caput — julgamento ultra petita | REsp 2.101.170, Terceira Turma, relator Min. Humberto Martins, julgado em 08/06/2026 | O princípio da adstrição impõe ao magistrado o dever de decidir a lide nos limites em que foi proposta; configura julgamento ultra petita o acórdão que determina a restituição de 80% dos valores pagos quando a pretensão deduzida se limitava a 70%. |
+| Caput — arbitramento dentro dos limites do pedido | AgInt no REsp 2.260.946, Terceira Turma, relator Min. Humberto Martins, julgado em 01/06/2026 | Não há julgamento extra petita quando o arbitramento se mantém dentro dos limites do pedido inicial e da causa de pedir, observado o princípio da congruência. |
 
 ###### Art. 142
 
@@ -2001,9 +2354,9 @@ Parágrafo único. As hipóteses previstas no inciso II somente serão verificad
 
 ###### Jurisprudência do Supremo Tribunal Federal
 
-> [!WARNING]
->
-> **Remissão do texto legal sem julgado localizado.** O texto do art. 143 remete à ADPF 774. A consulta por número ao controle concentrado do STF (curadoria interna) e ao repositório externo não a localizou; sem Tribunal, relator, data e tese confirmados nas fontes, o julgado não é citado nem resumido. Ver as pendências.
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — responsabilidade civil do juiz e remissão à ADPF 774 | ADPF 774, medida cautelar, relator Min. André Mendonça, decisão monocrática de 22/03/2022, DJe de 23/03/2022 (pendente de julgamento definitivo) | Deferiu-se em parte a medida cautelar para suspender os processos judiciais que visam condenar o poder público ao pagamento de indenizações com base no art. 37, § 6º, da Constituição, tendo como causa de pedir a impropriedade ou o excesso de linguagem de membro da magistratura (art. 41 da LC 35/1979), até o julgamento definitivo da ADPF. A decisão esclareceu que não abrange as ações fundadas no art. 5º, LXXV, da Constituição nem as propostas exclusivamente com base no art. 49 da LOMAN e/ou no art. 143 do CPC. O processo permanecia concluso ao relator em 24/07/2023. |
 
 #### Capítulo II: dos impedimentos e da suspeição (arts. 144 a 148)
 
@@ -2124,6 +2477,12 @@ III - aos demais sujeitos imparciais do processo.
 
 **Art. 149.** São auxiliares da Justiça, além de outros cujas atribuições sejam determinadas pelas normas de organização judiciária, o escrivão, o chefe de secretaria, o oficial de justiça, o perito, o depositário, o administrador, o intérprete, o tradutor, o mediador, o conciliador judicial, o partidor, o distribuidor, o contabilista e o regulador de avarias.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — administrador judicial como auxiliar da Justiça | REsp 2.037.961, Terceira Turma, relator Min. Ricardo Villas Bôas Cueva, julgado em 12/08/2026 | O art. 149 qualifica o administrador judicial como auxiliar da Justiça, tal como o perito e o depositário, o que revela atuação em benefício do processo e sob a direção do juízo, com remuneração arbitrada judicialmente e inserida no conceito de despesas processuais. |
+
 ##### Seção I: do escrivão, do chefe de secretaria e do oficial de justiça (arts. 150 a 155)
 
 ###### Art. 150
@@ -2222,6 +2581,12 @@ II - praticarem ato nulo com dolo ou culpa.
 
 § 5º Na localidade onde não houver inscrito no cadastro disponibilizado pelo tribunal, a nomeação do perito é de livre escolha pelo juiz e deverá recair sobre profissional ou órgão técnico ou científico comprovadamente detentor do conhecimento necessário à realização da perícia.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — conhecimento técnico ou científico suficiente | REsp 2.126.492, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 16/03/2026, DJEN de 19/03/2026 | A pertinência da especialidade médica, em regra, não consubstancia pressuposto de validade da prova pericial; basta que o perito tenha conhecimento técnico ou científico suficiente (art. 156), incumbindo-lhe escusar-se se não se julgar apto. |
+
 ###### Art. 157
 
 **Art. 157.** O perito tem o dever de cumprir o ofício no prazo que lhe designar o juiz, empregando toda sua diligência, podendo escusar-se do encargo alegando motivo legítimo.
@@ -2229,6 +2594,12 @@ II - praticarem ato nulo com dolo ou culpa.
 § 1º A escusa será apresentada no prazo de 15 (quinze) dias, contado da intimação, da suspeição ou do impedimento supervenientes, sob pena de renúncia ao direito a alegá-la.
 
 § 2º Será organizada lista de peritos na vara ou na secretaria, com disponibilização dos documentos exigidos para habilitação à consulta de interessados, para que a nomeação seja distribuída de modo equitativo, observadas a capacidade técnica e a área de conhecimento.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — especialidade do perito e validade da perícia | AgInt no REsp 2.146.248, Segunda Turma, relator Min. Marco Aurélio Bellizze | A especialidade técnica do perito não é pressuposto de validade da prova pericial; incumbe ao próprio profissional escusar-se do encargo quando não detiver a habilitação necessária. |
 
 ###### Art. 158
 
@@ -2239,6 +2610,12 @@ II - praticarem ato nulo com dolo ou culpa.
 ###### Art. 159
 
 **Art. 159.** A guarda e a conservação de bens penhorados, arrestados, sequestrados ou arrecadados serão confiadas a depositário ou a administrador, não dispondo a lei de outro modo.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — guarda e conservação de bens penhorados confiada a depositário ou administrador | REsp 2.246.430, Quarta Turma, relatora Min. Maria Isabel Gallotti, julgado em 16/03/2026 | Na penhora de percentual da receita de partido político, excluído o fundo partidário, a nomeação de terceiro estranho ao corpo partidário como administrador-depositário dos valores penhorados não ofende a autonomia financeira do partido. O critério é a natureza do bem constrito — receita partidária alheia ao fundo partidário — e a função de guarda e conservação atribuída ao depositário. |
 
 ###### Art. 160
 
@@ -2251,6 +2628,13 @@ Parágrafo único. O juiz poderá nomear um ou mais prepostos por indicação do
 **Art. 161.** O depositário ou o administrador responde pelos prejuízos que, por dolo ou culpa, causar à parte, perdendo a remuneração que lhe foi arbitrada, mas tem o direito a haver o que legitimamente despendeu no exercício do encargo.
 
 Parágrafo único. O depositário infiel responde civilmente pelos prejuízos causados, sem prejuízo de sua responsabilidade penal e da imposição de sanção por ato atentatório à dignidade da justiça.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — responsabilidade do depositário por dolo ou culpa | AgInt no AREsp 3.117.991, Quarta Turma, relator Min. Raul Araújo, julgado em 15/06/2026 | A responsabilização do depositário por eventual perda ou dano ao bem sob sua guarda exige a apuração de dolo ou culpa (art. 161), o que demanda dilação probatória incompatível com o rito executivo, devendo ser discutida em ação própria. |
+| Art. 161, parágrafo único (responsabilidade do depositário infiel) (aplicação narrada) | AREsp 2.132.333, Quarta Turma, relator Min. Raul Araújo, julgado em 02/03/2026 | A responsabilidade do depositário infiel pela guarda do bem e pelos prejuízos causados ao processo, com a sanção por ato atentatório à dignidade da justiça, é matéria processual distinta da desconsideração da personalidade jurídica e se apura nos próprios autos da execução, autorizando a constrição de bem do depositário sem a prévia instauração do incidente. Trecho: “A responsabilidade do depositário infiel pela guarda do bem e pelos prejuízos causados ao processo, bem como a aplicação de sanção por ato atentatório à dignidade da justiça, constitui matéria processual distinta da desconsideração da personalidade jurídica e se promove nos próprios autos da execução.” |
 
 ##### Seção IV: do intérprete e do tradutor (arts. 162 a 164)
 
@@ -2289,6 +2673,12 @@ III - estiver inabilitado para o exercício da profissão por sentença penal co
 § 2º O conciliador, que atuará preferencialmente nos casos em que não houver vínculo anterior entre as partes, poderá sugerir soluções para o litígio, sendo vedada a utilização de qualquer tipo de constrangimento ou intimidação para que as partes conciliem.
 
 § 3º O mediador, que atuará preferencialmente nos casos em que houver vínculo anterior entre as partes, auxiliará aos interessados a compreender as questões e os interesses em conflito, de modo que eles possam, pelo restabelecimento da comunicação, identificar, por si próprios, soluções consensuais que gerem benefícios mútuos.
+
+###### Jurisprudência do Supremo Tribunal Federal
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — centros judiciários de solução consensual de conflitos | ADI 6324, Tribunal Pleno, relator Min. Roberto Barroso, julgada em 21/08/2023 | É constitucional a disposição do Conselho Nacional de Justiça que prevê a facultatividade de representação por advogado ou defensor público nos Centros Judiciários de Solução de Conflitos e Cidadania (CEJUSCs), por não violar o contraditório, a ampla defesa, o acesso à justiça nem a defesa técnica (CF, arts. 5º, LV e XXXV, 133 e 134), e por se inserir na competência do Conselho (CF, art. 103-B, § 4º, I). |
 
 ###### Art. 166
 
@@ -2384,6 +2774,12 @@ Parágrafo único. Os dispositivos desta Seção aplicam-se, no que couber, às 
 
 **Art. 176.** O Ministério Público atuará na defesa da ordem jurídica, do regime democrático e dos interesses e direitos sociais e individuais indisponíveis.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — atuação do Ministério Público na defesa de direitos difusos e individuais homogêneos | REsp 1.870.654, Terceira Turma, relator Min. Ricardo Villas Bôas Cueva, julgado em 18/08/2026, DJEN de 24/08/2026 | O Ministério Público tem legitimidade para propor ação civil pública de defesa de direitos difusos e coletivos e também de direitos individuais homogêneos, ainda que disponíveis e divisíveis, quando presente a relevância social do bem jurídico tutelado. |
+
 ###### Art. 177
 
 **Art. 177.** O Ministério Público exercerá o direito de ação em conformidade com suas atribuições constitucionais.
@@ -2457,8 +2853,14 @@ II - poderá produzir provas, requerer as medidas processuais pertinentes e reco
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
-| Art. 183 (prerrogativas processuais dos entes públicos); art. 7º | ADI 5.814, Tribunal Pleno, relator Min. Roberto Barroso, julgado em 06/02/2019 **[Repositório externo]** | As prerrogativas processuais dos entes públicos, como o prazo recursal em dobro e a intimação pessoal, não se aplicam aos processos de controle abstrato de constitucionalidade. Agravo regimental desprovido por maioria. |
+| Art. 183 (prerrogativas processuais dos entes públicos); art. 7º | ADI 5.814, Tribunal Pleno, relator Min. Roberto Barroso, julgado em 06/02/2019 | As prerrogativas processuais dos entes públicos, como o prazo recursal em dobro e a intimação pessoal, não se aplicam aos processos de controle abstrato de constitucionalidade. Agravo regimental desprovido por maioria. |
 | Art. 183 (intimação pessoal da Fazenda Pública em processo objetivo) | ADPF 205, Tribunal Pleno, relator Min. Dias Toffoli, sessão virtual de 09 a 16/06/2017 **[Repositório externo]** | As normas processuais destinadas a resguardar os interesses da Fazenda Pública, como a intimação pessoal, não se aplicam aos processos de índole objetiva. Agravo regimental não conhecido, por unanimidade. |
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput e § 1º — intimação pessoal da Fazenda Pública | AREsp 3.055.177, Primeira Turma, relator Min. Paulo Sérgio Domingues, julgado em 19/05/2026 | A intimação da União, dos Estados, do Distrito Federal, dos Municípios e de suas autarquias e fundações de direito público deve ser realizada pessoalmente, por carga, remessa ou meio eletrônico (arts. 183 e 247, III); a intimação por carta com aviso de recebimento desrespeita essa prerrogativa e é nula. |
 
 ###### Art. 184
 
@@ -2522,6 +2924,13 @@ IV - que versem sobre arbitragem, inclusive sobre cumprimento de carta arbitral,
 
 § 2º O terceiro que demonstrar interesse jurídico pode requerer ao juiz certidão do dispositivo da sentença, bem como de inventário e de partilha resultantes de divórcio ou separação.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| III — dados protegidos pelo direito constitucional à intimidade | AgInt no AREsp 3.089.957, Quarta Turma, relator Min. Luís Carlos Gambogi (Desembargador Convocado do Tjmg), julgado em 22/06/2026 | A decretação de segredo de justiça exige a demonstração das hipóteses do art. 189 do CPC; a ordem de supressão da indexação de dados processuais por provedores de pesquisa pressupõe que as instâncias ordinárias tenham reconhecido a existência de dados protegidos pela intimidade, matéria que não se revê em recurso especial (Súmula 7). |
+| Caput — publicidade e hipóteses de segredo de justiça | REsp 2.144.119, Quarta Turma, relatora Min. Maria Isabel Gallotti, julgado em 09/03/2026 | Em regra o processo é público, podendo tramitar em segredo de justiça nas hipóteses elencadas no art. 189 do CPC; caracterizado o segredo comercial e industrial protegido pelo art. 206 da Lei n. 9.279/1996, é insuficiente decretar sigilo apenas da perícia e do algoritmo, devendo o sigilo alcançar a ação originária. |
+
 ###### Art. 190
 
 **Art. 190.** Versando o processo sobre direitos que admitam autocomposição, é lícito às partes plenamente capazes estipular mudanças no procedimento para ajustá-lo às especificidades da causa e convencionar sobre os seus ônus, poderes, faculdades e deveres processuais, antes ou durante o processo.
@@ -2548,6 +2957,13 @@ Parágrafo único. De ofício ou a requerimento, o juiz controlará a validade d
 
 Parágrafo único. O documento redigido em língua estrangeira somente poderá ser juntado aos autos quando acompanhado de versão para a língua portuguesa tramitada por via diplomática ou pela autoridade central, ou firmada por tradutor juramentado.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Art. 192, parágrafo único (documento em língua estrangeira e tradução) (aplicação narrada) | AgInt na HDE 12.555, Corte Especial, relator Min. Herman Benjamin, julgado em 18/08/2026 | A juntada de documento sem tradução juramentada é vício sanável: em prestígio à cooperação processual e ao aproveitamento dos atos, deve-se oportunizar à parte prazo para a regularização, mediante a juntada das respectivas traduções oficiais, sob pena de o documento ser desconsiderado. Trecho: “Assim, mostra-se adequado oportunizar à parte, em prestígio aos princípios da cooperação processual e do aproveitamento dos atos processuais, prazo para a devida regularização, mediante a juntada das respectivas traduções oficiais, sob pena de desconsideração dos documentos para os fins desta homologação.” |
+| Parágrafo único — documento redigido em língua estrangeira | HDE 10.733, Corte Especial, relator Min. Raul Araújo, julgado em 17/09/2025, DJEN de 25/09/2025 | Com base nos arts. 369, 370 e 371 do CPC, é possível a juntada aos autos de documento ou decisão em língua estrangeira, com a devida tradução, independentemente de sua homologação pelo STJ, para provar os fatos alegados, podendo o magistrado valorá-lo e indicar na decisão as razões de seu convencimento. |
+
 ##### Seção II: da prática eletrônica de atos processuais (arts. 193 a 199)
 
 ###### Art. 193
@@ -2555,6 +2971,12 @@ Parágrafo único. O documento redigido em língua estrangeira somente poderá s
 **Art. 193.** Os atos processuais podem ser total ou parcialmente digitais, de forma a permitir que sejam produzidos, comunicados, armazenados e validados por meio eletrônico, na forma da lei.
 
 Parágrafo único. O disposto nesta Seção aplica-se, no que for cabível, à prática de atos notariais e de registro.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — orientação de aplicação (aplicação narrada) | REsp 2.179.211, Terceira Turma, relator Min. Moura Ribeiro, julgado em 11/11/2025, DJe de 24/11/2025 | A citação eletrônica realizada em 2018 deve observar as disposições da Lei nº 11.419/2006 e dos artigos 193 a 199 do Código de Processo Civil, que exigem padrões de autenticidade, integridade e assinatura eletrônica para a validade dos atos processuais eletrônicos. Trecho: “A citação eletrônica realizada em 2018 deve observar as disposições da Lei nº 11.419/2006 e dos artigos 193 a 199 do Código de Processo Civil, que exigem padrões de autenticidade, integridade e assinatura eletrônica para a validade dos atos processuais eletrônicos.” |
 
 ###### Art. 194
 
@@ -2568,11 +2990,23 @@ Parágrafo único. O disposto nesta Seção aplica-se, no que for cabível, à p
 
 **Art. 196.** Compete ao Conselho Nacional de Justiça e, supletivamente, aos tribunais, regulamentar a prática e a comunicação oficial de atos processuais por meio eletrônico e velar pela compatibilidade dos sistemas, disciplinando a incorporação progressiva de novos avanços tecnológicos e editando, para esse fim, os atos que forem necessários, respeitadas as normas fundamentais deste Código.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — regulamentação da prática eletrônica | AgInt nos EDcl no AREsp 3.137.040, Segunda Turma, relator Min. Francisco Falcão, julgado em 19/08/2026 | Cabe ao Conselho Nacional de Justiça regulamentar a prática e a comunicação oficial dos atos processuais por meio eletrônico (Resoluções CNJ 234/2016, 455/2022 e 569/2024), de modo que, a partir de 16/5/2025, os prazos passaram a ser contados exclusivamente pelas publicações no Diário de Justiça Eletrônico Nacional. |
+
 ###### Art. 197
 
 **Art. 197.** Os tribunais divulgarão as informações constantes de seu sistema de automação em página própria na rede mundial de computadores, gozando a divulgação de presunção de veracidade e confiabilidade.
 
 Parágrafo único. Nos casos de problema técnico do sistema e de erro ou omissão do auxiliar da justiça responsável pelo registro dos andamentos, poderá ser configurada a justa causa prevista no art. 223, caput e § 1º.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — presunção de veracidade das informações do sistema | REsp 2.179.925, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 30/06/2026 | À luz do art. 197 do CPC, a divulgação das informações do sistema eletrônico goza de presunção de veracidade e confiabilidade; o erro de informação do sistema, apto a orientar legitimamente a conduta processual, configura justa causa (art. 223, caput e § 1º) e admite a mitigação da intempestividade. |
 
 ###### Art. 198
 
@@ -2613,6 +3047,13 @@ Parágrafo único. A desistência da ação só produzirá efeitos após homolog
 § 3º São despachos todos os demais pronunciamentos do juiz praticados no processo, de ofício ou a requerimento da parte.
 
 § 4º Os atos meramente ordinatórios, como a juntada e a vista obrigatória, independem de despacho, devendo ser praticados de ofício pelo servidor e revistos pelo juiz quando necessário.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| § 2º — decisão interlocutória: critério material | REsp 2.264.349, Terceira Turma, relator Min. Humberto Martins, julgado em 12/08/2026 | É decisão interlocutória todo pronunciamento judicial de natureza decisória que não se enquadre como sentença, distinguindo-se dos despachos de mero impulso; a determinação de nomeação de leiloeiro e de início das providências para alienação judicial de bens, havendo impugnações pendentes sobre a constrição, tem carga decisória e é recorrível por agravo de instrumento. |
+| § 2º — decisão interlocutória: determinação de penhora | REsp 2.227.802, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 30/03/2026 | A decisão que determina a penhora de bens no cumprimento de sentença possui natureza de decisão interlocutória, à luz do art. 203, § 2º, e admite agravo de instrumento (art. 1.015, I). |
 
 ###### Art. 204
 
@@ -2751,6 +3192,13 @@ Parágrafo único. O disposto neste artigo aplica-se somente aos prazos processu
 
 § 2º Durante a suspensão do prazo, não se realizarão audiências nem sessões de julgamento.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — suspensão dos prazos no recesso | AgRg no _habeas corpus_ (HC) 969.308, Corte Especial, relatora Min. Daniela Teixeira, DJe de 10/06/2025 | A suspensão do curso dos prazos processuais prevista no art. 220 não incide sobre os processos de competência da justiça criminal: em matéria processual penal aplica-se o art. 798 do Código de Processo Penal, e o recesso forense apenas prorroga o vencimento para o primeiro dia útil seguinte. |
+| Art. 220, caput (suspensão dos prazos entre 20 de dezembro e 20 de janeiro) (aplicação narrada) | AREsp 2.651.596, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 22/06/2026 | A suspensão do curso dos prazos entre 20 de dezembro e 20 de janeiro decorre de norma de abrangência nacional e opera independentemente de comprovação nos autos; a ausência de documento comprobatório no ato da interposição não torna intempestivo o recurso. Trecho: “Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial por intempestividade, em razão da ausência de comprovação, no ato da interposição, da suspensão dos prazos processuais durante o recesso forense, nos termos do art.” |
+
 ###### Art. 221
 
 **Art. 221.** Suspende-se o curso do prazo por obstáculo criado em detrimento da parte ou ocorrendo qualquer das hipóteses do art. 313, devendo o prazo ser restituído por tempo igual ao que faltava para sua complementação.
@@ -2789,9 +3237,21 @@ Parágrafo único. Suspendem-se os prazos durante a execução de programa insti
 
 § 3º A contagem do prazo terá início no primeiro dia útil que seguir ao da publicação.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — contagem do prazo: exclusão do dia do começo | REsp 2.072.505, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 01/06/2026 | Os arts. 224 e 231, I, do CPC devem ser aplicados em conjunto: a juntada do aviso de recebimento marca o início do prazo, cuja contagem exclui o dia do começo e inclui o dia do vencimento. |
+
 ###### Art. 225
 
 **Art. 225.** A parte poderá renunciar ao prazo estabelecido exclusivamente em seu favor, desde que o faça de maneira expressa.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — natureza da renúncia e erro escusável | REsp 2.126.117, Terceira Turma, relatora Min. Nancy Andrighi, julgado em 14/05/2024, DJe de 17/05/2024 | A renúncia ao prazo é negócio jurídico processual, interpretado pelas normas gerais dos negócios jurídicos; o erro substancial e escusável na sua declaração permite afastar a renúncia, devendo o recurso ser conhecido, em favor da razoabilidade, da confiança e da boa-fé objetiva. |
 
 ###### Art. 226
 
@@ -2831,6 +3291,7 @@ II - tiver ciência da ordem, quando determinada pelo juiz.
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
+| Caput — prazo em dobro | AREsp 2.304.564, Quarta Turma, relator Min. Raul Araújo, julgado em 01/12/2025, DJEN de 09/12/2025 | O prazo em dobro do art. 229 independe de requerimento, mas deixa de incidir quando apenas um dos litisconsortes recorre: nessa hipótese, somente para os recursos subsequentes o prazo é contado de forma simples. |
 | Art. 229, § 2º (prazo em dobro dos litisconsortes; autos eletrônicos) | AgInt no AREsp 1.625.236, Segunda Turma, relator Min. Mauro Campbell Marques, julgado em 14/09/2020, DJe de 17/09/2020 | A regra que concede prazo em dobro aos litisconsortes defendidos por escritórios de advocacia distintos não se aplica aos processos com autos eletrônicos. |
 
 ###### Art. 230
@@ -2872,10 +3333,17 @@ IX - o quinto dia útil seguinte à confirmação, na forma prevista na mensagem
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Art. 231 (início do prazo; juntada do aviso de recebimento, do mandado ou da carta) | Tema Repetitivo 379, REsp 1.632.777, Corte Especial, relator Min. Napoleão Nunes Maia Filho, julgado em 17/05/2017, DJe de 26/05/2017 | Nos casos de intimação/citação realizadas por Correio, Oficial de Justiça, ou por Carta de Ordem, Precatória ou Rogatória, o prazo recursal inicia-se com a juntada aos autos do aviso de recebimento, do mandado cumprido, ou da juntada da carta. |
+| V — termo inicial na intimação eletrônica | AgInt no AREsp 2.455.226, Terceira Turma, relator Min. Ricardo Villas Bôas Cueva, julgado em 10/06/2024, DJe de 13/06/2024 | Na intimação eletrônica, o prazo começa no dia útil seguinte à consulta ao teor da intimação ou ao término do prazo de dez dias para que a consulta se dê (art. 231, V); não efetivada a consulta, considera-se realizada a intimação na data do término desse prazo (art. 5º, §§ 1º e 3º, da Lei 11.419/2006). |
 
 ###### Art. 232
 
 **Art. 232.** Nos atos de comunicação por carta precatória, rogatória ou de ordem, a realização da citação ou da intimação será imediatamente informada, por meio eletrônico, pelo juiz deprecado ao juiz deprecante.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — comunicação imediata da citação realizada por carta precatória e termo inicial do prazo | AgInt no AREsp 2.715.195, Terceira Turma, relator Min. Humberto Martins, julgado em 01/06/2026 | Citado o réu por carta precatória, o prazo de contestação conta-se da juntada da deprecata cumprida aos autos, e não da data da diligência do oficial de justiça. A informação imediata prevista no art. 232 é o marco temporal; a pretensão de deslocar esse termo inicial exige reexame de provas e atrai a Súmula 7 do STJ. |
 
 ##### Seção II: da verificação dos prazos e das penalidades (arts. 233 a 235)
 
@@ -2943,7 +3411,7 @@ Parágrafo único. Se o ato relativo a processo em curso na justiça federal ou 
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
-| Art. 237, II (carta rogatória; cooperação jurídica internacional) | ADC 51, Tribunal Pleno, relator Min. Gilmar Mendes, julgada em 23/02/2023 **[Repositório externo]** | São constitucionais os dispositivos do acordo de assistência jurídica mútua em matéria penal (MLAT), do CPC e do CPP que tratam da cooperação jurídica internacional e da emissão de cartas rogatórias, nos casos em que a comunicação ou o serviço não tenham ocorrido em território nacional. Eles convivem com a requisição direta de dados nas hipóteses do art. 11 do Marco Civil da Internet e do art. 18 da Convenção de Budapeste. Pedido julgado parcialmente procedente. |
+| Art. 237, II (carta rogatória; cooperação jurídica internacional) | ADC 51, Tribunal Pleno, relator Min. Gilmar Mendes, julgada em 23/02/2023 | São constitucionais os dispositivos do acordo de assistência jurídica mútua em matéria penal (MLAT), do CPC e do CPP que tratam da cooperação jurídica internacional e da emissão de cartas rogatórias, nos casos em que a comunicação ou o serviço não tenham ocorrido em território nacional. Eles convivem com a requisição direta de dados nas hipóteses do art. 11 do Marco Civil da Internet e do art. 18 da Convenção de Budapeste. Pedido julgado parcialmente procedente. |
 
 #### Capítulo II: da citação (arts. 238 a 259)
 
@@ -2964,6 +3432,12 @@ Parágrafo único. A citação será efetivada em até 45 (quarenta e cinco) dia
 I - conhecimento, o réu será considerado revel;
 
 II - execução, o feito terá seguimento.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| § 1º — comparecimento espontâneo e seus limites | REsp 2.140.098, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 16/03/2026 | O comparecimento espontâneo do executado na fase de cumprimento de sentença não supre a inexistência ou a nulidade da citação do processo de conhecimento, devendo o vício ser arguido na impugnação, nos termos do art. 525, § 1º, I, do CPC. |
 
 ###### Art. 240
 
@@ -3076,6 +3550,13 @@ IV - por edital.
 
 § 6º Para os fins do § 5º deste artigo, deverá haver compartilhamento de cadastro com o órgão do Poder Judiciário, incluído o endereço eletrônico constante do sistema integrado da Redesim, nos termos da legislação aplicável ao sigilo fiscal e ao tratamento de dados pessoais. (Incluído pela Lei nº 14.195/2021)
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — citação preferencialmente por meio eletrônico | REsp 2.070.921, Terceira Turma, relator Min. Humberto Martins, julgado em 12/08/2026, DJEN de 17/08/2026 | A citação eletrônica é a modalidade preferencial do art. 246 do CPC, não sendo consentâneo impor óbice apriorístico à mera tentativa de citação por aplicativo de mensagens, inserido no conceito de endereço eletrônico pela regulamentação do CNJ; a validade do ato sujeita-se à posterior aferição, pelo juízo de origem, da autenticidade, da identidade do destinatário e da ausência de prejuízo à defesa. |
+| § 1º-A — ausência de confirmação e lei aplicável no tempo | AREsp 2.663.378, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 09/03/2026 | Pela teoria do isolamento dos atos processuais (art. 14 do CPC), a citação eletrônica instaurada sob a Lei n. 11.419/2006 não se submete ao § 1º-A do art. 246, introduzido pela Lei n. 14.195/2021. |
+
 ###### Art. 247
 
 **Art. 247.** A citação será feita por meio eletrônico ou pelo correio para qualquer comarca do País, exceto: (Redação dada pela Lei nº 14.195/2021)
@@ -3089,6 +3570,13 @@ III - quando o citando for pessoa de direito público;
 IV - quando o citando residir em local não atendido pela entrega domiciliar de correspondência;
 
 V - quando o autor, justificadamente, a requerer de outra forma.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Art. 247, I (exceção à citação eletrônica ou postal nas ações de estado) (aplicação narrada) | AgInt na HDE 12.166, Corte Especial, relator Min. Herman Benjamin, julgado em 10/03/2026, DJEN de 16/03/2026 | Ainda que o art. 246 estabeleça a preferência pela citação por meio eletrônico, o art. 247, I, excepciona as ações de estado, nas quais se exige a citação pessoal (art. 695, § 3º); a natureza delibatória do procedimento de homologação de decisão estrangeira não afasta essa cautela, voltada à ciência inequívoca da parte requerida. Trecho: “A natureza delibatória do procedimento de homologação de decisão estrangeira não afasta a necessidade de observância das cautelas legais destinadas a assegurar a ciência inequívoca da parte requerida.” |
+| Caput — citação postal e regime especial da execução | AREsp 2.731.232, Terceira Turma, relator Min. Moura Ribeiro, julgado em 04/05/2026, DJEN de 08/05/2026 | A regra geral de citação postal dos arts. 247 e 249 do CPC não afasta o regime específico do art. 829, § 1º, que, na execução de título extrajudicial, exige a expedição de mandado de citação a ser cumprido por oficial de justiça. |
 
 ###### Art. 248
 
@@ -3112,6 +3600,12 @@ V - quando o autor, justificadamente, a requerer de outra forma.
 
 **Art. 249.** A citação será feita por meio de oficial de justiça nas hipóteses previstas neste Código ou em lei, ou quando frustrada a citação pelo correio.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — citação por oficial de justiça nas hipóteses previstas em lei | AREsp 2.731.232, Terceira Turma, relator Min. Moura Ribeiro, julgado em 04/05/2026, DJEN de 08/05/2026 | Na execução de título extrajudicial, a citação deve observar o regime do art. 829, § 1º: exige-se mandado de citação a ser cumprido por oficial de justiça, concentrando citação, penhora e avaliação. A regra geral de citação postal dos arts. 247 e 249 não afasta esse regime específico da execução. |
+
 ###### Art. 250
 
 **Art. 250.** O mandado que o oficial de justiça tiver de cumprir conterá:
@@ -3128,6 +3622,12 @@ V - a cópia da petição inicial, do despacho ou da decisão que deferir tutela
 
 VI - a assinatura do escrivão ou do chefe de secretaria e a declaração de que o subscreve por ordem do juiz.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| II — conteúdo do mandado e advertência | REsp 2.117.951, Quarta Turma, relator Min. Raul Araújo, julgado em 09/03/2026 | O mandado de citação que contém a íntegra da decisão inicial, o prazo para embargos e as advertências do procedimento atende aos arts. 250 e 829 do CPC; a ausência de advertência sobre os efeitos da revelia não acarreta a nulidade da citação, mas apenas impede a aplicação desses efeitos. |
+
 ###### Art. 251
 
 **Art. 251.** Incumbe ao oficial de justiça procurar o citando e, onde o encontrar, citá-lo:
@@ -3138,11 +3638,23 @@ II - portando por fé se recebeu ou recusou a contrafé;
 
 III - obtendo a nota de ciente ou certificando que o citando não a apôs no mandado.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| III — certificação da ciência e finalidade do ato | AREsp 3.083.220, Terceira Turma, relator Min. Moura Ribeiro, julgado em 23/03/2026 | Ainda que não haja previsão legal específica, a citação realizada por oficial de justiça mediante aplicativo de mensagens é válida quando alcança a finalidade do ato, isto é, a ciência inequívoca do citado, prevalecendo a liberdade das formas sobre a rigidez formal. |
+
 ###### Art. 252
 
 **Art. 252.** Quando, por 2 (duas) vezes, o oficial de justiça houver procurado o citando em seu domicílio ou residência sem o encontrar, deverá, havendo suspeita de ocultação, intimar qualquer pessoa da família ou, em sua falta, qualquer vizinho de que, no dia útil imediato, voltará a fim de efetuar a citação, na hora que designar.
 
 Parágrafo único. Nos condomínios edilícios ou nos loteamentos com controle de acesso, será válida a intimação a que se refere o caput feita a funcionário da portaria responsável pelo recebimento de correspondência.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — requisitos da suspeita de ocultação | REsp 2.059.799, Quarta Turma, relatora Min. Maria Isabel Gallotti, julgado em 09/02/2026, DJEN de 12/02/2026 | A indicação de que o réu se encontra em local incerto ou não sabido não supre os requisitos do art. 252: incumbe ao oficial de justiça justificar também a suspeita de ocultação, sob pena de nulidade da citação por hora certa e dos atos subsequentes. |
 
 ###### Art. 253
 
@@ -3155,6 +3667,12 @@ Parágrafo único. Nos condomínios edilícios ou nos loteamentos com controle d
 § 3º Da certidão da ocorrência, o oficial de justiça deixará contrafé com qualquer pessoa da família ou vizinho, conforme o caso, declarando-lhe o nome.
 
 § 4º O oficial de justiça fará constar do mandado a advertência de que será nomeado curador especial se houver revelia.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| § 1º — diligência do oficial e suspeita de ocultação | REsp 2.059.799, Quarta Turma, relatora Min. Maria Isabel Gallotti, julgado em 09/02/2026, DJEN de 12/02/2026 | A citação com hora certa exige que o oficial de justiça justifique a suspeita de ocultação do citando; a simples indicação de que o réu se encontra em local incerto ou não sabido não supre os requisitos legais e torna nula a citação e os atos que a sucederam. |
 
 ###### Art. 254
 
@@ -3180,6 +3698,13 @@ III - nos casos expressos em lei.
 
 § 3º O réu será considerado em local ignorado ou incerto se infrutíferas as tentativas de sua localização, inclusive mediante requisição pelo juízo de informações sobre seu endereço nos cadastros de órgãos públicos ou de concessionárias de serviços públicos.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — citação por edital | AREsp 2.878.218, Quarta Turma, relator Min. Raul Araújo, julgado em 15/06/2026, DJEN de 19/06/2026 | A validade da citação por edital exige o prévio esgotamento de todas as diligências ordinárias e dos meios disponíveis para a localização da parte. |
+| Art. 256, § 3º (local ignorado ou incerto e pesquisas em cadastros) (aplicação narrada) | REsp 2.234.214, Terceira Turma, relator Min. Moura Ribeiro, julgado em 02/03/2026 | O réu é considerado em local ignorado ou incerto quando infrutíferas as tentativas de sua localização, inclusive mediante requisição de informações sobre o endereço nos cadastros de órgãos públicos e de concessionárias de serviços públicos; esgotadas as tentativas postais e as pesquisas nos sistemas conveniados, é válida a citação por edital. Trecho: “A citação por edital é válida quando, após tentativas de chamamento pela via postal, são esgotadas as tentativas de localização do réu mediante pesquisas em sistemas conveniados, configurando a condição de local incerto e desconhecido, nos termos do art.” |
+
 ###### Art. 257
 
 **Art. 257.** São requisitos da citação por edital:
@@ -3193,6 +3718,12 @@ III - a determinação, pelo juiz, do prazo, que variará entre 20 (vinte) e 60 
 IV - a advertência de que será nomeado curador especial em caso de revelia.
 
 Parágrafo único. O juiz poderá determinar que a publicação do edital seja feita também em jornal local de ampla circulação ou por outros meios, considerando as peculiaridades da comarca, da seção ou da subseção judiciárias.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — excepcionalidade e esgotamento das tentativas | AgInt no AREsp 2.332.925, Quarta Turma, relatora Min. Maria Isabel Gallotti, DJe de 22/03/2024 | A citação por edital, por ser medida excepcional, só é admitida depois de esgotadas as tentativas de localização do devedor para a citação pessoal, pelos correios ou por oficial de justiça; não é obrigatória a publicação em jornal de grande circulação. |
 
 ###### Art. 258
 
@@ -3360,6 +3891,12 @@ II - por carta registrada, com aviso de recebimento, quando forem domiciliados f
 
 Parágrafo único. Presumem-se válidas as intimações dirigidas ao endereço constante dos autos, ainda que não recebidas pessoalmente pelo interessado, se a modificação temporária ou definitiva não tiver sido devidamente comunicada ao juízo, fluindo os prazos a partir da juntada aos autos do comprovante de entrega da correspondência no primitivo endereço.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — intimação eletrônica e dispensa da publicação oficial | REsp 1.948.877, Quarta Turma, relator Min. Raul Araújo, julgado em 16/12/2025, DJEN de 19/12/2025 | A intimação eletrônica é o meio preferencial de comunicação (art. 270) e, disciplinada pela Lei 11.419/2006, dispensa a publicação no órgão oficial, inclusive eletrônico; as regras do art. 272 sobre publicação só se aplicam às intimações não realizadas por meio eletrônico, e a nulidade exige demonstração de prejuízo. |
+
 ###### Art. 275
 
 **Art. 275.** A intimação será feita por oficial de justiça quando frustrada a realização por meio eletrônico ou pelo correio.
@@ -3384,11 +3921,25 @@ III - a nota de ciente ou a certidão de que o interessado não a apôs no manda
 
 **Art. 277.** Quando a lei prescrever determinada forma, o juiz considerará válido o ato se, realizado de outro modo, lhe alcançar a finalidade.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — validade do ato que, praticado de outro modo, alcança a finalidade | AREsp 3.016.999, Terceira Turma, relator Min. Ricardo Villas Bôas Cueva, julgado em 24/08/2026 | A nulidade do ato de comunicação não se reconhece sem prejuízo efetivo: havendo ciência inequívoca e atingimento da finalidade do ato, ele é aproveitado (instrumentalidade das formas). A aferição da existência de prejuízo, contudo, depende do acervo fático-probatório e não se refaz em recurso especial (Súmula 7 do STJ). |
+| Caput — finalidade do ato | AREsp 3.169.476, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 12/08/2026 | A nulidade não se reconhece sem demonstração de prejuízo quando o ato, ainda que praticado com irregularidade formal, atingiu a sua finalidade. |
+
 ###### Art. 278
 
 **Art. 278.** A nulidade dos atos deve ser alegada na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão.
 
 Parágrafo único. Não se aplica o disposto no caput às nulidades que o juiz deva decretar de ofício, nem prevalece a preclusão provando a parte legítimo impedimento.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — nulidade de algibeira | AgInt no REsp 1.837.482, Primeira Turma, relator Min. Gurgel de Faria, julgado em 07/11/2023, DJe de 15/12/2023 | A suscitação tardia da nulidade, somente após a ciência de resultado de mérito desfavorável, configura nulidade de algibeira, manobra processual rechaçada pela boa-fé processual. |
+| Caput — nulidade relativa e preclusão | REsp 2.016.092, Terceira Turma, relatora Min. Nancy Andrighi, julgado em 25/10/2022, DJe de 01/12/2022 | Em observância à boa-fé objetiva e à segurança jurídica, a nulidade dos atos deve ser alegada na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão. |
 
 ###### Art. 279
 
@@ -3398,9 +3949,22 @@ Parágrafo único. Não se aplica o disposto no caput às nulidades que o juiz d
 
 § 2º A nulidade só pode ser decretada após a intimação do Ministério Público, que se manifestará sobre a existência ou a inexistência de prejuízo.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Art. 279, caput e § 2º (nulidade por falta de intervenção do Ministério Público) (aplicação narrada) | REsp 2.243.354, Terceira Turma, relator Min. Humberto Martins, julgado em 08/06/2026 | A ausência de manifestação do Ministério Público não gera nulidade sem a efetiva demonstração de prejuízo (art. 279, § 2º); no caso de reclamação rejeitada liminarmente, a revisão desse entendimento exigiria reexame do acervo fático-probatório, obstado pela Súmula 7 do Superior Tribunal de Justiça. Trecho: “A ausência de manifestação do Ministério Público em âmbito de reclamação rejeitada liminarmente não gera nulidade sem a efetiva demonstração de prejuízo.” |
+| Caput — intimação do Ministério Público em segundo grau | AREsp 2.094.467, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 22/04/2026, DJEN de 27/04/2026 | Nas causas de interesse público ou social, a intervenção do Ministério Público é obrigatória (art. 178, I) e sua falta de intimação para atuar como fiscal da ordem jurídica em segundo grau gera nulidade do julgamento. |
+
 ###### Art. 280
 
 **Art. 280.** As citações e as intimações serão nulas quando feitas sem observância das prescrições legais.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — nulidade da citação e exigência de prejuízo | AREsp 3.169.476, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 12/08/2026 | A nulidade do ato citatório não se reconhece sem demonstração de prejuízo, especialmente quando a finalidade do ato foi atingida; o erro na identificação nominal do citado, com endereço correto e ciência da diligência, não impõe a anulação dos atos subsequentes. |
 
 ###### Art. 281
 
@@ -3419,6 +3983,12 @@ Parágrafo único. Não se aplica o disposto no caput às nulidades que o juiz d
 **Art. 283.** O erro de forma do processo acarreta unicamente a anulação dos atos que não possam ser aproveitados, devendo ser praticados os que forem necessários a fim de se observarem as prescrições legais.
 
 Parágrafo único. Dar-se-á o aproveitamento dos atos praticados desde que não resulte prejuízo à defesa de qualquer parte.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Parágrafo único — aproveitamento dos atos praticados sem prejuízo à defesa (aplicação) (aplicação narrada) | AREsp 2.226.192, Terceira Turma, relator Min. Moura Ribeiro, julgado em 16/03/2026 | No caso, manteve-se o aproveitamento da prova pericial produzida antes da citação dos litisconsortes necessários: regularmente integrados ao feito, os herdeiros do litisconsorte não impugnaram o aproveitamento da perícia nem declararam interesse na produção de outras provas, de modo que não se demonstrou prejuízo à defesa — pressuposto do aproveitamento dos atos já praticados. A revisão dessa conclusão exigiria reexame do acervo probatório (Súmula 7). Trecho: “Verificado que o acórdão recorrido concluiu pela inexistência de prejuízo aos herdeiros do litisconsorte, os quais, regularmente integrados ao processo, não se opuseram ao aproveitamento da prova pericial nem manifestaram interesse na produção de outras provas, impõe-se reconhecer consonância com a jurisprudência consolidada desta Corte, atraindo a incidência da Súmula n.” |
 
 ### Título IV: da distribuição e do registro (arts. 284 a 290)
 
@@ -3444,6 +4014,12 @@ III - quando houver ajuizamento de ações nos termos do art. 55, § 3º, ao ju�
 
 Parágrafo único. Havendo intervenção de terceiro, reconvenção ou outra hipótese de ampliação objetiva do processo, o juiz, de ofício, mandará proceder à respectiva anotação pelo distribuidor.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| II — limites da distribuição por dependência | CC 215.225, Segunda Seção, relatora Min. Daniela Teixeira, DJe de 13/10/2025 | A distribuição por dependência (art. 286, II) visa evitar má-fé processual e escolha arbitrária do juízo; não é absoluta quando a nova ação é ajuizada em outro foro legalmente competente, sem intenção de burlar o juiz natural, sobretudo se o processo já teve tramitação avançada. |
+
 ###### Art. 287
 
 **Art. 287.** A petição inicial deve vir acompanhada de procuração, que conterá os endereços do advogado, eletrônico e não eletrônico.
@@ -3455,6 +4031,12 @@ I - no caso previsto no art. 104;
 II - se a parte estiver representada pela Defensoria Pública;
 
 III - se a representação decorrer diretamente de norma prevista na Constituição Federal ou em lei.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — procuração e autenticidade da postulação | REsp 2.268.610, Quarta Turma, relator Min. Raul Araújo, julgado em 30/06/2026 | Constatados indícios de litigância abusiva, o juiz pode exigir, de modo fundamentado e com observância da razoabilidade, a emenda da petição inicial para demonstrar o interesse de agir e a autenticidade da postulação; a ausência de ratificação pela parte autoriza a declaração de ineficácia dos atos praticados em seu nome e a responsabilização do advogado (art. 104, § 2º). |
 
 ###### Art. 288
 
@@ -3473,6 +4055,7 @@ III - se a representação decorrer diretamente de norma prevista na Constituiç
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Art. 290 (cancelamento da distribuição por falta de custas) | REsp 2.225.786, Quarta Turma, relator Min. Antonio Carlos Ferreira, julgado em 22/06/2026, DJEN de 30/06/2026 | O pagamento intempestivo das custas iniciais não impede o cancelamento da distribuição. |
+| Caput — cancelamento da distribuição | REsp 1.906.378, Terceira Turma, relatora Min. Nancy Andrighi, julgado em 11/05/2021, DJe de 14/05/2021 | O cancelamento da distribuição por falta de recolhimento das custas iniciais prescinde de citação ou intimação do réu, bastando a constatação da ausência do preparo e a inércia do autor após intimado; a extinção com base no art. 290 não implica condenação do autor ao pagamento dos ônus sucumbenciais. |
 
 ### Título V: do valor da causa (arts. 291 a 293)
 
@@ -3549,11 +4132,24 @@ Parágrafo único. A tutela provisória de urgência, cautelar ou antecipada, po
 
 Parágrafo único. Salvo decisão judicial em contrário, a tutela provisória conservará a eficácia durante o período de suspensão do processo.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Art. 296 (revogação da tutela provisória e restituição de valores) (aplicação narrada) | REsp 2.266.198, Segunda Turma, relator Min. Afrânio Vilela, julgado em 12/08/2026 | A restituição de valores percebidos por força de tutela provisória pressupõe a sua revogação em razão da improcedência da pretensão (Tema 692 do Superior Tribunal de Justiça); a consequência não incide quando o benefício concedido na tutela é substituído ou conformado no julgamento de mérito, sem inversão do resultado de procedência. Trecho: “Distinção em relação à tese firmada no Tema 692/STJ, que pressupõe a revogação da tutela provisória em decorrência da improcedência da pretensão.” |
+| Caput — revogação da tutela e eficácia dos efeitos | REsp 2.157.370, Terceira Turma, relator Min. Moura Ribeiro, julgado em 22/04/2026 | A revogação da tutela provisória tem eficácia ex tunc, impondo o retorno ao status quo ante e a recomposição do prejuízo por responsabilidade processual objetiva. |
+
 ###### Art. 297
 
 **Art. 297.** O juiz poderá determinar as medidas que considerar adequadas para efetivação da tutela provisória.
 
 Parágrafo único. A efetivação da tutela provisória observará as normas referentes ao cumprimento provisório da sentença, no que couber.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — medidas adequadas à efetivação da tutela | AgInt no REsp 2.247.023, Quarta Turma, relatora Min. Maria Isabel Gallotti, julgado em 22/06/2026 | O poder geral de cautela autoriza a determinação das medidas que o juiz considerar adequadas para assegurar a efetividade da tutela, inclusive a conversão de bloqueio em penhora e a revisão contábil pela contadoria. |
 
 ###### Art. 298
 
@@ -3652,6 +4248,13 @@ III - não havendo autocomposição, o prazo para contestação será contado na
 
 § 6º Caso entenda que não há elementos para a concessão de tutela antecipada, o órgão jurisdicional determinará a emenda da petição inicial em até 5 (cinco) dias, sob pena de ser indeferida e de o processo ser extinto sem resolução de mérito.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| § 1º, I — indicação precisa da emenda | AgInt no REsp 1.910.272, Terceira Turma, relator Min. Ricardo Villas Bôas Cueva, julgado em 26/08/2024, DJe de 29/08/2024 | A intimação do autor para aditar a inicial e o termo inicial do prazo de quinze dias do art. 303, § 1º, I, devem estar especificados com indicação precisa da emenda necessária; os prazos do réu, para recorrer, e do autor, para aditar, são subsequentes, não concomitantes. |
+| § 1º, I — intimação e prazo para o aditamento | REsp 1.766.376, Terceira Turma, relatora Min. Nancy Andrighi, julgado em 25/08/2020, DJe de 28/08/2020 | No processo eletrônico, a ciência do conteúdo decisório presume-se com a intimação formal; excepcionalmente, a juntada superveniente de petição supre a intimação quando revelar o inequívoco conhecimento da decisão e a plena ciência de que a parte deve tomar atitude processual — do que decorre o prazo de aditamento do art. 303, § 1º, I. O procedimento antecedente tem por fim a estabilização da tutela (art. 304) e a economia processual. |
+
 ###### Art. 304
 
 **Art. 304.** A tutela antecipada, concedida nos termos do art. 303, torna-se estável se da decisão que a conceder não for interposto o respectivo recurso.
@@ -3687,6 +4290,12 @@ III - não havendo autocomposição, o prazo para contestação será contado na
 
 Parágrafo único. Caso entenda que o pedido a que se refere o caput tem natureza antecipada, o juiz observará o disposto no art. 303.
 
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — natureza da tutela cautelar antecedente | REsp 2.236.052, Quinta Turma, relatora Min. Daniela Teixeira, julgado em 12/08/2026 | A tutela cautelar requerida em caráter antecedente possui natureza preparatória e provisória, destinada a assegurar a utilidade do processo principal, e não se confunde com o pedido principal, cuja formulação definitiva depende da apresentação do pedido ou do aditamento da petição inicial, nos termos do art. 308 do CPC. |
+
 ###### Art. 306
 
 **Art. 306.** O réu será citado para, no prazo de 5 (cinco) dias, contestar o pedido e indicar as provas que pretende produzir.
@@ -3696,6 +4305,12 @@ Parágrafo único. Caso entenda que o pedido a que se refere o caput tem naturez
 **Art. 307.** Não sendo contestado o pedido, os fatos alegados pelo autor presumir-se-ão aceitos pelo réu como ocorridos, caso em que o juiz decidirá dentro de 5 (cinco) dias.
 
 Parágrafo único. Contestado o pedido no prazo legal, observar-se-á o procedimento comum.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — presunção relativa de veracidade | REsp 2.224.632, Terceira Turma, relator Min. Moura Ribeiro, julgado em 12/08/2026 | A presunção de veracidade decorrente da revelia é relativa e, nas ações de alimentos, por envolverem direitos indisponíveis, não conduz por si só ao acolhimento automático do pedido, permanecendo o arbitramento pelo binômio necessidade-possibilidade. |
 
 ###### Art. 308
 
@@ -3726,6 +4341,12 @@ II - não for efetivada dentro de 30 (trinta) dias;
 III - o juiz julgar improcedente o pedido principal formulado pelo autor ou extinguir o processo sem resolução de mérito.
 
 Parágrafo único. Se por qualquer motivo cessar a eficácia da tutela cautelar, é vedado à parte renovar o pedido, salvo sob novo fundamento.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| I — cessação pela não formulação do pedido principal | AREsp 2.363.091, Quarta Turma, relator Min. Raul Araújo, julgado em 16/03/2026 | Efetivada a tutela cautelar, o pedido principal deve ser formulado no prazo de 30 dias, sob pena de cessação da eficácia da medida e de extinção do processo. |
 
 ###### Art. 310
 
@@ -3760,6 +4381,12 @@ Parágrafo único. Nas hipóteses dos incisos II e III, o juiz poderá decidir l
 ###### Art. 312
 
 **Art. 312.** Considera-se proposta a ação quando a petição inicial for protocolada, todavia, a propositura da ação só produz quanto ao réu os efeitos mencionados no art. 240 depois que for validamente citado.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — propositura da ação e emenda da inicial | REsp 2.066.843, Segunda Turma, relator Min. Marco Aurélio Bellizze, julgado em 05/05/2026 | Nos termos do art. 312 do CPC, considera-se proposta a ação na data do protocolo da petição inicial, o que, em princípio, não se altera pela emenda à exordial; somente o aditamento indispensável ao válido e regular processamento da demanda tem o condão de postergar a data da propositura. |
 
 ### Título II: da suspensão do processo (arts. 313 a 315)
 
@@ -3818,6 +4445,12 @@ II - falecido o autor e sendo transmissível o direito em litígio, determinará
 ###### Art. 314
 
 **Art. 314.** Durante a suspensão é vedado praticar qualquer ato processual, podendo o juiz, todavia, determinar a realização de atos urgentes a fim de evitar dano irreparável, salvo no caso de arguição de impedimento e de suspeição.
+
+###### Jurisprudência do Superior Tribunal de Justiça
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — prática de atos urgentes durante a suspensão do processo | AREsp 2.644.080, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 09/03/2026 | Suspenso o processo pelo falecimento da parte (art. 313, I), o juiz pode determinar ato urgente para evitar dano irreparável — no caso, a imissão na posse diante do abandono do imóvel. O critério é a urgência concreta e a finalidade de evitar o perecimento do direito, e não a natureza do ato. |
 
 ###### Art. 315
 
@@ -3881,58 +4514,69 @@ Não localizadas nas bases consultadas para os dispositivos deste Livro.
 ## 7.1 Livro I: das normas processuais civis
 
 - **Alcance da busca.** Colheita sistemática de 1º/01/2016 a 17/10/2026, por dispositivo (caput, parágrafos e incisos), nos acervos de curadoria interna (Supremo Tribunal Federal e Superior Tribunal de Justiça) e no repositório externo, com lista ordenada pela hierarquia dos precedentes. A busca é semântica: artigo sem julgado com tese própria no acervo permanece apenas com o texto legal, o que não prova inexistência de jurisprudência.
-- **Arts. 1º, 2º, 4º, 5º, 7º a 9º, 12, 13 e 15.** A busca por dispositivo não localizou acórdão com tese própria além dos citados; o resultado de pesquisa semântica por princípios é reduzido no acervo.
+- **Arts. 1º, 2º, 4º, 5º, 7º a 9º, 12, 13 e 15.** A busca por dispositivo não localizou acórdão com tese própria ou orientação de aplicação além dos citados; o resultado de pesquisa semântica por princípios é reduzido no acervo.
 
 ## 7.2 Livro II: da função jurisdicional
 
 - **Alcance da busca.** Colheita sistemática de 1º/01/2016 a 17/10/2026, por dispositivo (caput, parágrafos e incisos), nos acervos de curadoria interna (Supremo Tribunal Federal e Superior Tribunal de Justiça) e no repositório externo, com lista ordenada pela hierarquia dos precedentes. A busca é semântica: artigo sem julgado com tese própria no acervo permanece apenas com o texto legal, o que não prova inexistência de jurisprudência.
-- **Arts. 16, 18 a 20, 22, 27, 29, 31 a 41, 44, 47 a 51, 54, 57, 60 a 62, 65 e 67 a 69.** Sem acórdão com tese própria nos acervos consultados.
+- **Arts. 16, 18 a 20, 22, 27, 29, 31 a 41, 44, 47 a 51, 54, 57, 60 a 62, 65 e 67 a 69.** Sem acórdão com tese própria ou orientação de aplicação nos acervos consultados.
 - **Súmula 33 e art. 63, §§ 3º e 5º.** Não foi localizado acórdão que tenha reexaminado a súmula à luz do texto atual do art. 63 (Lei 14.879/2024).
 
 ## 7.3 Livro III: dos sujeitos do processo
 
 - **Alcance da busca.** Colheita sistemática de 1º/01/2016 a 17/10/2026, por dispositivo (caput, parágrafos e incisos), nos acervos de curadoria interna (Supremo Tribunal Federal e Superior Tribunal de Justiça) e no repositório externo, com lista ordenada pela hierarquia dos precedentes. A busca é semântica: artigo sem julgado com tese própria no acervo permanece apenas com o texto legal, o que não prova inexistência de jurisprudência.
-- **Art. 143 (responsabilidade civil do juiz).** A remissão do texto legal à ADPF 774 não foi localizada na base de controle concentrado do STF (consulta por número, repetida em 17/10/2026) nem no repositório externo (consulta por classe e número); a busca semântica por responsabilidade do magistrado, a partir de 2020, no repositório externo só trouxe acórdãos sobre responsabilidade do Estado e agravos, sem tese sobre o art. 143. Conferir a ADPF 774 diretamente no portal do STF.
+- **Art. 143 (responsabilidade civil do juiz).** A ADPF 774, a que o texto legal remete, foi localizada no portal oficial do STF (processo 0111010-62.2020.1.00.0000, rel. Min. André Mendonça); a cautelar foi deferida em parte em 22/03/2022 e o processo está pendente de julgamento definitivo (concluso ao relator em 24/07/2023). A decisão cautelar não alcança as ações fundadas exclusivamente no art. 143 do CPC, de modo que o dispositivo segue sem tese definitiva.
 - **Tema 1210/STJ.** O acervo traz, como acórdão do tema, o de afetação (15/08/2023); a data do julgamento da tese deve ser conferida no portal do tribunal.
 - **Tema 1255/STF.** Afetado e sem tese; pode alterar a aplicação do Tema 1076/STJ.
+- **ADI 5086 e ADPF 449.** A linha do art. 138 foi corrigida: refere-se ao **agravo regimental da ADI 5086**, cuja sessão virtual (11 a 17/05/2018) consta do acervo de controle concentrado, e não à ADPF 449, julgada em **09/05/2019** (Informativo 939). O relator da ADI 5086 vem do repositório externo, donde a marca.
 - **Repositório externo.** Os acórdãos marcados provêm de repositório de terceiros; relator e data devem ser conferidos no portal do STF.
 
 ## 7.4 Livro IV: dos atos processuais
 
 - **Alcance da busca.** Colheita sistemática de 1º/01/2016 a 17/10/2026, por dispositivo (caput, parágrafos e incisos), nos acervos de curadoria interna (Supremo Tribunal Federal e Superior Tribunal de Justiça) e no repositório externo, com lista ordenada pela hierarquia dos precedentes. A busca é semântica: artigo sem julgado com tese própria no acervo permanece apenas com o texto legal, o que não prova inexistência de jurisprudência.
 - **Arts. 188 a 189, 191, 193 a 218 (exceto o 190), 221, 222, 225 a 228, 232 a 236, 238 e 239, 241, 243 a 245, 247, 249 a 255, 257 a 266, 268, 269, 271, 273, 274 e 276 a 289.** Sem acórdão com tese própria nos acervos consultados, ou apenas Turma que aplica óbice de admissibilidade.
-- **Repositório externo.** A ADC 51 e as demais referências marcadas devem ser conferidas no portal do STF.
+- **Repositório externo.** As referências marcadas devem ser conferidas no portal do STF.
 
 ## 7.5 Livro V: da tutela provisória
 
 - **Alcance da busca.** Colheita sistemática de 1º/01/2016 a 17/10/2026, por dispositivo (caput, parágrafos e incisos), nos acervos de curadoria interna (Supremo Tribunal Federal e Superior Tribunal de Justiça) e no repositório externo, com lista ordenada pela hierarquia dos precedentes. A busca é semântica: artigo sem julgado com tese própria no acervo permanece apenas com o texto legal, o que não prova inexistência de jurisprudência.
-- **Arts. 295 a 298, 302, 303 e 305 a 310.** Sem acórdão com tese própria nos acervos consultados além dos citados.
+- **Arts. 295 a 298, 302, 303 e 305 a 310.** Sem acórdão com tese própria ou orientação de aplicação nos acervos consultados além dos citados.
 - **Tema 1257/STJ.** Recurso extraordinário pendente; conferir a situação no acervo.
 
 ## 7.6 Livro VI: da formação, da suspensão e da extinção do processo
 
 - **Alcance da busca.** Colheita sistemática de 1º/01/2016 a 17/10/2026, por dispositivo (caput, parágrafos e incisos), nos acervos de curadoria interna (Supremo Tribunal Federal e Superior Tribunal de Justiça) e no repositório externo, com lista ordenada pela hierarquia dos precedentes. A busca é semântica: artigo sem julgado com tese própria no acervo permanece apenas com o texto legal, o que não prova inexistência de jurisprudência.
-- **Arts. 312, 314, 315 e 316.** Sem acórdão com tese própria nos acervos consultados.
+- **Arts. 312, 314, 315 e 316.** Sem acórdão com tese própria ou orientação de aplicação nos acervos consultados.
 
 # Referências
 
 ## Supremo Tribunal Federal (curadoria interna)
 
+BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 5.814. Relator: Min. Roberto Barroso. Julgado em 6 fev. 2019.
+
 BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 5737. Relator: Min. Dias Toffoli. Redator para o acórdão: Min. Roberto Barroso. Julgamento em sessão virtual de 14 a 24 abr. 2023 (julgada em conjunto com a ADI 5492).
+
+BRASIL. Supremo Tribunal Federal. Primeira Turma. Petição 5.946. Relator: Min. Marco Aurélio. Julgado em 16 ago. 2016.
+
+BRASIL. Supremo Tribunal Federal. Segunda Turma. Recurso Extraordinário 634.595. Relator: Min. Dias Toffoli. Julgado em 3 abr. 2018. Informativo 896.
 
 BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 6792. Relatora originária: Min. Rosa Weber. Julgamento em 22 maio 2024 (julgada em conjunto com a ADI 7055).
 
 BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 7055. Relatora originária: Min. Rosa Weber. Julgamento em 22 maio 2024.
 
+BRASIL. Supremo Tribunal Federal. Medida Cautelar na Arguição de Descumprimento de Preceito Fundamental 774. Relator: Min. André Mendonça. Distrito Federal, decisão monocrática de 22 mar. 2022. DJe 23 mar. 2022.
+
 BRASIL. Supremo Tribunal Federal. Repercussão Geral. Tema 1255. Recurso Extraordinário 1412069 (paradigma). Afetado, sem tese.
 
+BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 5.941. Relator: Min. Luiz Fux. Julgado em 9 fev. 2023.
+
 BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 5953. Relator: Min. Edson Fachin. Redator para o acórdão: Min. Gilmar Mendes. Julgamento em sessão virtual de 11 a 21 ago. 2023.
+
+BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 6.324. Relator: Min. Roberto Barroso. Julgada em 21 ago. 2023. Informativo.
 
 BRASIL. Supremo Tribunal Federal. Repercussão Geral. Tema 799. Agravo em Recurso Extraordinário 722421 (paradigma). Sem repercussão geral (questão infraconstitucional).
 
 ## Supremo Tribunal Federal (repositório externo)
-
-BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 5.814. Relator: Min. Roberto Barroso. Julgado em 6 fev. 2019. [Repositório externo].
 
 BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Agravo em Recurso Extraordinário 954.858. Relator: Min. Edson Fachin. Julgado em 11 maio 2017. [Repositório externo].
 
@@ -3945,8 +4589,6 @@ BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Cível Originária 3104
 BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 5.086. Relator: Min. Luiz Fux. Sessão virtual de 11 a 17 maio 2018. [Repositório externo].
 
 BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 5.934. Relator: Min. André Mendonça. Sessão virtual de 9 a 16 ago. 2024. [Repositório externo].
-
-BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 5.941. Relator: Min. Luiz Fux. Julgado em 9 fev. 2023. [Repositório externo].
 
 BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 6.159. Relator: Min. Roberto Barroso. Sessão virtual de 14 a 21 ago. 2020. [Repositório externo].
 
@@ -3990,9 +4632,19 @@ BRASIL. Superior Tribunal de Justiça. Primeira Seção. Recurso Especial 2.117.
 
 BRASIL. Superior Tribunal de Justiça. Primeira Turma. Recurso em Mandado de Segurança 52.463. Relator: Min. Gurgel de Faria. Julgado em 4 set. 2018. DJe 13 set. 2018.
 
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 1.914.617. Relator: Min. Raul Araújo. Julgado em 1 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 1.996.081. Relator: Min. João Otávio de Noronha. Julgado em 16 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.264.854. Relator: Min. João Otávio de Noronha. Julgado em 25 maio 2026.
+
 BRASIL. Superior Tribunal de Justiça. Segunda Seção. Conflito de Competência 150.252. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 10 jun. 2020. DJe 16 jun. 2020.
 
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo em Recurso Especial 3.163.394. Relator: Min. Francisco Falcão. Julgado em 18 ago. 2026.
+
 BRASIL. Superior Tribunal de Justiça. Segunda Turma. Recurso Especial 1.815.762. Relator: Min. Mauro Campbell Marques. Julgado em 5 nov. 2019. DJe 7 nov. 2019.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Recurso Especial 2.270.544. Relator: Min. Teodoro Silva Santos. Julgado em 12 ago. 2026.
 
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Agravo em Recurso Especial 2.706.177. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 11 nov. 2024. DJe 14 nov. 2024.
 
@@ -4000,11 +4652,25 @@ BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.833.93
 
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.076.294. Relatora: Min. Nancy Andrighi. DJe 18 dez. 2023.
 
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.224.132. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 16 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Interno na CR 21.916. Relator: Min. Herman Benjamin. Julgado em 23 set. 2025. DJEN 29 set. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Interno na CR 22.011. Relator: Min. Herman Benjamin. Julgado em 19 ago. 2026. DJEN 21 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Interno no CR 19.637. Relator: Min. Herman Benjamin. DJe 25 mar. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Interno nos Embargos de Declaração na CR 20.634. Relator: Min. Herman Benjamin. Julgado em 18 ago. 2026. DJEN 21 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Interno nos Embargos de Declaração na Homologação de Decisão Estrangeira 11.520. Relator: Min. Luis Felipe Salomão. Julgado em 9 jun. 2026.
+
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Regimental na Reclamação 39.223. Relator: Min. João Otávio de Noronha. Julgado em 25 ago. 2020. DJe 31 ago. 2020.
 
 BRASIL. Superior Tribunal de Justiça. Corte Especial. CR 22.380. Relator: Min. Herman Benjamin. Julgado em 4 mar. 2026. DJEN 29 maio 2026.
 
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Homologação de Decisão Estrangeira 1.396. Relatora: Min. Nancy Andrighi. Julgado em 23 set. 2019. DJe 26 set. 2019.
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Homologação de Decisão Estrangeira 11.278. Relator: Min. Francisco Falcão. Julgado em 12 maio 2026. DJEN 15 maio 2026.
 
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Homologação de Decisão Estrangeira 11.889. Relator: Min. Raul Araújo. Julgado em 3 jun. 2026. DJEN 12 jun. 2026.
 
@@ -4034,17 +4700,35 @@ BRASIL. Superior Tribunal de Justiça. Corte Especial. Súmula 59. Julgada em 8 
 
 BRASIL. Superior Tribunal de Justiça. Primeira Seção. Agravo Interno no Conflito de Competência 177.499. Relator: Min. Gurgel de Faria. Julgado em 9 fev. 2022. DJe 7 mar. 2022.
 
+BRASIL. Superior Tribunal de Justiça. Primeira Seção. Agravo Interno no Conflito de Competência 202.644. Relatora: Min. Maria Thereza de Assis Moura. Julgado em 11 mar. 2026.
+
 BRASIL. Superior Tribunal de Justiça. Primeira Seção. Conflito de Competência 191.185. Relator: Min. Afrânio Vilela. Julgado em 28 fev. 2024. DJe 4 mar. 2024.
+
+BRASIL. Superior Tribunal de Justiça. Primeira Seção. Conflito de Competência 218.817. Relator: Min. Teodoro Silva Santos. Julgado em 16 jun. 2026.
 
 BRASIL. Superior Tribunal de Justiça. Primeira Seção. Questão de Ordem no Conflito de Competência 170.051. Relator: Min. Mauro Campbell Marques. Julgado em 26 ago. 2020. DJe 25 set. 2020.
 
 BRASIL. Superior Tribunal de Justiça. Primeira Seção. Recurso Especial 1.903.920. Relator: Min. Og Fernandes. Julgado em 21 out. 2021. DJe 13 dez. 2021.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.434.964. Relator: Min. Raul Araújo. Julgado em 16 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.554.171. Relator: Min. Antonio Carlos Ferreira. Julgado em 4 maio 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 1.197.814. Relator: Min. Raul Araújo. Julgado em 25 jun. 2019. DJe 1 jul. 2019.
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 1.341.280. Relatora: Min. Maria Isabel Gallotti. Julgado em 21 ago. 2023. DJe 24 ago. 2023.
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 2.008.580. Relator: Min. Raul Araújo. Julgado em 9 maio 2022. DJe 10 jun. 2022.
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 2.523.075. Relatora: Min. Maria Isabel Gallotti. Julgado em 14 abr. 2025. DJEN 24 abr. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno nos Embargos de Declaração no Agravo em Recurso Especial 2.153.668. Relatora: Min. Maria Isabel Gallotti. Julgado em 4 maio 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Embargos de Declaração no Agravo Interno no Recurso Especial 2.187.071. Relator: Min. Luís Carlos Gambogi (Desembargador Convocado do Tjmg). Julgado em 12 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Embargos de Divergência em Recurso Especial 1.630.199. Relator: Min. Antonio Carlos Ferreira. DJe 10 ago. 2021.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.249.200. Relator: Min. Antonio Carlos Ferreira. Julgado em 12 ago. 2026.
 
 BRASIL. Superior Tribunal de Justiça. Segunda Seção. Agravo Interno no Conflito de Competência 165.083. Relatora: Min. Nancy Andrighi. Julgado em 18 ago. 2020. DJe 21 ago. 2020.
 
@@ -4055,6 +4739,28 @@ BRASIL. Superior Tribunal de Justiça. Segunda Seção. Conflito de Competência
 BRASIL. Superior Tribunal de Justiça. Segunda Seção. Conflito de Competência 153.641. Relator: Min. Marco Aurélio Bellizze. Julgado em 13 dez. 2017. DJe 19 dez. 2017.
 
 BRASIL. Superior Tribunal de Justiça. Segunda Seção. Conflito de Competência 160.329. Relatora: Min. Nancy Andrighi. Julgado em 27 fev. 2019. DJe 6 mar. 2019.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Seção. Conflito de Competência 213.886. Relatora: Min. Daniela Teixeira. DJe 15 set. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo Interno no Agravo em Recurso Especial 3.023.882. Relator: Min. Marco Aurélio Bellizze. Julgado em 24 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo Interno no Recurso Especial 2.206.431. Relatora: Min. Maria Thereza de Assis Moura.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Recurso em Mandado de Segurança 79.162. Relator: Min. Teodoro Silva Santos. Julgado em 12 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 1.613.920. Relator: Min. Moura Ribeiro. Julgado em 16 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 3.029.990. Relator: Min. Moura Ribeiro. Julgado em 1 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.131.408. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 7 abr. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.187.009. Relator: Min. Humberto Martins. Julgado em 9 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.196.099. Relator: Min. Moura Ribeiro. Julgado em 8 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.229.257. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 9 fev. 2026. DJEN 12 fev. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Embargos de Divergência em Recurso Especial 1.810.281. Relatora: Min. Nancy Andrighi. DJe 14 maio 2025.
 
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Recurso Especial 1.648.238 (Tema 973). Relator: Min. Gurgel de Faria. Julgado em 20 jun. 2018. DJe 27 jun. 2018.
 
@@ -4102,47 +4808,157 @@ BRASIL. Superior Tribunal de Justiça. Primeira Seção. Súmula 189. Julgada em
 
 BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo em Recurso Especial 2.670.058. Relator: Min. Gurgel de Faria. Julgado em 22 out. 2024. DJe 11 nov. 2024.
 
+BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo em Recurso Especial 3.055.177. Relator: Min. Paulo Sérgio Domingues. Julgado em 19 maio 2026.
+
+BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo Interno no Agravo em Recurso Especial 2.513.897. Relator: Min. Sérgio Kukina.
+
 BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo Interno no Agravo em Recurso Especial 2.551.247. Relator: Min. Sérgio Kukina. Julgado em 23 set. 2024. DJe 25 set. 2024.
+
+BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo Interno no Agravo em Recurso Especial 2.792.284. Relator: Min. Gurgel de Faria. DJe 6 maio 2025.
 
 BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo Interno no Agravo em Recurso Especial 2.891.635. Relator: Min. Paulo Sérgio Domingues. Julgado em 24 ago. 2026. DJEN 27 ago. 2026.
 
+BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo Interno no Recurso Especial 2.046.942. Relator: Min. Benedito Gonçalves. Julgado em 20 nov. 2023. DJe 22 nov. 2023.
+
+BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo Interno no Recurso Especial 2.137.725. Relatora: Min. Regina Helena Costa. DJe 12 dez. 2024.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.132.333. Relator: Min. Raul Araújo. Julgado em 2 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.367.534. Relator: Min. Raul Araújo. Julgado em 16 mar. 2026.
+
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.540.229. Relator: Min. Raul Araújo. Julgado em 12 maio 2025. DJEN 19 maio 2025.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.937.328. Relator: Min. João Otávio de Noronha. Julgado em 22 abr. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.974.466. Relator: Min. Raul Araújo. Julgado em 11 maio 2026. DJEN 15 maio 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 3.023.022. Relator: Min. João Otávio de Noronha. Julgado em 30 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 3.068.822. Relator: Min. João Otávio de Noronha. Julgado em 1 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 3.128.009. Relator: Min. João Otávio de Noronha. Julgado em 12 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 3.133.518. Relator: Min. João Otávio de Noronha. Julgado em 16 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 2.062.597. Relatora: Min. Maria Isabel Gallotti. DJe 31 mar. 2023.
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 2.509.062. Relator: Min. Raul Araújo. Julgado em 24 jun. 2024. DJe 27 jun. 2024.
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 2.989.688. Relator: Min. Raul Araújo. Julgado em 8 jun. 2026. DJEN 12 jun. 2026.
 
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 3.117.991. Relator: Min. Raul Araújo. Julgado em 15 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Recurso Especial 2.154.773. Relator: Min. Marco Buzzi. DJe 19 dez. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno nos Embargos de Declaração no Recurso Especial 1.722.693. Relatora: Min. Maria Isabel Gallotti. Julgado em 22 jun. 2026.
+
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 1.991.994. Relator: Min. Raul Araújo. Julgado em 7 jun. 2022. DJe 20 jun. 2022.
 
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.021.425. Relator: Min. João Otávio de Noronha. Julgado em 11 maio 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.027.283. Relatora: Min. Maria Isabel Gallotti. Julgado em 12 ago. 2026.
+
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.042.061. Relator: Min. Raul Araújo. Julgado em 20 out. 2025. DJEN 29 out. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.120.455. Relator: Min. Antonio Carlos Ferreira. Julgado em 11 maio 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.126.492. Relator: Min. João Otávio de Noronha. Julgado em 16 mar. 2026. DJEN 19 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.154.502. Relator: Min. João Otávio de Noronha. Julgado em 9 fev. 2026. DJEN 12 fev. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.178.775. Relator: Min. João Otávio de Noronha. Julgado em 8 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.224.697. Relator: Min. João Otávio de Noronha. Julgado em 9 mar. 2026. DJEN 12 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.246.112. Relator: Min. Raul Araújo. Julgado em 30 mar. 2026. DJEN 8 abr. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.246.430. Relatora: Min. Maria Isabel Gallotti. Julgado em 16 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.255.093. Relator: Min. João Otávio de Noronha. Julgado em 8 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quinta Turma. Agravo Interno no Agravo em Recurso Especial 3.110.344. Relatora: Min. Daniela Teixeira. Julgado em 22 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quinta Turma. Agravo Regimental no Agravo em Recurso Especial 3.132.410. Relator: Min. Joel Ilan Paciornik. Julgado em 4 ago. 2026.
 
 BRASIL. Superior Tribunal de Justiça. Segunda Seção. Agravo Interno na ExSusp 195. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 26 jun. 2019. DJe 1 jul. 2019.
 
 BRASIL. Superior Tribunal de Justiça. Segunda Seção. Agravo Interno na ExSusp 256. Relatora: Min. Nancy Andrighi. Julgado em 8 mar. 2023. DJe 10 mar. 2023.
 
+BRASIL. Superior Tribunal de Justiça. Segunda Seção. Agravo Interno no ExeAR 6.369. Relator: Min. Ricardo Villas Bôas Cueva. DJe 16 maio 2024.
+
 BRASIL. Superior Tribunal de Justiça. Segunda Seção. Proposta de Afetação no Recurso Especial 1.873.187 e 1.873.811 (Tema 1210). Relator: Min. Raul Araújo. Julgados em 15 ago. 2023. DJe 29 ago. 2023.
 
 BRASIL. Superior Tribunal de Justiça. Segunda Seção. Recurso Especial 1.763.462. Relator: Min. Paulo de Tarso Sanseverino. Julgado em 9 jun. 2021. DJe 1 jul. 2021.
 
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo em Recurso Especial 1.992.131. Relator: Min. Francisco Falcão. Julgado em 8 nov. 2022. DJe 14 nov. 2022.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo Interno no Agravo em Recurso Especial 2.237.543. Relator: Min. Herman Benjamin. Julgado em 24 jun. 2024. DJe 28 jun. 2024.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo Interno no Recurso Especial 2.146.248. Relator: Min. Marco Aurélio Bellizze.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Recurso Especial 1.831.507. Relator: Min. Mauro Campbell Marques. Julgado em 6 ago. 2024. DJe 9 ago. 2024.
+
 BRASIL. Superior Tribunal de Justiça. Terceira Seção. Recurso Especial 1.349.935. Relator: Min. Rogerio Schietti Cruz. Julgado em 23 ago. 2017. DJe 14 set. 2017.
 
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 2.503.062. Relator: Min. Moura Ribeiro. Julgado em 16 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 2.828.269. Relator: Min. Moura Ribeiro. Julgado em 27 out. 2025. DJEN 30 out. 2025.
+
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 2.982.042. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 22 abr. 2026. DJEN 27 abr. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Agravo em Recurso Especial 1.790.001. Relatora: Min. Nancy Andrighi. DJe 25 jun. 2021.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Agravo em Recurso Especial 2.230.102. Relator: Min. Humberto Martins. Julgado em 21 ago. 2023. DJe 24 ago. 2023.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Agravo em Recurso Especial 2.830.723. Relator: Min. Humberto Martins. Julgado em 1 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Recurso Especial 2.260.946. Relator: Min. Humberto Martins. Julgado em 1 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Embargos de Declaração no Agravo Interno no Agravo em Recurso Especial 2.890.761. Relator: Min. Moura Ribeiro. Julgado em 22 jun. 2026.
 
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso em Mandado de Segurança 64.894. Relatora: Min. Nancy Andrighi. Julgado em 3 ago. 2021. DJe 9 ago. 2021.
 
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.651.165. Relatora: Min. Nancy Andrighi. Julgado em 19 set. 2017. DJe 26 set. 2017.
 
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.821.048. Relatora: Min. Nancy Andrighi. Julgado em 27 ago. 2019. DJe 29 ago. 2019.
+
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.827.692. Relatora: Min. Daniela Teixeira. Julgado em 23 jun. 2025. DJEN 26 jun. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.870.654. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 18 ago. 2026. DJEN 24 ago. 2026.
 
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.925.959. Relator: Min. Paulo de Tarso Sanseverino. Julgado em 12 set. 2023. DJe 22 set. 2023.
 
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.949.665. Relator: Min. Marco Aurélio Bellizze. Julgado em 17 out. 2023. DJe 25 out. 2023.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.037.961. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 12 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.055.363. Relatora: Min. Nancy Andrighi. Julgado em 13 jun. 2023. DJe 23 jun. 2023.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.092.572. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 9 mar. 2026. DJe 12 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.101.170. Relator: Min. Humberto Martins. Julgado em 8 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.169.413. Relatora: Min. Nancy Andrighi. Julgado em 3 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.230.568. Relator: Min. Moura Ribeiro. Julgado em 4 maio 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.232.532. Relator: Min. Moura Ribeiro. Julgado em 4 maio 2026.
 
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.235.989. Relator: Min. Humberto Martins. Julgado em 8 jun. 2026. DJEN 11 jun. 2026.
 
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.239.150. Relatora: Min. Daniela Teixeira. Julgado em 12 ago. 2026. DJEN 17 ago. 2026.
 
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.241.508. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 15 dez. 2025. DJEN 18 dez. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.259.176. Relatora: Min. Nancy Andrighi. Julgado em 16 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Interno na Homologação de Decisão Estrangeira 12.166. Relator: Min. Herman Benjamin. Julgado em 10 mar. 2026. DJEN 16 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Interno na Homologação de Decisão Estrangeira 12.555. Relator: Min. Herman Benjamin. Julgado em 18 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Regimental no Habeas Corpus 969.308. Relatora: Min. Daniela Teixeira. DJe 10 jun. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Homologação de Decisão Estrangeira 10.733. Relator: Min. Raul Araújo. Julgado em 17 set. 2025. DJEN 25 set. 2025.
 
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Recurso Especial 1.632.777. Relator: Min. Napoleão Nunes Maia Filho. Julgado em 17 maio 2017. DJe 26 maio 2017.
 
@@ -4154,7 +4970,25 @@ BRASIL. Superior Tribunal de Justiça. Primeira Seção. Recurso Especial 1.976.
 
 BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo Interno no Agravo em Recurso Especial 2.072.362. Relator: Min. Gurgel de Faria. Julgado em 8 maio 2023. DJe 17 maio 2023.
 
+BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo Interno no Recurso Especial 1.837.482. Relator: Min. Gurgel de Faria. Julgado em 7 nov. 2023. DJe 15 dez. 2023.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.094.467. Relator: Min. João Otávio de Noronha. Julgado em 22 abr. 2026. DJEN 27 abr. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.304.564. Relator: Min. Raul Araújo. Julgado em 1 dez. 2025. DJEN 9 dez. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.651.596. Relator: Min. João Otávio de Noronha. Julgado em 22 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.663.378. Relator: Min. João Otávio de Noronha. Julgado em 9 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.878.218. Relator: Min. Raul Araújo. Julgado em 15 jun. 2026. DJEN 19 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 3.169.476. Relator: Min. João Otávio de Noronha. Julgado em 12 ago. 2026.
+
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno na Petição 18.792. Relatora: Min. Maria Isabel Gallotti. Julgado em 30 jun. 2026. DJEN 3 jul. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 2.332.925. Relatora: Min. Maria Isabel Gallotti. DJe 22 mar. 2024.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 3.089.957. Relator: Min. Luís Carlos Gambogi (Desembargador Convocado do Tjmg). Julgado em 22 jun. 2026.
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Recurso Especial 1.745.718. Relator: Min. Luis Felipe Salomão. Julgado em 31 ago. 2020. DJe 9 set. 2020.
 
@@ -4164,21 +4998,71 @@ BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 1.857.194.
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 1.948.877. Relator: Min. Raul Araújo. Julgado em 16 dez. 2025. DJEN 19 dez. 2025.
 
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.059.799. Relatora: Min. Maria Isabel Gallotti. Julgado em 9 fev. 2026. DJEN 12 fev. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.072.505. Relator: Min. João Otávio de Noronha. Julgado em 1 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.117.951. Relator: Min. Raul Araújo. Julgado em 9 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.140.098. Relator: Min. João Otávio de Noronha. Julgado em 16 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.144.119. Relatora: Min. Maria Isabel Gallotti. Julgado em 9 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.179.925. Relator: Min. João Otávio de Noronha. Julgado em 30 jun. 2026.
+
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.225.786. Relator: Min. Antonio Carlos Ferreira. Julgado em 22 jun. 2026. DJEN 30 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.227.802. Relator: Min. João Otávio de Noronha. Julgado em 30 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.268.610. Relator: Min. Raul Araújo. Julgado em 30 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Seção. Conflito de Competência 215.225. Relatora: Min. Daniela Teixeira. DJe 13 out. 2025.
 
 BRASIL. Superior Tribunal de Justiça. Segunda Seção. Recurso Especial 1.361.869 e Recurso Especial 1.362.038 (Tema 1015). Relator: Min. Raul Araújo. Julgados em 25 maio 2022. DJe 24 out. 2022.
 
 BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo Interno no Agravo em Recurso Especial 1.625.236. Relator: Min. Mauro Campbell Marques. Julgado em 14 set. 2020. DJe 17 set. 2020.
 
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo Interno nos Embargos de Declaração no Agravo em Recurso Especial 3.137.040. Relator: Min. Francisco Falcão. Julgado em 19 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 2.226.192. Relator: Min. Moura Ribeiro. Julgado em 16 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 2.731.232. Relator: Min. Moura Ribeiro. Julgado em 4 maio 2026. DJEN 8 maio 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 3.016.999. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 24 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 3.083.220. Relator: Min. Moura Ribeiro. Julgado em 23 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Agravo em Recurso Especial 2.455.226. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 10 jun. 2024. DJe 13 jun. 2024.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Agravo em Recurso Especial 2.715.195. Relator: Min. Humberto Martins. Julgado em 1 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.906.378. Relatora: Min. Nancy Andrighi. Julgado em 11 maio 2021. DJe 14 maio 2021.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.016.092. Relatora: Min. Nancy Andrighi. Julgado em 25 out. 2022. DJe 1 dez. 2022.
+
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.069.123. Relatora: Min. Nancy Andrighi. Julgado em 3 out. 2023. DJe 9 out. 2023.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.070.921. Relator: Min. Humberto Martins. Julgado em 12 ago. 2026. DJEN 17 ago. 2026.
 
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.095.170. Relator: Min. Humberto Martins. Julgado em 12 ago. 2025. DJEN 15 ago. 2025.
 
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.111.092. Relator: Min. Moura Ribeiro. Julgado em 13 abr. 2026. DJEN 16 abr. 2026.
 
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.126.117. Relatora: Min. Nancy Andrighi. Julgado em 14 maio 2024. DJe 17 maio 2024.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.179.211. Relator: Min. Moura Ribeiro. Julgado em 11 nov. 2025. DJe 24 nov. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.234.214. Relator: Min. Moura Ribeiro. Julgado em 2 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.243.354. Relator: Min. Humberto Martins. Julgado em 8 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.264.349. Relator: Min. Humberto Martins. Julgado em 12 ago. 2026.
+
 BRASIL. Superior Tribunal de Justiça. Primeira Seção. Petição 12.482 (Tema 692). Relator: Min. Og Fernandes. Julgado em 11 maio 2022. DJe 24 maio 2022.
 
 BRASIL. Superior Tribunal de Justiça. Primeira Turma. Recurso Especial 1.797.365. Relator: Min. Sérgio Kukina. Julgado em 3 out. 2019. DJe 22 out. 2019.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.363.091. Relator: Min. Raul Araújo. Julgado em 16 mar. 2026.
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno na TutAntAnt 22. Relator: Min. Raul Araújo. Julgado em 2 out. 2023. DJe 5 out. 2023.
 
@@ -4186,19 +5070,37 @@ BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno na TutCautAn
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Recurso Especial 2.110.998. Relatora: Min. Maria Isabel Gallotti. Julgado em 12 maio 2025. DJEN 16 maio 2025.
 
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Recurso Especial 2.247.023. Relatora: Min. Maria Isabel Gallotti. Julgado em 22 jun. 2026.
+
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 1.236.057. Relator: Min. Antonio Carlos Ferreira. Julgado em 6 abr. 2021. DJe 28 abr. 2021.
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 1.938.645. Relatora: Min. Maria Isabel Gallotti. Julgado em 4 jun. 2024. DJe 6 set. 2024.
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.025.626. Relatora: Min. Maria Isabel Gallotti. Julgado em 4 jun. 2024. DJe 5 set. 2024.
 
+BRASIL. Superior Tribunal de Justiça. Quinta Turma. Recurso Especial 2.236.052. Relatora: Min. Daniela Teixeira. Julgado em 12 ago. 2026.
+
 BRASIL. Superior Tribunal de Justiça. Segunda Seção. Agravo Interno na Ação Rescisória 5.839. Relator: Min. Luis Felipe Salomão. Julgado em 15 jun. 2021. DJe 21 jun. 2021.
 
 BRASIL. Superior Tribunal de Justiça. Segunda Seção. Agravo Interno no TP 575. Relator: Min. Marco Buzzi. Julgado em 28 jun. 2022. DJe 30 jun. 2022.
 
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Recurso Especial 2.266.198. Relator: Min. Afrânio Vilela. Julgado em 12 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Recurso Especial 1.910.272. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 26 ago. 2024. DJe 29 ago. 2024.
+
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.760.966. Relator: Min. Marco Aurélio Bellizze. Julgado em 4 dez. 2018. DJe 7 dez. 2018.
 
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.766.376. Relatora: Min. Nancy Andrighi. Julgado em 25 ago. 2020. DJe 28 ago. 2020.
+
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.895.663. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 14 dez. 2021. DJe 16 dez. 2021.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.157.370. Relator: Min. Moura Ribeiro. Julgado em 22 abr. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.224.632. Relator: Min. Moura Ribeiro. Julgado em 12 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.644.080. Relator: Min. João Otávio de Noronha. Julgado em 9 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Recurso Especial 2.066.843. Relator: Min. Marco Aurélio Bellizze. Julgado em 5 maio 2026.
 
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 2.442.156. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 24 nov. 2025. DJEN 1 dez. 2025.
 
@@ -4210,86 +5112,86 @@ Remete cada artigo da Parte Geral à página em que começa o seu texto.
 
 | Artigo | Pág. | Artigo | Pág. | Artigo | Pág. | Artigo | Pág. |
 |---|---|---|---|---|---|---|---|
-| Art. 1º | 21 | Art. 81 | 49 | Art. 161 | 81 | Art. 241 | 102 |
-| Art. 2º | 21 | Art. 82 | 50 | Art. 162 | 81 | Art. 242 | 102 |
-| Art. 3º | 21 | Art. 83 | 50 | Art. 163 | 81 | Art. 243 | 103 |
-| Art. 4º | 22 | Art. 84 | 51 | Art. 164 | 82 | Art. 244 | 103 |
-| Art. 5º | 22 | Art. 85 | 51 | Art. 165 | 82 | Art. 245 | 103 |
-| Art. 6º | 22 | Art. 86 | 56 | Art. 166 | 82 | Art. 246 | 104 |
-| Art. 7º | 22 | Art. 87 | 56 | Art. 167 | 82 | Art. 247 | 105 |
-| Art. 8º | 23 | Art. 88 | 56 | Art. 168 | 83 | Art. 248 | 105 |
-| Art. 9º | 23 | Art. 89 | 56 | Art. 169 | 84 | Art. 249 | 106 |
-| Art. 10 | 23 | Art. 90 | 56 | Art. 170 | 84 | Art. 250 | 106 |
-| Art. 11 | 24 | Art. 91 | 57 | Art. 171 | 84 | Art. 251 | 106 |
-| Art. 12 | 24 | Art. 92 | 57 | Art. 172 | 84 | Art. 252 | 107 |
-| Art. 13 | 25 | Art. 93 | 57 | Art. 173 | 84 | Art. 253 | 107 |
-| Art. 14 | 25 | Art. 94 | 57 | Art. 174 | 85 | Art. 254 | 107 |
-| Art. 15 | 26 | Art. 95 | 57 | Art. 175 | 85 | Art. 255 | 107 |
-| Art. 16 | 27 | Art. 96 | 58 | Art. 176 | 85 | Art. 256 | 107 |
-| Art. 17 | 27 | Art. 97 | 58 | Art. 177 | 85 | Art. 257 | 108 |
-| Art. 18 | 27 | Art. 98 | 58 | Art. 178 | 85 | Art. 258 | 108 |
-| Art. 19 | 27 | Art. 99 | 60 | Art. 179 | 86 | Art. 259 | 108 |
-| Art. 20 | 28 | Art. 100 | 61 | Art. 180 | 86 | Art. 260 | 109 |
-| Art. 21 | 28 | Art. 101 | 61 | Art. 181 | 86 | Art. 261 | 109 |
-| Art. 22 | 28 | Art. 102 | 61 | Art. 182 | 87 | Art. 262 | 109 |
-| Art. 23 | 29 | Art. 103 | 62 | Art. 183 | 87 | Art. 263 | 109 |
-| Art. 24 | 29 | Art. 104 | 62 | Art. 184 | 87 | Art. 264 | 110 |
-| Art. 25 | 30 | Art. 105 | 62 | Art. 185 | 87 | Art. 265 | 110 |
-| Art. 26 | 30 | Art. 106 | 63 | Art. 186 | 87 | Art. 266 | 110 |
-| Art. 27 | 31 | Art. 107 | 63 | Art. 187 | 88 | Art. 267 | 110 |
-| Art. 28 | 32 | Art. 108 | 64 | Art. 188 | 89 | Art. 268 | 111 |
-| Art. 29 | 32 | Art. 109 | 64 | Art. 189 | 89 | Art. 269 | 111 |
-| Art. 30 | 32 | Art. 110 | 64 | Art. 190 | 89 | Art. 270 | 111 |
-| Art. 31 | 32 | Art. 111 | 64 | Art. 191 | 90 | Art. 271 | 111 |
-| Art. 32 | 32 | Art. 112 | 64 | Art. 192 | 90 | Art. 272 | 112 |
-| Art. 33 | 32 | Art. 113 | 65 | Art. 193 | 90 | Art. 273 | 113 |
-| Art. 34 | 33 | Art. 114 | 65 | Art. 194 | 90 | Art. 274 | 113 |
-| Art. 35 | 33 | Art. 115 | 65 | Art. 195 | 91 | Art. 275 | 113 |
-| Art. 36 | 33 | Art. 116 | 66 | Art. 196 | 91 | Art. 276 | 113 |
-| Art. 37 | 33 | Art. 117 | 66 | Art. 197 | 91 | Art. 277 | 113 |
-| Art. 38 | 33 | Art. 118 | 66 | Art. 198 | 91 | Art. 278 | 114 |
-| Art. 39 | 33 | Art. 119 | 66 | Art. 199 | 91 | Art. 279 | 114 |
-| Art. 40 | 33 | Art. 120 | 66 | Art. 200 | 91 | Art. 280 | 114 |
-| Art. 41 | 34 | Art. 121 | 67 | Art. 201 | 92 | Art. 281 | 114 |
-| Art. 42 | 34 | Art. 122 | 67 | Art. 202 | 92 | Art. 282 | 114 |
-| Art. 43 | 34 | Art. 123 | 67 | Art. 203 | 92 | Art. 283 | 114 |
-| Art. 44 | 34 | Art. 124 | 67 | Art. 204 | 92 | Art. 284 | 115 |
-| Art. 45 | 35 | Art. 125 | 67 | Art. 205 | 92 | Art. 285 | 115 |
-| Art. 46 | 35 | Art. 126 | 68 | Art. 206 | 93 | Art. 286 | 115 |
-| Art. 47 | 36 | Art. 127 | 68 | Art. 207 | 93 | Art. 287 | 115 |
-| Art. 48 | 36 | Art. 128 | 68 | Art. 208 | 93 | Art. 288 | 115 |
-| Art. 49 | 37 | Art. 129 | 68 | Art. 209 | 93 | Art. 289 | 116 |
-| Art. 50 | 37 | Art. 130 | 69 | Art. 210 | 93 | Art. 290 | 116 |
-| Art. 51 | 37 | Art. 131 | 69 | Art. 211 | 93 | Art. 291 | 116 |
-| Art. 52 | 37 | Art. 132 | 69 | Art. 212 | 94 | Art. 292 | 116 |
-| Art. 53 | 37 | Art. 133 | 69 | Art. 213 | 94 | Art. 293 | 117 |
-| Art. 54 | 39 | Art. 134 | 70 | Art. 214 | 94 | Art. 294 | 118 |
-| Art. 55 | 39 | Art. 135 | 70 | Art. 215 | 94 | Art. 295 | 118 |
-| Art. 56 | 40 | Art. 136 | 71 | Art. 216 | 95 | Art. 296 | 118 |
-| Art. 57 | 40 | Art. 137 | 71 | Art. 217 | 95 | Art. 297 | 118 |
-| Art. 58 | 40 | Art. 138 | 71 | Art. 218 | 95 | Art. 298 | 118 |
-| Art. 59 | 40 | Art. 139 | 72 | Art. 219 | 95 | Art. 299 | 119 |
-| Art. 60 | 40 | Art. 140 | 73 | Art. 220 | 96 | Art. 300 | 119 |
-| Art. 61 | 41 | Art. 141 | 73 | Art. 221 | 96 | Art. 301 | 120 |
-| Art. 62 | 41 | Art. 142 | 73 | Art. 222 | 96 | Art. 302 | 120 |
-| Art. 63 | 41 | Art. 143 | 73 | Art. 223 | 96 | Art. 303 | 121 |
-| Art. 64 | 41 | Art. 144 | 74 | Art. 224 | 97 | Art. 304 | 121 |
-| Art. 65 | 42 | Art. 145 | 75 | Art. 225 | 97 | Art. 305 | 123 |
-| Art. 66 | 42 | Art. 146 | 76 | Art. 226 | 97 | Art. 306 | 123 |
-| Art. 67 | 43 | Art. 147 | 77 | Art. 227 | 97 | Art. 307 | 123 |
-| Art. 68 | 43 | Art. 148 | 77 | Art. 228 | 97 | Art. 308 | 123 |
-| Art. 69 | 43 | Art. 149 | 77 | Art. 229 | 98 | Art. 309 | 123 |
-| Art. 70 | 44 | Art. 150 | 78 | Art. 230 | 98 | Art. 310 | 124 |
-| Art. 71 | 44 | Art. 151 | 78 | Art. 231 | 98 | Art. 311 | 124 |
-| Art. 72 | 44 | Art. 152 | 78 | Art. 232 | 99 | Art. 312 | 125 |
-| Art. 73 | 44 | Art. 153 | 78 | Art. 233 | 99 | Art. 313 | 125 |
-| Art. 74 | 45 | Art. 154 | 79 | Art. 234 | 99 | Art. 314 | 126 |
-| Art. 75 | 45 | Art. 155 | 79 | Art. 235 | 100 | Art. 315 | 127 |
-| Art. 76 | 46 | Art. 156 | 80 | Art. 236 | 100 | Art. 316 | 127 |
-| Art. 77 | 47 | Art. 157 | 80 | Art. 237 | 101 | Art. 317 | 127 |
-| Art. 78 | 48 | Art. 158 | 80 | Art. 238 | 101 |  |  |
-| Art. 79 | 48 | Art. 159 | 81 | Art. 239 | 101 |  |  |
-| Art. 80 | 48 | Art. 160 | 81 | Art. 240 | 102 |  |  |
+| Art. 1º | 22 | Art. 81 | 58 | Art. 161 | 96 | Art. 241 | 122 |
+| Art. 2º | 22 | Art. 82 | 59 | Art. 162 | 97 | Art. 242 | 122 |
+| Art. 3º | 22 | Art. 83 | 59 | Art. 163 | 97 | Art. 243 | 123 |
+| Art. 4º | 23 | Art. 84 | 60 | Art. 164 | 97 | Art. 244 | 123 |
+| Art. 5º | 23 | Art. 85 | 60 | Art. 165 | 98 | Art. 245 | 123 |
+| Art. 6º | 24 | Art. 86 | 65 | Art. 166 | 98 | Art. 246 | 124 |
+| Art. 7º | 24 | Art. 87 | 66 | Art. 167 | 99 | Art. 247 | 125 |
+| Art. 8º | 24 | Art. 88 | 66 | Art. 168 | 99 | Art. 248 | 126 |
+| Art. 9º | 25 | Art. 89 | 66 | Art. 169 | 100 | Art. 249 | 126 |
+| Art. 10 | 25 | Art. 90 | 66 | Art. 170 | 100 | Art. 250 | 127 |
+| Art. 11 | 26 | Art. 91 | 67 | Art. 171 | 100 | Art. 251 | 127 |
+| Art. 12 | 26 | Art. 92 | 67 | Art. 172 | 100 | Art. 252 | 128 |
+| Art. 13 | 27 | Art. 93 | 68 | Art. 173 | 100 | Art. 253 | 128 |
+| Art. 14 | 27 | Art. 94 | 68 | Art. 174 | 101 | Art. 254 | 129 |
+| Art. 15 | 28 | Art. 95 | 68 | Art. 175 | 101 | Art. 255 | 129 |
+| Art. 16 | 29 | Art. 96 | 69 | Art. 176 | 101 | Art. 256 | 129 |
+| Art. 17 | 29 | Art. 97 | 69 | Art. 177 | 101 | Art. 257 | 130 |
+| Art. 18 | 29 | Art. 98 | 69 | Art. 178 | 101 | Art. 258 | 130 |
+| Art. 19 | 30 | Art. 99 | 71 | Art. 179 | 102 | Art. 259 | 130 |
+| Art. 20 | 30 | Art. 100 | 72 | Art. 180 | 102 | Art. 260 | 131 |
+| Art. 21 | 30 | Art. 101 | 72 | Art. 181 | 103 | Art. 261 | 131 |
+| Art. 22 | 31 | Art. 102 | 73 | Art. 182 | 103 | Art. 262 | 131 |
+| Art. 23 | 32 | Art. 103 | 73 | Art. 183 | 103 | Art. 263 | 132 |
+| Art. 24 | 32 | Art. 104 | 73 | Art. 184 | 104 | Art. 264 | 132 |
+| Art. 25 | 33 | Art. 105 | 74 | Art. 185 | 104 | Art. 265 | 132 |
+| Art. 26 | 33 | Art. 106 | 74 | Art. 186 | 104 | Art. 266 | 132 |
+| Art. 27 | 34 | Art. 107 | 75 | Art. 187 | 105 | Art. 267 | 132 |
+| Art. 28 | 35 | Art. 108 | 75 | Art. 188 | 106 | Art. 268 | 133 |
+| Art. 29 | 35 | Art. 109 | 75 | Art. 189 | 106 | Art. 269 | 133 |
+| Art. 30 | 36 | Art. 110 | 76 | Art. 190 | 107 | Art. 270 | 133 |
+| Art. 31 | 36 | Art. 111 | 76 | Art. 191 | 107 | Art. 271 | 134 |
+| Art. 32 | 36 | Art. 112 | 76 | Art. 192 | 107 | Art. 272 | 134 |
+| Art. 33 | 36 | Art. 113 | 77 | Art. 193 | 108 | Art. 273 | 135 |
+| Art. 34 | 36 | Art. 114 | 77 | Art. 194 | 108 | Art. 274 | 135 |
+| Art. 35 | 36 | Art. 115 | 78 | Art. 195 | 109 | Art. 275 | 135 |
+| Art. 36 | 37 | Art. 116 | 78 | Art. 196 | 109 | Art. 276 | 136 |
+| Art. 37 | 37 | Art. 117 | 78 | Art. 197 | 109 | Art. 277 | 136 |
+| Art. 38 | 37 | Art. 118 | 78 | Art. 198 | 109 | Art. 278 | 136 |
+| Art. 39 | 37 | Art. 119 | 79 | Art. 199 | 110 | Art. 279 | 136 |
+| Art. 40 | 38 | Art. 120 | 79 | Art. 200 | 110 | Art. 280 | 137 |
+| Art. 41 | 38 | Art. 121 | 80 | Art. 201 | 110 | Art. 281 | 137 |
+| Art. 42 | 38 | Art. 122 | 80 | Art. 202 | 110 | Art. 282 | 137 |
+| Art. 43 | 39 | Art. 123 | 80 | Art. 203 | 110 | Art. 283 | 138 |
+| Art. 44 | 39 | Art. 124 | 80 | Art. 204 | 111 | Art. 284 | 138 |
+| Art. 45 | 39 | Art. 125 | 81 | Art. 205 | 111 | Art. 285 | 138 |
+| Art. 46 | 40 | Art. 126 | 81 | Art. 206 | 111 | Art. 286 | 138 |
+| Art. 47 | 41 | Art. 127 | 82 | Art. 207 | 111 | Art. 287 | 139 |
+| Art. 48 | 41 | Art. 128 | 82 | Art. 208 | 111 | Art. 288 | 139 |
+| Art. 49 | 42 | Art. 129 | 82 | Art. 209 | 112 | Art. 289 | 139 |
+| Art. 50 | 42 | Art. 130 | 83 | Art. 210 | 112 | Art. 290 | 139 |
+| Art. 51 | 42 | Art. 131 | 83 | Art. 211 | 112 | Art. 291 | 140 |
+| Art. 52 | 42 | Art. 132 | 83 | Art. 212 | 112 | Art. 292 | 140 |
+| Art. 53 | 43 | Art. 133 | 83 | Art. 213 | 112 | Art. 293 | 141 |
+| Art. 54 | 44 | Art. 134 | 84 | Art. 214 | 113 | Art. 294 | 142 |
+| Art. 55 | 44 | Art. 135 | 85 | Art. 215 | 113 | Art. 295 | 142 |
+| Art. 56 | 45 | Art. 136 | 85 | Art. 216 | 113 | Art. 296 | 142 |
+| Art. 57 | 45 | Art. 137 | 85 | Art. 217 | 113 | Art. 297 | 143 |
+| Art. 58 | 46 | Art. 138 | 85 | Art. 218 | 113 | Art. 298 | 143 |
+| Art. 59 | 46 | Art. 139 | 86 | Art. 219 | 114 | Art. 299 | 143 |
+| Art. 60 | 46 | Art. 140 | 87 | Art. 220 | 114 | Art. 300 | 143 |
+| Art. 61 | 46 | Art. 141 | 88 | Art. 221 | 115 | Art. 301 | 144 |
+| Art. 62 | 47 | Art. 142 | 88 | Art. 222 | 115 | Art. 302 | 144 |
+| Art. 63 | 47 | Art. 143 | 88 | Art. 223 | 115 | Art. 303 | 145 |
+| Art. 64 | 48 | Art. 144 | 89 | Art. 224 | 116 | Art. 304 | 146 |
+| Art. 65 | 48 | Art. 145 | 90 | Art. 225 | 116 | Art. 305 | 147 |
+| Art. 66 | 49 | Art. 146 | 91 | Art. 226 | 116 | Art. 306 | 148 |
+| Art. 67 | 49 | Art. 147 | 91 | Art. 227 | 116 | Art. 307 | 148 |
+| Art. 68 | 50 | Art. 148 | 92 | Art. 228 | 117 | Art. 308 | 148 |
+| Art. 69 | 50 | Art. 149 | 92 | Art. 229 | 117 | Art. 309 | 149 |
+| Art. 70 | 52 | Art. 150 | 92 | Art. 230 | 117 | Art. 310 | 149 |
+| Art. 71 | 52 | Art. 151 | 93 | Art. 231 | 117 | Art. 311 | 149 |
+| Art. 72 | 52 | Art. 152 | 93 | Art. 232 | 119 | Art. 312 | 151 |
+| Art. 73 | 53 | Art. 153 | 93 | Art. 233 | 119 | Art. 313 | 151 |
+| Art. 74 | 53 | Art. 154 | 94 | Art. 234 | 119 | Art. 314 | 153 |
+| Art. 75 | 53 | Art. 155 | 94 | Art. 235 | 120 | Art. 315 | 153 |
+| Art. 76 | 55 | Art. 156 | 94 | Art. 236 | 120 | Art. 316 | 153 |
+| Art. 77 | 56 | Art. 157 | 95 | Art. 237 | 120 | Art. 317 | 153 |
+| Art. 78 | 57 | Art. 158 | 96 | Art. 238 | 121 |  |  |
+| Art. 79 | 57 | Art. 159 | 96 | Art. 239 | 121 |  |  |
+| Art. 80 | 58 | Art. 160 | 96 | Art. 240 | 122 |  |  |
 
 # Licença
 

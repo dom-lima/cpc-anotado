@@ -1,11 +1,11 @@
 # Código de Processo Civil anotado
 
-*Parte Geral (arts. 1º a 317) e Parte Especial, Livro I (arts. 318 a 770), com a jurisprudência do STF e do STJ a partir de 2016.*
+*Jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça, artigo por artigo.*
 
-CPC anotado com a jurisprudência do STF e do STJ a partir de 2016: Parte Geral (arts. 1º a 317) e Parte Especial, Livro I (arts. 318 a 770), em versão normal e vade-mécum.
+Código de Processo Civil (Lei 13.105/2015) anotado com jurisprudência do STF e do STJ, artigo por artigo, em dois volumes: Parte Geral e Parte Especial.
 
 **Autor:** Domingos José de Souza Lima Júnior
-**Data:** Realizado em 18 de outubro de 2026
+**Data:** Realizado em 25 de outubro de 2026
 
 ## Arquivos
 
@@ -13,17 +13,17 @@ CPC anotado com a jurisprudência do STF e do STJ a partir de 2016: Parte Geral 
 
 - [`pesquisa_cpc-anotado-parte-geral_2026-10-17.md`](pesquisa_cpc-anotado-parte-geral_2026-10-17.md)
 - [`pesquisa_cpc-anotado-parte-geral_2026-10-17_normal.pdf`](pesquisa_cpc-anotado-parte-geral_2026-10-17_normal.pdf)
-- [`pesquisa_cpc-anotado-parte-geral_2026-10-17_normal.docx`](pesquisa_cpc-anotado-parte-geral_2026-10-17_normal.docx)
 - [`pesquisa_cpc-anotado-parte-geral_2026-10-17_vademecum.pdf`](pesquisa_cpc-anotado-parte-geral_2026-10-17_vademecum.pdf)
+- [`pesquisa_cpc-anotado-parte-geral_2026-10-17_normal.docx`](pesquisa_cpc-anotado-parte-geral_2026-10-17_normal.docx)
 - [`pesquisa_cpc-anotado-parte-geral_2026-10-17_vademecum.docx`](pesquisa_cpc-anotado-parte-geral_2026-10-17_vademecum.docx)
 
-### Código de Processo Civil anotado: Parte Especial, Livro I, arts. 318 a 770
+### Código de Processo Civil anotado: Parte Especial, arts. 318 a 1.072
 
-- [`pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18.md`](pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18.md)
-- [`pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-22_normal.pdf`](pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-22_normal.pdf)
-- [`pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18_normal.docx`](pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18_normal.docx)
-- [`pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-22_vademecum.pdf`](pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-22_vademecum.pdf)
-- [`pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18_vademecum.docx`](pesquisa_cpc-anotado-parte-especial-livro-i_2026-10-18_vademecum.docx)
+- [`pesquisa_cpc-anotado-parte-especial_2026-10-25.md`](pesquisa_cpc-anotado-parte-especial_2026-10-25.md)
+- [`pesquisa_cpc-anotado-parte-especial_2026-10-25_normal.pdf`](pesquisa_cpc-anotado-parte-especial_2026-10-25_normal.pdf)
+- [`pesquisa_cpc-anotado-parte-especial_2026-10-25_vademecum.pdf`](pesquisa_cpc-anotado-parte-especial_2026-10-25_vademecum.pdf)
+- [`pesquisa_cpc-anotado-parte-especial_2026-10-25_normal.docx`](pesquisa_cpc-anotado-parte-especial_2026-10-25_normal.docx)
+- [`pesquisa_cpc-anotado-parte-especial_2026-10-25_vademecum.docx`](pesquisa_cpc-anotado-parte-especial_2026-10-25_vademecum.docx)
 
 ## Licença
 
