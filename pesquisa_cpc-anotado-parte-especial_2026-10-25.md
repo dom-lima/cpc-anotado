@@ -22,6 +22,7 @@ lang: pt-BR
 | **EAREsp** | Embargos de divergência em agravo em recurso especial |
 | **EDcl** | Embargos de declaração |
 | **EREsp** | Embargos de divergência em recurso especial |
+| **HC** | _Habeas corpus_ |
 | **IA** | Inteligência artificial |
 | **IAC** | Incidente de assunção de competência |
 | **RE** | Recurso extraordinário |
@@ -50,7 +51,7 @@ lang: pt-BR
 - **Pesquisa realizada por:** Domingos José de Souza Lima Júnior
 - **Data da pesquisa:** 25/10/2026
 - **Bases consultadas:** legislação e jurisprudência do STF e do STJ (curadoria interna); e repositório externo, com os acórdãos assinalados como **[Repositório externo]**
-- **Recorte:** julgados e entendimentos de 1º/01/2016 a 25/10/2026. Entendimento anterior só aparece quando ainda é o marco vigente do artigo, com a data de origem declarada. Só os artigos com julgado relevante são anotados (344 dos 752); os demais trazem apenas o texto legal.
+- **Recorte:** julgados e entendimentos de 1º/01/2016 a 25/10/2026. Entendimento anterior só aparece quando ainda é o marco vigente do artigo, com a data de origem declarada. Só os artigos com julgado relevante são anotados (345 dos 752); os demais trazem apenas o texto legal.
 - **Datas dos julgados:** a data indicada é a do julgamento e, quando a fonte traz apenas a da publicação, a do Diário da Justiça eletrônico (DJe).
 - **Uso de IA:** consulta às fontes e redação assistidas por IA generativa (Claude Code). A conferência dos julgados na fonte primária cabe ao leitor (ver seção 7).
 - **Estrutura:** a seção 5 reproduz o texto legal artigo por artigo, na ordem do Código, com as anotações nos artigos que as têm; o Livro I abre com página própria, seguido dos Títulos, Capítulos e Seções do Código, com a faixa de artigos de cada um. O índice de artigos, ao final, remete cada artigo à sua página.
@@ -7749,6 +7750,7 @@ V - ocorrer a prescrição intercorrente.
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
+| Caput — o dever de uniformização não autoriza a reforma do acórdão recorrido | STJ, AgInt no AREsp 1.858.696, Quarta Turma, relator Min. João Otávio de Noronha | O dever imposto aos tribunais de uniformizar a jurisprudência e mantê-la estável, íntegra e coerente não tem a finalidade de reformar o acórdão recorrido por se entender que a solução dada não foi a mais adequada à pretensão da parte. |
 | Caput — dever de uniformidade, integridade, estabilidade e coerência | STJ, EDcl no AREsp 2.109.686, Quarta Turma, relator Min. Raul Araújo, julgado em 30/03/2026 | A alteração do julgado para adequá-lo a precedente obrigatório impõe-se também em razão do dever de uniformização, integridade, estabilidade e coerência da jurisprudência (art. 926), sobretudo quando casos idênticos relativos ao mesmo empreendimento já foram decididos no mesmo sentido. Cuidando-se de requalificação jurídica do critério de cálculo, não incide a Súmula 7. |
 
 § 1º Na forma estabelecida e segundo os pressupostos fixados no regimento interno, os tribunais editarão enunciados de súmula correspondentes a sua jurisprudência dominante.
@@ -7910,6 +7912,7 @@ IV - os demais casos.
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Caput — sustentação oral | STJ, EDcl no AREsp 2.288.038, Corte Especial, relator Min. Joel Ilan Paciornik, DJe de 27/10/2023 | Não cabe sustentação oral no agravo regimental contra decisão monocrática que julgou o agravo em recurso especial: o art. 937 não prevê a sustentação no julgamento do agravo em recurso especial, e o art. 7º, § 2º-B, da Lei 8.906/1994 não alcança essa hipótese. |
+| Caput — ausência de intimação para sustentação oral: nulidade sujeita a arguição na primeira oportunidade | STJ, AgRg no _habeas corpus_ (HC) 903.471, Sexta Turma, relator Min. Antonio Saldanha Palheiro | Havendo pedido expresso de sustentação oral, a ausência de intimação do advogado constituído torna nula a sessão de julgamento; a nulidade, contudo, deve ser arguida na primeira oportunidade em que a defesa toma ciência do julgamento, sob pena de preclusão, ainda que opostos embargos de declaração sem que o colegiado de origem tenha debatido o vício. |
 
 I - no recurso de apelação;
 
@@ -8091,6 +8094,7 @@ Parágrafo único. Os órgãos fracionários dos tribunais não submeterão ao p
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
+| Caput — vedação de o juízo estadual suscitar conflito de competência após a exclusão do ente federal | STJ, AgInt no CC 200.667, Primeira Seção, relator Min. Francisco Falcão | Firmado em incidente de assunção de competência que não cabe ao juízo estadual, ao receber os autos que lhe foram restituídos em vista da exclusão do ente federal do feito, suscitar conflito de competência (Súmula 254 do Superior Tribunal de Justiça), devendo abster-se da prática de ato declinatório da competência; a solidariedade dos entes federados nas demandas de saúde não autoriza a instauração do conflito. |
 | Caput — suscitação do conflito e vedação de sucedâneo recursal | STJ, AgInt no CC 219.988, Primeira Seção, relatora Min. Maria Thereza de Assis Moura, julgado em 16/06/2026 | Não é cabível conflito de competência como sucedâneo recursal para definir a legitimidade passiva da União. Excluído o ente federal, o juízo federal deve restituir os autos ao juízo estadual, nos termos do art. 45, § 3º, e das Súmulas 150, 224 e 254 do Superior Tribunal de Justiça. |
 
 Parágrafo único. O Ministério Público somente será ouvido nos conflitos de competência relativos aos processos previstos no art. 178, mas terá qualidade de parte nos conflitos que suscitar.
@@ -8166,6 +8170,10 @@ Parágrafo único. Os autos do processo em que se manifestou o conflito serão r
 § 1º A decisão interlocutória estrangeira poderá ser executada no Brasil por meio de carta rogatória.
 
 § 2º A homologação obedecerá ao que dispuserem os tratados em vigor no Brasil e o Regimento Interno do Superior Tribunal de Justiça.
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| § 2º — validade da citação aferida pela lei do país de origem e pelo contrato | STJ, AgInt no HDE 3.384, Corte Especial, relator Min. Ricardo Villas Bôas Cueva | Na homologação de decisão estrangeira, a validade da citação para responder ao processo que tramitou no exterior verifica-se de acordo com as normas processuais daquele país e também de acordo com o contrato pactuado, não cabendo ao Superior Tribunal de Justiça, na via homologatória, imiscuir-se no tema. |
 
 § 3º A homologação de decisão arbitral estrangeira obedecerá ao disposto em tratado e em lei, aplicando-se, subsidiariamente, as disposições deste Capítulo.
 
@@ -8342,6 +8350,7 @@ II - tiver sido substituída por decisão posterior.
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
+| Caput — tutela provisória em ação rescisória (orientação de aplicação) | STF, AR 3.213, Tribunal Pleno, relator Min. Flávio Dino, julgado em 09/03/2026 | No caso, o Tribunal Pleno referendou medida cautelar em ação rescisória que suspendeu os efeitos da decisão rescindenda, diante da plausibilidade jurídica decorrente da modulação de efeitos do Tema 1.254/STF. |
 | Caput — cumprimento da decisão rescindenda e tutela provisória | STJ, AgInt nos EDcl no AREsp 2.873.650, Quarta Turma, relator Min. Raul Araújo, julgado em 15/06/2026 | A ação rescisória não impede o cumprimento da decisão rescindenda, ressalvada a concessão de tutela provisória. A improcedência em cognição exauriente substitui a tutela provisória anteriormente deferida e faz cessar seus fundamentos, permitindo a continuidade do cumprimento de sentença, ainda que silente a decisão a respeito. |
 
 ###### Art. 970
@@ -8389,6 +8398,10 @@ Parágrafo único. Considerando, por unanimidade, inadmissível ou improcedente 
 ###### Art. 976
 
 **Art. 976.** É cabível a instauração do incidente de resolução de demandas repetitivas quando houver, simultaneamente:
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — cabimento restrito aos tribunais de justiça e aos tribunais regionais federais | STJ, AgInt no AREsp 2.530.497, Terceira Turma, relator Min. Marco Aurélio Bellizze | O incidente de resolução de demandas repetitivas, instrumento com o objetivo de imprimir celeridade e uniformização na solução de demandas de massa, é cabível somente no âmbito dos tribunais de justiça e dos tribunais regionais federais, quando houver repetição de processos sobre a mesma questão de direito ou nas situações de risco à isonomia e à segurança jurídica. |
 
 I - efetiva repetição de processos que contenham controvérsia sobre a mesma questão unicamente de direito;
 
@@ -8588,6 +8601,7 @@ III - determinará a citação do beneficiário da decisão impugnada, que terá
 | Fundamento | Julgado | Ratio |
 |---|---|---|
 | Caput — procedência da reclamação e cassação da decisão | STF, Rcl 60.872, Segunda Turma, relator Min. Nunes Marques, julgado em 24/06/2024 | No caso, julgada procedente a reclamação, o tribunal cassa a decisão exorbitante ou determina a medida adequada; é inadequado, nessa via, julgar o processo originário. |
+| Caput — procedência quando o juízo reclamado não observa estritamente o comando do tribunal (aplicação narrada) | STJ, AgInt no Rcl 44.823, Segunda Seção, relator Min. Marco Buzzi | Afastando-se dos parâmetros fixados pelo Superior Tribunal de Justiça, a deliberação do juízo reclamado que mantém ato constritivo já anulado em recurso especial não observa estritamente o comando, o que enseja o acolhimento da reclamação. Trecho: “Na hipótese, afastando-se dos parâmetros erigidos por este Tribunal Superior, a deliberação exarada pelo r. juízo reclamado não observou, de maneira estrita o referido comando, ensejando-se, portanto, o acolhimento da reclamação.” |
 
 ###### Art. 993
 
@@ -8682,6 +8696,7 @@ Parágrafo único. Considera-se aceitação tácita a prática, sem nenhuma rese
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
+| Caput — irrecorribilidade do despacho de sobrestamento | STJ, AgInt no AREsp 549.286, Terceira Turma, relator Min. Carlos Cini Marchionatti (Desembargador Convocado Tjrs) | A decisão que determina o sobrestamento do processo em razão do reconhecimento de repercussão geral não possui cunho decisório: é mero ato procedimental e, portanto, irrecorrível. |
 | Caput — irrecorribilidade dos despachos | STJ, AgInt no AREsp 1.854.995, Terceira Turma, relatora Min. Nancy Andrighi, DJe de 22/09/2021 | O provimento jurisdicional sem conteúdo decisório capaz de gerar prejuízo às partes é despacho, irrecorrível na forma do art. 1.001. |
 
 ###### Art. 1002
@@ -8698,6 +8713,7 @@ Parágrafo único. Considera-se aceitação tácita a prática, sem nenhuma rese
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
+| Caput — termo inicial do prazo do Ministério Público e da Defensoria Pública: entrega dos autos na repartição administrativa | STJ, AgRg no REsp 2.199.508, Sexta Turma, relator Min. Rogerio Schietti Cruz | Para o Ministério Público e para a Defensoria Pública, o termo inicial da contagem do prazo para impugnar decisão judicial é a data da entrega dos autos na repartição administrativa do órgão, sendo irrelevante que a intimação pessoal tenha se dado em audiência, em cartório ou por mandado (Tema 959), entendimento aplicável ao procedimento do Tribunal do Júri. |
 | Caput — termo inicial do prazo recursal: intimação (aplicação narrada) | STJ, REsp 2.166.486, Terceira Turma, relator Min. Ricardo Villas Bôas Cueva, julgado em 12/08/2026 | No processo eletrônico, o prazo recursal conta-se da intimação formal, presumindo-se a ciência de todo o conteúdo do processo; a juntada de substabelecimento não equivale à ciência da decisão nem deflagra o prazo. Trecho: “No processo eletrônico, a ciência pessoal de todo o conteúdo do processo é presumida com a intimação formal, somente sendo excepcionada na hipótese de juntada de petição cujo conteúdo revele a indispensável ciência de todo o conteúdo decisório.” |
 
 § 1º Os sujeitos previstos no caput considerar-se-ão intimados em audiência quando nesta for proferida a decisão.
@@ -8728,6 +8744,7 @@ Parágrafo único. Havendo solidariedade passiva, o recurso interposto por um de
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
+| Caput — certificado o trânsito em julgado, não se conhece de recurso interposto depois | STJ, AgInt no AREsp 2.560.051, Segunda Turma, relator Min. Mauro Campbell Marques | Não é possível conhecer do agravo interno interposto em momento posterior à certidão de trânsito em julgado da decisão monocrática que não conheceu do agravo em recurso especial. |
 | Caput — certidão de trânsito em julgado e baixa dos autos (aplicação narrada) | STJ, AREsp 3.165.006, Terceira Turma, relator Min. Moura Ribeiro, julgado em 22/06/2026 | A certidão de trânsito em julgado expedida com data equivocada pelo cartório judicial induz a parte a erro e não pode prejudicá-la: o erro da máquina judiciária não faz correr contra o exequente de boa-fé o prazo prescricional contado da data real. Trecho: “O tribunal de origem afastou a prescrição da pretensão executória ao reconhecer que a certidão expedida pelo cartório judicial atestou data de trânsito em julgado posterior à real, induzindo o exequente a erro quanto ao termo inicial do prazo quinquenal.” |
 
 ###### Art. 1007
@@ -8795,6 +8812,10 @@ II - se não for o caso de decisão monocrática, elaborará seu voto para julga
 ###### Art. 1012
 
 **Art. 1012.** A apelação terá efeito suspensivo.
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| Caput — o efeito suspensivo da apelação não impede medidas cautelares assecuratórias | STJ, AREsp 2.505.336, Quarta Turma, relator Min. João Otávio de Noronha, julgado em 04/05/2026 | O efeito suspensivo da apelação não torna ilegais as medidas cautelares assecuratórias determinadas com fundamento no poder geral de cautela durante a pendência do recurso, quando presentes os seus requisitos; a providência não configura ofensa ao art. 1.012 do Código de Processo Civil. |
 
 § 1º Além de outras hipóteses previstas em lei, começa a produzir efeitos imediatamente após a sua publicação a sentença que:
 
@@ -8979,6 +9000,10 @@ III - determinará a intimação do Ministério Público, preferencialmente por 
 
 § 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
 
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| § 1º — impugnação específica dos fundamentos da decisão agravada e Súmula 182 | STJ, AgInt no AREsp 3.204.965, Quarta Turma, relatora Min. Maria Isabel Gallotti | Nos termos do art. 1.021, § 1º, do Código de Processo Civil e da Súmula 182 do Superior Tribunal de Justiça, não é viável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada. |
+
 § 2º O agravo será dirigido ao relator, que intimará o agravado para manifestar-se sobre o recurso no prazo de 15 (quinze) dias, ao final do qual, não havendo retratação, o relator levá-lo-á a julgamento pelo órgão colegiado, com inclusão em pauta.
 
 § 3º É vedado ao relator limitar-se à reprodução dos fundamentos da decisão agravada para julgar improcedente o agravo interno.
@@ -9045,6 +9070,7 @@ II - incorra em qualquer das condutas descritas no art. 489, § 1º.
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
+| Caput — o prequestionamento ficto exige a invocação da violação do art. 1.022 nas razões do recurso especial | STJ, AgInt no EREsp 1.863.790, Primeira Turma, relator Min. Gurgel de Faria | O reconhecimento do prequestionamento ficto previsto no art. 1.025 pressupõe que a parte recorrente, após a oposição dos embargos de declaração na origem, também suscite, nas razões do recurso especial, violação do art. 1.022, por negativa de prestação jurisdicional, pois somente assim o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau. |
 | Caput — prequestionamento ficto (orientação de aplicação) (aplicação narrada) | STJ, EDcl no AgInt no AREsp 3.072.654, Quinta Turma, relatora Min. Daniela Teixeira, julgado em 24/08/2026 | A invocação do prequestionamento ficto do art. 1.025 não afasta o fundamento formal determinante do não conhecimento do recurso, quando ausente a impugnação específica de todos os fundamentos da decisão de inadmissibilidade. Trecho: “A legislação processual e o Regimento Interno do STJ autorizam decisão monocrática do relator para não conhecer recurso inadmissível e exigem, no agravo em recurso especial, a impugnação específica de todos os fundamentos da decisão agravada (CPC, art.” |
 
 ###### Art. 1026
@@ -9240,6 +9266,7 @@ II - determinará a suspensão do processamento de todos os processos pendentes,
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
+| II — o sobrestamento pressupõe o conhecimento do recurso | STJ, AgInt no AREsp 2.751.494, Quarta Turma, relator Min. Marco Buzzi | Não há falar em sobrestamento do recurso, por força de suspensão determinada em decisão de afetação de tema para julgamento sob o rito dos recursos repetitivos, quando não ultrapassado o seu conhecimento. |
 | II — suspensão do processo após a afetação | STJ, EDcl no REsp 2.165.111, Terceira Turma, relator Min. Moura Ribeiro, julgado em 04/05/2026 | Publicada a decisão de afetação de tema repetitivo, impõe-se a devolução dos autos ao tribunal estadual para a suspensão do processo, sendo o ato de sobrestamento e devolução desprovido de carga decisória e irrecorrível. |
 
 III - poderá requisitar aos presidentes ou aos vice-presidentes dos tribunais de justiça ou dos tribunais regionais federais a remessa de um recurso representativo da controvérsia.
@@ -9790,6 +9817,10 @@ BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Recurso Extraordinário 949.29
 BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Recurso Extraordinário 955.227. Relator: Min. Luís Roberto Barroso. Julgado em 8 fev. 2023. [Repositório externo].
 
 BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Cível Originária 1.051. Relator: Min. Nunes Marques. Julgado em 26 ago. 2024. [Repositório externo].
+
+BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Rescisória 3.213. Relator: Min. Flávio Dino. Julgado em 9 mar. 2026. [Repositório externo].
+
+BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Suspensão de Tutela Provisória 924. Relatora: Min. Rosa Weber. Julgado em 13 abr. 2023. [Repositório externo].
 
 ## Superior Tribunal de Justiça (curadoria interna)
 
@@ -10771,6 +10802,8 @@ BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo em Recurso Extraor
 
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Interno na Homologação de Decisão Estrangeira 3.552. Relator: Min. Humberto Martins. Julgado em 10 mar. 2026. DJEN 16 mar. 2026.
 
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Interno no Homologação de Decisão Estrangeira 3.384. Relator: Min. Ricardo Villas Bôas Cueva.
+
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Interno nos Embargos de Declaração na Homologação de Decisão Estrangeira 11.911. Relator: Min. Og Fernandes. Julgado em 3 mar. 2026. DJEN 10 mar. 2026.
 
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Regimental no Recurso Extraordinário no Agravo Regimental no Agravo em Recurso Especial 2.959.046. Relator: Min. Luis Felipe Salomão. Julgado em 5 ago. 2026.
@@ -10788,6 +10821,8 @@ BRASIL. Superior Tribunal de Justiça. Corte Especial. Homologação de Decisão
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Homologação de Decisão Estrangeira 8.908. Relatora: Min. Maria Thereza de Assis Moura. Julgado em 25 nov. 2025. DJEN 28 nov. 2025.
 
 BRASIL. Superior Tribunal de Justiça. Primeira Seção. Agravo Interno na Ação Rescisória 7.967. Relator: Min. Francisco Falcão. Julgado em 23 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Primeira Seção. Agravo Interno no Conflito de Competência 200.667. Relator: Min. Francisco Falcão.
 
 BRASIL. Superior Tribunal de Justiça. Primeira Seção. Agravo Interno no Conflito de Competência 219.988. Relatora: Min. Maria Thereza de Assis Moura. Julgado em 16 jun. 2026.
 
@@ -10807,6 +10842,10 @@ BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo Interno no Agravo 
 
 BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo Interno no Agravo em Recurso Especial 3.116.274. Relator: Min. Benedito Gonçalves. Julgado em 12 ago. 2026.
 
+BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo Interno no Embargos de Divergência em Recurso Especial 1.863.790. Relator: Min. Gurgel de Faria.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.505.336. Relator: Min. João Otávio de Noronha. Julgado em 4 maio 2026.
+
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.664.432. Relator: Min. João Otávio de Noronha. Julgado em 9 fev. 2026.
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.744.284. Relator: Min. João Otávio de Noronha. Julgado em 9 mar. 2026.
@@ -10819,11 +10858,17 @@ BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 1.834.252. Relator: Min. Luís Carlos Gambogi (Desembargador Convocado do Tjmg). Julgado em 8 jun. 2026. DJEN 12 jun. 2026.
 
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 1.858.696. Relator: Min. João Otávio de Noronha.
+
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 1.889.947. Relator: Min. Raul Araújo. Julgado em 12 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 2.751.494. Relator: Min. Marco Buzzi.
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 2.959.641. Relatora: Min. Maria Isabel Gallotti. Julgado em 12 ago. 2026. DJEN 17 ago. 2026.
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 3.111.390. Relator: Min. Raul Araújo. Julgado em 30 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 3.204.965. Relatora: Min. Maria Isabel Gallotti.
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno nos Embargos de Declaração no Agravo em Recurso Especial 2.873.650. Relator: Min. Raul Araújo. Julgado em 15 jun. 2026.
 
@@ -10843,6 +10888,8 @@ BRASIL. Superior Tribunal de Justiça. Quinta Turma. Embargos de Declaração no
 
 BRASIL. Superior Tribunal de Justiça. Quinta Turma. Embargos de Declaração no Agravo Regimental no Recurso em Mandado de Segurança 77.943. Relator: Min. Joel Ilan Paciornik. Julgado em 4 ago. 2026.
 
+BRASIL. Superior Tribunal de Justiça. Segunda Seção. Agravo Interno no Reclamação 44.823. Relator: Min. Marco Buzzi.
+
 BRASIL. Superior Tribunal de Justiça. Segunda Seção. Ação Rescisória 5.980. Relator: Min. Marco Aurélio Bellizze. Julgado em 24 nov. 2021. DJe 3 dez. 2021.
 
 BRASIL. Superior Tribunal de Justiça. Segunda Seção. Embargos de Declaração no Ação Rescisória 7.646. Relator: Min. Marco Buzzi. DJe 23 out. 2024.
@@ -10852,6 +10899,8 @@ BRASIL. Superior Tribunal de Justiça. Segunda Seção. Embargos de Declaração
 BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo em Recurso Especial 2.475.196. Relator: Min. Mauro Campbell Marques. Julgado em 5 mar. 2024. DJe 7 mar. 2024.
 
 BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo Interno no Agravo em Recurso Especial 2.146.524. Relatora: Min. Assusete Magalhães. DJe 29 ago. 2023.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo Interno no Agravo em Recurso Especial 2.560.051. Relator: Min. Mauro Campbell Marques.
 
 BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo Interno no Agravo em Recurso Especial 2.966.132. Relator: Min. Marco Aurélio Bellizze. Julgado em 24 jun. 2026.
 
@@ -10869,6 +10918,10 @@ BRASIL. Superior Tribunal de Justiça. Segunda Turma. Recurso Especial 1.922.044
 
 BRASIL. Superior Tribunal de Justiça. Segunda Turma. Recurso Especial 2.213.902. Relator: Min. Francisco Falcão. Julgado em 3 mar. 2026.
 
+BRASIL. Superior Tribunal de Justiça. Sexta Turma. Agravo Regimental no Habeas Corpus 903.471. Relator: Min. Antonio Saldanha Palheiro.
+
+BRASIL. Superior Tribunal de Justiça. Sexta Turma. Agravo Regimental no Recurso Especial 2.199.508. Relator: Min. Rogerio Schietti Cruz.
+
 BRASIL. Superior Tribunal de Justiça. Terceira Seção. Agravo Regimental na Reclamação 51.018. Relator: Min. Maria Marluce Caldas. Julgado em 18 jun. 2026.
 
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 2.656.064. Relator: Min. Moura Ribeiro. Julgado em 4 maio 2026.
@@ -10883,7 +10936,11 @@ BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especia
 
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Agravo em Recurso Especial 1.854.995. Relatora: Min. Nancy Andrighi. DJe 22 set. 2021.
 
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Agravo em Recurso Especial 2.530.497. Relator: Min. Marco Aurélio Bellizze.
+
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Agravo em Recurso Especial 3.087.923. Relator: Min. Humberto Martins. Julgado em 22 jun. 2026. DJEN 25 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Agravo em Recurso Especial 549.286. Relator: Min. Carlos Cini Marchionatti (Desembargador Convocado Tjrs).
 
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Recurso Especial 2.164.298. Relator: Min. Moura Ribeiro. Julgado em 16 mar. 2026.
 
@@ -10953,149 +11010,149 @@ Remete cada artigo (Parte Especial) à página em que começa o seu texto.
 | Art. 359 | 50 | Art. 548 | 136 | Art. 737 | 196 | Art. 926 | 268 |
 | Art. 360 | 50 | Art. 549 | 136 | Art. 738 | 197 | Art. 927 | 268 |
 | Art. 361 | 50 | Art. 550 | 137 | Art. 739 | 197 | Art. 928 | 269 |
-| Art. 362 | 51 | Art. 551 | 137 | Art. 740 | 198 | Art. 929 | 269 |
+| Art. 362 | 51 | Art. 551 | 137 | Art. 740 | 198 | Art. 929 | 270 |
 | Art. 363 | 52 | Art. 552 | 138 | Art. 741 | 198 | Art. 930 | 270 |
 | Art. 364 | 52 | Art. 553 | 138 | Art. 742 | 199 | Art. 931 | 270 |
 | Art. 365 | 53 | Art. 554 | 139 | Art. 743 | 199 | Art. 932 | 270 |
-| Art. 366 | 53 | Art. 555 | 139 | Art. 744 | 200 | Art. 933 | 271 |
+| Art. 366 | 53 | Art. 555 | 139 | Art. 744 | 200 | Art. 933 | 272 |
 | Art. 367 | 53 | Art. 556 | 140 | Art. 745 | 200 | Art. 934 | 272 |
 | Art. 368 | 53 | Art. 557 | 140 | Art. 746 | 200 | Art. 935 | 272 |
 | Art. 369 | 54 | Art. 558 | 140 | Art. 747 | 201 | Art. 936 | 272 |
 | Art. 370 | 54 | Art. 559 | 141 | Art. 748 | 201 | Art. 937 | 273 |
-| Art. 371 | 55 | Art. 560 | 141 | Art. 749 | 201 | Art. 938 | 273 |
+| Art. 371 | 55 | Art. 560 | 141 | Art. 749 | 201 | Art. 938 | 274 |
 | Art. 372 | 56 | Art. 561 | 141 | Art. 750 | 202 | Art. 939 | 274 |
 | Art. 373 | 56 | Art. 562 | 142 | Art. 751 | 202 | Art. 940 | 274 |
-| Art. 374 | 57 | Art. 563 | 142 | Art. 752 | 202 | Art. 941 | 274 |
+| Art. 374 | 57 | Art. 563 | 142 | Art. 752 | 202 | Art. 941 | 275 |
 | Art. 375 | 59 | Art. 564 | 142 | Art. 753 | 203 | Art. 942 | 275 |
-| Art. 376 | 59 | Art. 565 | 143 | Art. 754 | 203 | Art. 943 | 275 |
+| Art. 376 | 59 | Art. 565 | 143 | Art. 754 | 203 | Art. 943 | 276 |
 | Art. 377 | 60 | Art. 566 | 143 | Art. 755 | 203 | Art. 944 | 276 |
 | Art. 378 | 60 | Art. 567 | 144 | Art. 756 | 204 | Art. 945 | 276 |
 | Art. 379 | 60 | Art. 568 | 144 | Art. 757 | 204 | Art. 946 | 276 |
-| Art. 380 | 60 | Art. 569 | 144 | Art. 758 | 204 | Art. 947 | 276 |
-| Art. 381 | 61 | Art. 570 | 145 | Art. 759 | 205 | Art. 948 | 277 |
-| Art. 382 | 62 | Art. 571 | 145 | Art. 760 | 205 | Art. 949 | 277 |
+| Art. 380 | 60 | Art. 569 | 144 | Art. 758 | 204 | Art. 947 | 277 |
+| Art. 381 | 61 | Art. 570 | 145 | Art. 759 | 205 | Art. 948 | 278 |
+| Art. 382 | 62 | Art. 571 | 145 | Art. 760 | 205 | Art. 949 | 278 |
 | Art. 383 | 63 | Art. 572 | 145 | Art. 761 | 205 | Art. 950 | 278 |
-| Art. 384 | 63 | Art. 573 | 145 | Art. 762 | 205 | Art. 951 | 278 |
-| Art. 385 | 63 | Art. 574 | 145 | Art. 763 | 205 | Art. 952 | 278 |
-| Art. 386 | 64 | Art. 575 | 146 | Art. 764 | 206 | Art. 953 | 278 |
-| Art. 387 | 64 | Art. 576 | 146 | Art. 765 | 206 | Art. 954 | 279 |
-| Art. 388 | 64 | Art. 577 | 146 | Art. 766 | 206 | Art. 955 | 279 |
-| Art. 389 | 64 | Art. 578 | 146 | Art. 767 | 207 | Art. 956 | 279 |
-| Art. 390 | 65 | Art. 579 | 146 | Art. 768 | 207 | Art. 957 | 279 |
+| Art. 384 | 63 | Art. 573 | 145 | Art. 762 | 205 | Art. 951 | 279 |
+| Art. 385 | 63 | Art. 574 | 145 | Art. 763 | 205 | Art. 952 | 279 |
+| Art. 386 | 64 | Art. 575 | 146 | Art. 764 | 206 | Art. 953 | 279 |
+| Art. 387 | 64 | Art. 576 | 146 | Art. 765 | 206 | Art. 954 | 280 |
+| Art. 388 | 64 | Art. 577 | 146 | Art. 766 | 206 | Art. 955 | 280 |
+| Art. 389 | 64 | Art. 578 | 146 | Art. 767 | 207 | Art. 956 | 280 |
+| Art. 390 | 65 | Art. 579 | 146 | Art. 768 | 207 | Art. 957 | 280 |
 | Art. 391 | 65 | Art. 580 | 146 | Art. 769 | 207 | Art. 958 | 280 |
-| Art. 392 | 65 | Art. 581 | 146 | Art. 770 | 207 | Art. 959 | 280 |
-| Art. 393 | 66 | Art. 582 | 146 | Art. 771 | 208 | Art. 960 | 280 |
-| Art. 394 | 66 | Art. 583 | 146 | Art. 772 | 208 | Art. 961 | 281 |
-| Art. 395 | 66 | Art. 584 | 147 | Art. 773 | 208 | Art. 962 | 281 |
-| Art. 396 | 66 | Art. 585 | 147 | Art. 774 | 208 | Art. 963 | 281 |
-| Art. 397 | 67 | Art. 586 | 147 | Art. 775 | 209 | Art. 964 | 282 |
-| Art. 398 | 67 | Art. 587 | 147 | Art. 776 | 210 | Art. 965 | 283 |
-| Art. 399 | 67 | Art. 588 | 147 | Art. 777 | 210 | Art. 966 | 283 |
-| Art. 400 | 68 | Art. 589 | 148 | Art. 778 | 210 | Art. 967 | 284 |
-| Art. 401 | 69 | Art. 590 | 148 | Art. 779 | 211 | Art. 968 | 285 |
-| Art. 402 | 69 | Art. 591 | 148 | Art. 780 | 212 | Art. 969 | 286 |
-| Art. 403 | 69 | Art. 592 | 148 | Art. 781 | 212 | Art. 970 | 286 |
-| Art. 404 | 70 | Art. 593 | 148 | Art. 782 | 212 | Art. 971 | 286 |
-| Art. 405 | 71 | Art. 594 | 148 | Art. 783 | 213 | Art. 972 | 286 |
-| Art. 406 | 71 | Art. 595 | 149 | Art. 784 | 213 | Art. 973 | 286 |
-| Art. 407 | 71 | Art. 596 | 149 | Art. 785 | 214 | Art. 974 | 286 |
-| Art. 408 | 72 | Art. 597 | 149 | Art. 786 | 215 | Art. 975 | 287 |
-| Art. 409 | 72 | Art. 598 | 150 | Art. 787 | 215 | Art. 976 | 287 |
-| Art. 410 | 72 | Art. 599 | 150 | Art. 788 | 215 | Art. 977 | 288 |
-| Art. 411 | 73 | Art. 600 | 151 | Art. 789 | 215 | Art. 978 | 288 |
-| Art. 412 | 73 | Art. 601 | 151 | Art. 790 | 216 | Art. 979 | 288 |
-| Art. 413 | 73 | Art. 602 | 151 | Art. 791 | 216 | Art. 980 | 289 |
-| Art. 414 | 74 | Art. 603 | 152 | Art. 792 | 217 | Art. 981 | 289 |
-| Art. 415 | 74 | Art. 604 | 152 | Art. 793 | 217 | Art. 982 | 289 |
-| Art. 416 | 74 | Art. 605 | 153 | Art. 794 | 218 | Art. 983 | 290 |
-| Art. 417 | 74 | Art. 606 | 153 | Art. 795 | 218 | Art. 984 | 290 |
-| Art. 418 | 74 | Art. 607 | 154 | Art. 796 | 219 | Art. 985 | 290 |
-| Art. 419 | 74 | Art. 608 | 154 | Art. 797 | 219 | Art. 986 | 291 |
-| Art. 420 | 74 | Art. 609 | 155 | Art. 798 | 219 | Art. 987 | 291 |
-| Art. 421 | 75 | Art. 610 | 155 | Art. 799 | 220 | Art. 988 | 291 |
-| Art. 422 | 75 | Art. 611 | 155 | Art. 800 | 221 | Art. 989 | 292 |
-| Art. 423 | 75 | Art. 612 | 156 | Art. 801 | 221 | Art. 990 | 293 |
-| Art. 424 | 75 | Art. 613 | 156 | Art. 802 | 221 | Art. 991 | 293 |
-| Art. 425 | 75 | Art. 614 | 156 | Art. 803 | 222 | Art. 992 | 293 |
-| Art. 426 | 76 | Art. 615 | 156 | Art. 804 | 222 | Art. 993 | 293 |
-| Art. 427 | 76 | Art. 616 | 156 | Art. 805 | 223 | Art. 994 | 293 |
-| Art. 428 | 77 | Art. 617 | 157 | Art. 806 | 223 | Art. 995 | 294 |
-| Art. 429 | 77 | Art. 618 | 158 | Art. 807 | 223 | Art. 996 | 294 |
-| Art. 430 | 78 | Art. 619 | 159 | Art. 808 | 223 | Art. 997 | 294 |
-| Art. 431 | 78 | Art. 620 | 159 | Art. 809 | 224 | Art. 998 | 295 |
-| Art. 432 | 79 | Art. 621 | 160 | Art. 810 | 224 | Art. 999 | 295 |
-| Art. 433 | 79 | Art. 622 | 160 | Art. 811 | 224 | Art. 1000 | 295 |
-| Art. 434 | 79 | Art. 623 | 161 | Art. 812 | 224 | Art. 1001 | 295 |
-| Art. 435 | 79 | Art. 624 | 161 | Art. 813 | 224 | Art. 1002 | 296 |
-| Art. 436 | 80 | Art. 625 | 162 | Art. 814 | 224 | Art. 1003 | 296 |
-| Art. 437 | 80 | Art. 626 | 162 | Art. 815 | 225 | Art. 1004 | 296 |
-| Art. 438 | 81 | Art. 627 | 162 | Art. 816 | 225 | Art. 1005 | 297 |
-| Art. 439 | 82 | Art. 628 | 163 | Art. 817 | 225 | Art. 1006 | 297 |
-| Art. 440 | 82 | Art. 629 | 163 | Art. 818 | 225 | Art. 1007 | 297 |
-| Art. 441 | 82 | Art. 630 | 163 | Art. 819 | 226 | Art. 1008 | 298 |
-| Art. 442 | 83 | Art. 631 | 163 | Art. 820 | 226 | Art. 1010 | 298 |
-| Art. 443 | 83 | Art. 632 | 163 | Art. 821 | 226 | Art. 1011 | 298 |
-| Art. 444 | 84 | Art. 633 | 164 | Art. 822 | 226 | Art. 1012 | 299 |
-| Art. 445 | 84 | Art. 634 | 164 | Art. 823 | 226 | Art. 1013 | 300 |
-| Art. 446 | 84 | Art. 635 | 164 | Art. 824 | 226 | Art. 1014 | 300 |
-| Art. 447 | 84 | Art. 636 | 164 | Art. 825 | 227 | Art. 1015 | 301 |
-| Art. 448 | 85 | Art. 637 | 164 | Art. 826 | 227 | Art. 1016 | 302 |
-| Art. 449 | 85 | Art. 638 | 164 | Art. 827 | 227 | Art. 1017 | 302 |
-| Art. 450 | 86 | Art. 639 | 165 | Art. 828 | 228 | Art. 1018 | 303 |
-| Art. 451 | 86 | Art. 640 | 165 | Art. 829 | 228 | Art. 1019 | 303 |
-| Art. 452 | 86 | Art. 641 | 165 | Art. 830 | 229 | Art. 1020 | 303 |
-| Art. 453 | 87 | Art. 642 | 166 | Art. 831 | 229 | Art. 1021 | 304 |
-| Art. 454 | 87 | Art. 643 | 167 | Art. 832 | 229 | Art. 1022 | 304 |
-| Art. 455 | 88 | Art. 644 | 167 | Art. 833 | 230 | Art. 1023 | 305 |
-| Art. 456 | 89 | Art. 645 | 167 | Art. 834 | 231 | Art. 1024 | 305 |
-| Art. 457 | 89 | Art. 646 | 168 | Art. 835 | 231 | Art. 1025 | 306 |
-| Art. 458 | 89 | Art. 647 | 168 | Art. 836 | 232 | Art. 1026 | 306 |
-| Art. 459 | 90 | Art. 648 | 168 | Art. 837 | 233 | Art. 1027 | 307 |
-| Art. 460 | 90 | Art. 649 | 169 | Art. 838 | 233 | Art. 1028 | 307 |
-| Art. 461 | 90 | Art. 650 | 169 | Art. 839 | 233 | Art. 1029 | 307 |
-| Art. 462 | 90 | Art. 651 | 169 | Art. 840 | 233 | Art. 1030 | 308 |
-| Art. 463 | 91 | Art. 652 | 169 | Art. 841 | 234 | Art. 1031 | 310 |
-| Art. 464 | 91 | Art. 653 | 169 | Art. 842 | 234 | Art. 1032 | 310 |
-| Art. 465 | 92 | Art. 654 | 170 | Art. 843 | 234 | Art. 1033 | 311 |
-| Art. 466 | 93 | Art. 655 | 170 | Art. 844 | 235 | Art. 1034 | 311 |
-| Art. 467 | 93 | Art. 656 | 170 | Art. 845 | 235 | Art. 1035 | 311 |
-| Art. 468 | 94 | Art. 657 | 170 | Art. 846 | 235 | Art. 1036 | 312 |
-| Art. 469 | 94 | Art. 658 | 171 | Art. 847 | 236 | Art. 1037 | 313 |
-| Art. 470 | 95 | Art. 659 | 171 | Art. 848 | 236 | Art. 1038 | 314 |
-| Art. 471 | 95 | Art. 660 | 172 | Art. 849 | 237 | Art. 1039 | 315 |
-| Art. 472 | 96 | Art. 661 | 172 | Art. 850 | 237 | Art. 1040 | 315 |
-| Art. 473 | 96 | Art. 662 | 172 | Art. 851 | 237 | Art. 1041 | 315 |
-| Art. 474 | 97 | Art. 663 | 172 | Art. 852 | 238 | Art. 1042 | 316 |
-| Art. 475 | 97 | Art. 664 | 173 | Art. 853 | 238 | Art. 1043 | 317 |
-| Art. 476 | 97 | Art. 665 | 173 | Art. 854 | 238 | Art. 1044 | 318 |
-| Art. 477 | 97 | Art. 666 | 173 | Art. 855 | 239 | Art. 1045 | 319 |
-| Art. 478 | 98 | Art. 667 | 174 | Art. 856 | 240 | Art. 1046 | 319 |
-| Art. 479 | 98 | Art. 668 | 174 | Art. 857 | 240 | Art. 1047 | 319 |
-| Art. 480 | 99 | Art. 669 | 174 | Art. 858 | 240 | Art. 1048 | 319 |
-| Art. 481 | 99 | Art. 670 | 175 | Art. 859 | 240 | Art. 1049 | 320 |
-| Art. 482 | 100 | Art. 671 | 175 | Art. 860 | 241 | Art. 1050 | 320 |
-| Art. 483 | 100 | Art. 672 | 175 | Art. 861 | 241 | Art. 1051 | 320 |
-| Art. 484 | 100 | Art. 673 | 175 | Art. 862 | 242 | Art. 1052 | 321 |
-| Art. 485 | 101 | Art. 674 | 176 | Art. 863 | 242 | Art. 1053 | 321 |
-| Art. 486 | 102 | Art. 675 | 178 | Art. 864 | 243 | Art. 1054 | 321 |
-| Art. 487 | 102 | Art. 676 | 178 | Art. 865 | 243 | Art. 1055 | 321 |
-| Art. 488 | 103 | Art. 677 | 178 | Art. 866 | 243 | Art. 1056 | 321 |
-| Art. 489 | 103 | Art. 678 | 179 | Art. 867 | 243 | Art. 1057 | 321 |
-| Art. 490 | 104 | Art. 679 | 179 | Art. 868 | 243 | Art. 1058 | 322 |
-| Art. 491 | 104 | Art. 680 | 179 | Art. 869 | 244 | Art. 1059 | 322 |
-| Art. 492 | 105 | Art. 681 | 179 | Art. 870 | 244 | Art. 1060 | 322 |
-| Art. 493 | 105 | Art. 682 | 179 | Art. 871 | 244 | Art. 1061 | 322 |
-| Art. 494 | 105 | Art. 683 | 179 | Art. 872 | 245 | Art. 1062 | 322 |
-| Art. 495 | 106 | Art. 684 | 180 | Art. 873 | 245 | Art. 1063 | 323 |
-| Art. 496 | 107 | Art. 685 | 180 | Art. 874 | 246 | Art. 1064 | 323 |
-| Art. 497 | 108 | Art. 686 | 180 | Art. 875 | 246 | Art. 1065 | 323 |
-| Art. 498 | 108 | Art. 687 | 180 | Art. 876 | 246 | Art. 1066 | 323 |
-| Art. 499 | 108 | Art. 688 | 181 | Art. 877 | 247 | Art. 1067 | 323 |
-| Art. 500 | 109 | Art. 689 | 181 | Art. 878 | 248 | Art. 1068 | 324 |
-| Art. 501 | 109 | Art. 690 | 181 | Art. 879 | 248 | Art. 1069 | 324 |
-| Art. 502 | 109 | Art. 691 | 182 | Art. 880 | 248 | Art. 1070 | 324 |
-| Art. 503 | 109 | Art. 692 | 182 | Art. 881 | 249 | Art. 1071 | 324 |
-| Art. 504 | 110 | Art. 693 | 182 | Art. 882 | 249 | Art. 1072 | 326 |
+| Art. 392 | 65 | Art. 581 | 146 | Art. 770 | 207 | Art. 959 | 281 |
+| Art. 393 | 66 | Art. 582 | 146 | Art. 771 | 208 | Art. 960 | 281 |
+| Art. 394 | 66 | Art. 583 | 146 | Art. 772 | 208 | Art. 961 | 282 |
+| Art. 395 | 66 | Art. 584 | 147 | Art. 773 | 208 | Art. 962 | 282 |
+| Art. 396 | 66 | Art. 585 | 147 | Art. 774 | 208 | Art. 963 | 282 |
+| Art. 397 | 67 | Art. 586 | 147 | Art. 775 | 209 | Art. 964 | 283 |
+| Art. 398 | 67 | Art. 587 | 147 | Art. 776 | 210 | Art. 965 | 284 |
+| Art. 399 | 67 | Art. 588 | 147 | Art. 777 | 210 | Art. 966 | 284 |
+| Art. 400 | 68 | Art. 589 | 148 | Art. 778 | 210 | Art. 967 | 285 |
+| Art. 401 | 69 | Art. 590 | 148 | Art. 779 | 211 | Art. 968 | 286 |
+| Art. 402 | 69 | Art. 591 | 148 | Art. 780 | 212 | Art. 969 | 287 |
+| Art. 403 | 69 | Art. 592 | 148 | Art. 781 | 212 | Art. 970 | 287 |
+| Art. 404 | 70 | Art. 593 | 148 | Art. 782 | 212 | Art. 971 | 287 |
+| Art. 405 | 71 | Art. 594 | 148 | Art. 783 | 213 | Art. 972 | 287 |
+| Art. 406 | 71 | Art. 595 | 149 | Art. 784 | 213 | Art. 973 | 287 |
+| Art. 407 | 71 | Art. 596 | 149 | Art. 785 | 214 | Art. 974 | 287 |
+| Art. 408 | 72 | Art. 597 | 149 | Art. 786 | 215 | Art. 975 | 288 |
+| Art. 409 | 72 | Art. 598 | 150 | Art. 787 | 215 | Art. 976 | 288 |
+| Art. 410 | 72 | Art. 599 | 150 | Art. 788 | 215 | Art. 977 | 289 |
+| Art. 411 | 73 | Art. 600 | 151 | Art. 789 | 215 | Art. 978 | 289 |
+| Art. 412 | 73 | Art. 601 | 151 | Art. 790 | 216 | Art. 979 | 289 |
+| Art. 413 | 73 | Art. 602 | 151 | Art. 791 | 216 | Art. 980 | 290 |
+| Art. 414 | 74 | Art. 603 | 152 | Art. 792 | 217 | Art. 981 | 290 |
+| Art. 415 | 74 | Art. 604 | 152 | Art. 793 | 217 | Art. 982 | 290 |
+| Art. 416 | 74 | Art. 605 | 153 | Art. 794 | 218 | Art. 983 | 291 |
+| Art. 417 | 74 | Art. 606 | 153 | Art. 795 | 218 | Art. 984 | 291 |
+| Art. 418 | 74 | Art. 607 | 154 | Art. 796 | 219 | Art. 985 | 292 |
+| Art. 419 | 74 | Art. 608 | 154 | Art. 797 | 219 | Art. 986 | 292 |
+| Art. 420 | 74 | Art. 609 | 155 | Art. 798 | 219 | Art. 987 | 292 |
+| Art. 421 | 75 | Art. 610 | 155 | Art. 799 | 220 | Art. 988 | 292 |
+| Art. 422 | 75 | Art. 611 | 155 | Art. 800 | 221 | Art. 989 | 294 |
+| Art. 423 | 75 | Art. 612 | 156 | Art. 801 | 221 | Art. 990 | 294 |
+| Art. 424 | 75 | Art. 613 | 156 | Art. 802 | 221 | Art. 991 | 294 |
+| Art. 425 | 75 | Art. 614 | 156 | Art. 803 | 222 | Art. 992 | 294 |
+| Art. 426 | 76 | Art. 615 | 156 | Art. 804 | 222 | Art. 993 | 294 |
+| Art. 427 | 76 | Art. 616 | 156 | Art. 805 | 223 | Art. 994 | 295 |
+| Art. 428 | 77 | Art. 617 | 157 | Art. 806 | 223 | Art. 995 | 295 |
+| Art. 429 | 77 | Art. 618 | 158 | Art. 807 | 223 | Art. 996 | 295 |
+| Art. 430 | 78 | Art. 619 | 159 | Art. 808 | 223 | Art. 997 | 296 |
+| Art. 431 | 78 | Art. 620 | 159 | Art. 809 | 224 | Art. 998 | 296 |
+| Art. 432 | 79 | Art. 621 | 160 | Art. 810 | 224 | Art. 999 | 296 |
+| Art. 433 | 79 | Art. 622 | 160 | Art. 811 | 224 | Art. 1000 | 297 |
+| Art. 434 | 79 | Art. 623 | 161 | Art. 812 | 224 | Art. 1001 | 297 |
+| Art. 435 | 79 | Art. 624 | 161 | Art. 813 | 224 | Art. 1002 | 297 |
+| Art. 436 | 80 | Art. 625 | 162 | Art. 814 | 224 | Art. 1003 | 297 |
+| Art. 437 | 80 | Art. 626 | 162 | Art. 815 | 225 | Art. 1004 | 298 |
+| Art. 438 | 81 | Art. 627 | 162 | Art. 816 | 225 | Art. 1005 | 298 |
+| Art. 439 | 82 | Art. 628 | 163 | Art. 817 | 225 | Art. 1006 | 299 |
+| Art. 440 | 82 | Art. 629 | 163 | Art. 818 | 225 | Art. 1007 | 299 |
+| Art. 441 | 82 | Art. 630 | 163 | Art. 819 | 226 | Art. 1008 | 300 |
+| Art. 442 | 83 | Art. 631 | 163 | Art. 820 | 226 | Art. 1010 | 300 |
+| Art. 443 | 83 | Art. 632 | 163 | Art. 821 | 226 | Art. 1011 | 300 |
+| Art. 444 | 84 | Art. 633 | 164 | Art. 822 | 226 | Art. 1012 | 301 |
+| Art. 445 | 84 | Art. 634 | 164 | Art. 823 | 226 | Art. 1013 | 302 |
+| Art. 446 | 84 | Art. 635 | 164 | Art. 824 | 226 | Art. 1014 | 302 |
+| Art. 447 | 84 | Art. 636 | 164 | Art. 825 | 227 | Art. 1015 | 303 |
+| Art. 448 | 85 | Art. 637 | 164 | Art. 826 | 227 | Art. 1016 | 304 |
+| Art. 449 | 85 | Art. 638 | 164 | Art. 827 | 227 | Art. 1017 | 304 |
+| Art. 450 | 86 | Art. 639 | 165 | Art. 828 | 228 | Art. 1018 | 305 |
+| Art. 451 | 86 | Art. 640 | 165 | Art. 829 | 228 | Art. 1019 | 305 |
+| Art. 452 | 86 | Art. 641 | 165 | Art. 830 | 229 | Art. 1020 | 305 |
+| Art. 453 | 87 | Art. 642 | 166 | Art. 831 | 229 | Art. 1021 | 306 |
+| Art. 454 | 87 | Art. 643 | 167 | Art. 832 | 229 | Art. 1022 | 306 |
+| Art. 455 | 88 | Art. 644 | 167 | Art. 833 | 230 | Art. 1023 | 307 |
+| Art. 456 | 89 | Art. 645 | 167 | Art. 834 | 231 | Art. 1024 | 307 |
+| Art. 457 | 89 | Art. 646 | 168 | Art. 835 | 231 | Art. 1025 | 308 |
+| Art. 458 | 89 | Art. 647 | 168 | Art. 836 | 232 | Art. 1026 | 308 |
+| Art. 459 | 90 | Art. 648 | 168 | Art. 837 | 233 | Art. 1027 | 309 |
+| Art. 460 | 90 | Art. 649 | 169 | Art. 838 | 233 | Art. 1028 | 309 |
+| Art. 461 | 90 | Art. 650 | 169 | Art. 839 | 233 | Art. 1029 | 310 |
+| Art. 462 | 90 | Art. 651 | 169 | Art. 840 | 233 | Art. 1030 | 311 |
+| Art. 463 | 91 | Art. 652 | 169 | Art. 841 | 234 | Art. 1031 | 312 |
+| Art. 464 | 91 | Art. 653 | 169 | Art. 842 | 234 | Art. 1032 | 313 |
+| Art. 465 | 92 | Art. 654 | 170 | Art. 843 | 234 | Art. 1033 | 313 |
+| Art. 466 | 93 | Art. 655 | 170 | Art. 844 | 235 | Art. 1034 | 313 |
+| Art. 467 | 93 | Art. 656 | 170 | Art. 845 | 235 | Art. 1035 | 313 |
+| Art. 468 | 94 | Art. 657 | 170 | Art. 846 | 235 | Art. 1036 | 314 |
+| Art. 469 | 94 | Art. 658 | 171 | Art. 847 | 236 | Art. 1037 | 315 |
+| Art. 470 | 95 | Art. 659 | 171 | Art. 848 | 236 | Art. 1038 | 316 |
+| Art. 471 | 95 | Art. 660 | 172 | Art. 849 | 237 | Art. 1039 | 317 |
+| Art. 472 | 96 | Art. 661 | 172 | Art. 850 | 237 | Art. 1040 | 317 |
+| Art. 473 | 96 | Art. 662 | 172 | Art. 851 | 237 | Art. 1041 | 318 |
+| Art. 474 | 97 | Art. 663 | 172 | Art. 852 | 238 | Art. 1042 | 318 |
+| Art. 475 | 97 | Art. 664 | 173 | Art. 853 | 238 | Art. 1043 | 320 |
+| Art. 476 | 97 | Art. 665 | 173 | Art. 854 | 238 | Art. 1044 | 321 |
+| Art. 477 | 97 | Art. 666 | 173 | Art. 855 | 239 | Art. 1045 | 322 |
+| Art. 478 | 98 | Art. 667 | 174 | Art. 856 | 240 | Art. 1046 | 322 |
+| Art. 479 | 98 | Art. 668 | 174 | Art. 857 | 240 | Art. 1047 | 322 |
+| Art. 480 | 99 | Art. 669 | 174 | Art. 858 | 240 | Art. 1048 | 322 |
+| Art. 481 | 99 | Art. 670 | 175 | Art. 859 | 240 | Art. 1049 | 323 |
+| Art. 482 | 100 | Art. 671 | 175 | Art. 860 | 241 | Art. 1050 | 323 |
+| Art. 483 | 100 | Art. 672 | 175 | Art. 861 | 241 | Art. 1051 | 323 |
+| Art. 484 | 100 | Art. 673 | 175 | Art. 862 | 242 | Art. 1052 | 324 |
+| Art. 485 | 101 | Art. 674 | 176 | Art. 863 | 242 | Art. 1053 | 324 |
+| Art. 486 | 102 | Art. 675 | 178 | Art. 864 | 243 | Art. 1054 | 324 |
+| Art. 487 | 102 | Art. 676 | 178 | Art. 865 | 243 | Art. 1055 | 324 |
+| Art. 488 | 103 | Art. 677 | 178 | Art. 866 | 243 | Art. 1056 | 324 |
+| Art. 489 | 103 | Art. 678 | 179 | Art. 867 | 243 | Art. 1057 | 324 |
+| Art. 490 | 104 | Art. 679 | 179 | Art. 868 | 243 | Art. 1058 | 325 |
+| Art. 491 | 104 | Art. 680 | 179 | Art. 869 | 244 | Art. 1059 | 325 |
+| Art. 492 | 105 | Art. 681 | 179 | Art. 870 | 244 | Art. 1060 | 325 |
+| Art. 493 | 105 | Art. 682 | 179 | Art. 871 | 244 | Art. 1061 | 325 |
+| Art. 494 | 105 | Art. 683 | 179 | Art. 872 | 245 | Art. 1062 | 325 |
+| Art. 495 | 106 | Art. 684 | 180 | Art. 873 | 245 | Art. 1063 | 326 |
+| Art. 496 | 107 | Art. 685 | 180 | Art. 874 | 246 | Art. 1064 | 326 |
+| Art. 497 | 108 | Art. 686 | 180 | Art. 875 | 246 | Art. 1065 | 326 |
+| Art. 498 | 108 | Art. 687 | 180 | Art. 876 | 246 | Art. 1066 | 326 |
+| Art. 499 | 108 | Art. 688 | 181 | Art. 877 | 247 | Art. 1067 | 326 |
+| Art. 500 | 109 | Art. 689 | 181 | Art. 878 | 248 | Art. 1068 | 327 |
+| Art. 501 | 109 | Art. 690 | 181 | Art. 879 | 248 | Art. 1069 | 327 |
+| Art. 502 | 109 | Art. 691 | 182 | Art. 880 | 248 | Art. 1070 | 327 |
+| Art. 503 | 109 | Art. 692 | 182 | Art. 881 | 249 | Art. 1071 | 327 |
+| Art. 504 | 110 | Art. 693 | 182 | Art. 882 | 249 | Art. 1072 | 329 |
 | Art. 505 | 110 | Art. 694 | 182 | Art. 883 | 250 |  |  |
 | Art. 506 | 111 | Art. 695 | 182 | Art. 884 | 250 |  |  |
 

@@ -2,7 +2,7 @@
 
 *Jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça, artigo por artigo.*
 
-Código de Processo Civil (Lei 13.105/2015) anotado com jurisprudência do STF e do STJ, artigo por artigo, em dois volumes: Parte Geral e Parte Especial.
+Código de Processo Civil (Lei 13.105/2015) anotado com jurisprudência do STF e do STJ, artigo por artigo: Parte Geral (arts. 1º a 317) e Parte Especial (arts. 318 a 1.072). CC BY 4.0
 
 **Autor:** Domingos José de Souza Lima Júnior
 **Data:** Realizado em 25 de outubro de 2026

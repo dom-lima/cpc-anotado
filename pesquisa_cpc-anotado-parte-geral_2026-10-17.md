@@ -52,7 +52,7 @@ lang: pt-BR
 - **Pesquisa realizada por:** Domingos José de Souza Lima Júnior
 - **Data da pesquisa:** 17/10/2026
 - **Bases consultadas:** legislação e jurisprudência do STF e do STJ (curadoria interna); e repositório externo, com os acórdãos assinalados como **[Repositório externo]**
-- **Recorte:** julgados e entendimentos de 1º/01/2016 a 17/10/2026. Entendimento anterior só aparece quando ainda é o marco vigente do artigo, com a data de origem declarada. Só os artigos com julgado relevante são anotados (171 dos 317); os demais trazem apenas o texto legal.
+- **Recorte:** julgados e entendimentos de 1º/01/2016 a 17/10/2026. Entendimento anterior só aparece quando ainda é o marco vigente do artigo, com a data de origem declarada. Só os artigos com julgado relevante são anotados (172 dos 317); os demais trazem apenas o texto legal.
 - **Datas dos julgados:** a data indicada é a do julgamento e, quando a fonte traz apenas a da publicação, a do Diário da Justiça eletrônico (DJe).
 - **Uso de IA:** consulta às fontes e redação assistidas por IA generativa (Claude Code). A conferência dos julgados na fonte primária cabe ao leitor (ver seção 7).
 - **Estrutura:** a seção 5 reproduz o texto legal artigo por artigo, na ordem do Código, com as anotações nos artigos que as têm; cada Livro abre com página própria, seguido dos Títulos, Capítulos e Seções do Código, com a faixa de artigos de cada um. O índice de artigos, ao final, remete cada artigo à sua página.
@@ -2471,6 +2471,12 @@ III - aos demais sujeitos imparciais do processo.
 
 § 4º O disposto nos §§ 1º e 2º não se aplica à arguição de impedimento ou de suspeição de testemunha.
 
+###### Jurisprudência do Supremo Tribunal Federal
+
+| Fundamento | Julgado | Ratio |
+|---|---|---|
+| I — impedimento e suspeição aplicados ao membro do Ministério Público (aplicação narrada) | MS 39.290, Segunda Turma, relator Min. Gilmar Mendes, julgado em 19/12/2023 | Os motivos de impedimento e de suspeição aplicam-se ao membro do Ministério Público: no caso, reconheceu-se a suspeição de membro do Ministério Público do Pará na hipótese do art. 145, I, do CPC, e concedeu-se a segurança contra a anulação, pelo Conselho Nacional do Ministério Público, da decisão do Conselho Superior que acolhera as exceções. Trecho: “Verificada hipótese legal, prevista no art. 145, inciso I, do CPC. Suspeição configurada. Segurança concedida.” |
+
 #### Capítulo III: dos auxiliares da justiça (arts. 149 a 175)
 
 ###### Art. 149
@@ -4582,6 +4588,8 @@ BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Agravo em Recurso Extraordiná
 
 BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Recurso Extraordinário 827996 (Tema 1011). Relator: Min. Gilmar Mendes. Julgado em 29 jun. 2020; embargos de declaração julgados em 9 nov. 2022. **[Repositório externo]**
 
+BRASIL. Supremo Tribunal Federal. Segunda Turma. Mandado de Segurança 39.290. Relator: Min. Gilmar Mendes. Julgado em 19 dez. 2023. [Repositório externo].
+
 BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Arguição de Descumprimento de Preceito Fundamental 205. Relator: Min. Dias Toffoli. Sessão virtual de 9 a 16 jun. 2017. [Repositório externo].
 
 BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Cível Originária 3104. Relator: Min. Luís Roberto Barroso. Julgada em 29 jun. 2020. **[Repositório externo]**
@@ -5181,13 +5189,13 @@ Remete cada artigo da Parte Geral à página em que começa o seu texto.
 | Art. 67 | 49 | Art. 147 | 91 | Art. 227 | 116 | Art. 307 | 148 |
 | Art. 68 | 50 | Art. 148 | 92 | Art. 228 | 117 | Art. 308 | 148 |
 | Art. 69 | 50 | Art. 149 | 92 | Art. 229 | 117 | Art. 309 | 149 |
-| Art. 70 | 52 | Art. 150 | 92 | Art. 230 | 117 | Art. 310 | 149 |
+| Art. 70 | 52 | Art. 150 | 93 | Art. 230 | 117 | Art. 310 | 149 |
 | Art. 71 | 52 | Art. 151 | 93 | Art. 231 | 117 | Art. 311 | 149 |
 | Art. 72 | 52 | Art. 152 | 93 | Art. 232 | 119 | Art. 312 | 151 |
-| Art. 73 | 53 | Art. 153 | 93 | Art. 233 | 119 | Art. 313 | 151 |
+| Art. 73 | 53 | Art. 153 | 94 | Art. 233 | 119 | Art. 313 | 151 |
 | Art. 74 | 53 | Art. 154 | 94 | Art. 234 | 119 | Art. 314 | 153 |
 | Art. 75 | 53 | Art. 155 | 94 | Art. 235 | 120 | Art. 315 | 153 |
-| Art. 76 | 55 | Art. 156 | 94 | Art. 236 | 120 | Art. 316 | 153 |
+| Art. 76 | 55 | Art. 156 | 95 | Art. 236 | 120 | Art. 316 | 153 |
 | Art. 77 | 56 | Art. 157 | 95 | Art. 237 | 120 | Art. 317 | 153 |
 | Art. 78 | 57 | Art. 158 | 96 | Art. 238 | 121 |  |  |
 | Art. 79 | 57 | Art. 159 | 96 | Art. 239 | 121 |  |  |
