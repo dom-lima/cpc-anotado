@@ -53,7 +53,7 @@ lang: pt-BR
 - **Data da pesquisa:** 17/10/2026
 - **Bases consultadas:** legislação e jurisprudência do STF e do STJ (curadoria interna); e repositório externo, com os acórdãos assinalados como **[Repositório externo]**
 - **Recorte:** julgados e entendimentos de 1º/01/2016 a 17/10/2026. Entendimento anterior só aparece quando ainda é o marco vigente do artigo, com a data de origem declarada. Só os artigos com julgado relevante são anotados (172 dos 317); os demais trazem apenas o texto legal.
-- **Datas dos julgados:** a data indicada é a do julgamento e, quando a fonte traz apenas a da publicação, a do Diário da Justiça eletrônico (DJe).
+- **Datas dos julgados:** a data indicada é a do julgamento e, quando a fonte traz apenas a da publicação, a do Diário de Justiça eletrônico (Diário da Justiça eletrônico (DJe)) ou do Diário de Justiça Eletrônico Nacional (DJEN).
 - **Uso de IA:** consulta às fontes e redação assistidas por IA generativa (Claude Code). A conferência dos julgados na fonte primária cabe ao leitor (ver seção 7).
 - **Estrutura:** a seção 5 reproduz o texto legal artigo por artigo, na ordem do Código, com as anotações nos artigos que as têm; cada Livro abre com página própria, seguido dos Títulos, Capítulos e Seções do Código, com a faixa de artigos de cada um. O índice de artigos, ao final, remete cada artigo à sua página.
 
@@ -101,7 +101,7 @@ lang: pt-BR
 
 > [!TIP]
 >
-> **Admitido.** Sobre os limites subjetivos e a cooperação internacional: o locatário não tem legitimidade para pleitear em nome próprio direito do locador (embargos de divergência em recurso especial (EREsp) 1.630.199, 2021, art. 18); o auxílio direto distingue-se da carta rogatória pela origem — medida que não decorre diretamente de decisão jurisdicional estrangeira —, e a produção de provas por decisão estrangeira é admissível em carta rogatória, com juízo de delibação do Superior Tribunal de Justiça (AgInt na CR 21.916, 2025, art. 27); nesse juízo, a defesa restringe-se à autenticidade dos documentos, à inteligência da decisão e aos requisitos legais, vedado o exame do mérito e da citação no processo estrangeiro (AgInt no CR 19.637, 2025, art. 36). Quanto à arbitragem, cabe ao juízo arbitral analisar a própria existência, validade e eficácia da cláusula compromissória, inclusive seus limites (AgInt no agravo em recurso especial (AREsp) 1.197.814, 2019, art. 42).
+> **Admitido.** Sobre os limites subjetivos e a cooperação internacional: o locatário não tem legitimidade para pleitear em nome próprio direito do locador (embargos de divergência em recurso especial (EREsp) 1.630.199, 2021, art. 18); o auxílio direto distingue-se da carta rogatória pela origem — medida que não decorre diretamente de decisão jurisdicional estrangeira —, e a produção de provas por decisão estrangeira é admissível em carta rogatória, com juízo de delibação do Superior Tribunal de Justiça (AgInt na CR 21.916, 2025, art. 27); nesse juízo, a defesa restringe-se à autenticidade dos documentos, à inteligência da decisão e aos requisitos legais, vedado o exame do mérito e da citação no processo estrangeiro (AgInt na CR 19.637, 2025, art. 36). Quanto à arbitragem, cabe ao juízo arbitral analisar a própria existência, validade e eficácia da cláusula compromissória, inclusive seus limites (AgInt no agravo em recurso especial (AREsp) 1.197.814, 2019, art. 42).
 
 > [!WARNING]
 >
@@ -338,7 +338,7 @@ As fontes desta pesquisa são exclusivamente a legislação e a jurisprudência,
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
-| Art. 6º (colaboração e boa-fé); art. 17 (interesse de agir) | Tema Repetitivo 1124, REsp 1.913.152, Primeira Seção, relatora Min. Maria Thereza de Assis Moura, julgado em 08/10/2025, Diário de Justiça Eletrônico Nacional (DJEN) de 06/11/2025 | A atuação cooperativa entre o segurado e a Administração orienta o interesse de agir na ação previdenciária. O segurado deve apresentar requerimento administrativo apto, com documentação minimamente suficiente; o indeferimento forçado, ou a omissão em complementar a documentação depois de intimado, impede o reconhecimento do interesse de agir. Se o requerimento veio com documentação apta ao seu conhecimento, embora insuficiente, o INSS deve intimar o segurado a complementá-la; não o fazendo, o interesse de agir está configurado. |
+| Art. 6º (colaboração e boa-fé); art. 17 (interesse de agir) | Tema Repetitivo 1124, REsp 1.913.152, Primeira Seção, relatora Min. Maria Thereza de Assis Moura, julgado em 08/10/2025, DJEN de 06/11/2025 | A atuação cooperativa entre o segurado e a Administração orienta o interesse de agir na ação previdenciária. O segurado deve apresentar requerimento administrativo apto, com documentação minimamente suficiente; o indeferimento forçado, ou a omissão em complementar a documentação depois de intimado, impede o reconhecimento do interesse de agir. Se o requerimento veio com documentação apta ao seu conhecimento, embora insuficiente, o INSS deve intimar o segurado a complementá-la; não o fazendo, o interesse de agir está configurado. |
 | Art. 6º (cooperação e boa-fé); arts. 77 e 80 (litigância abusiva) | Tema Repetitivo 1198, REsp 2.021.665, Corte Especial, relator Min. Moura Ribeiro, julgado em 13/03/2025, DJEN de 11/06/2026 | Constatados indícios de litigância abusiva, o juiz pode exigir, de modo fundamentado e com observância da razoabilidade do caso concreto, a emenda da petição inicial para demonstrar o interesse de agir e a autenticidade da postulação, respeitadas as regras de distribuição do ônus da prova. |
 | Caput — limites do dever de cooperação (dever de auxílio) | REsp 2.224.132, Terceira Turma, relator Min. Ricardo Villas Bôas Cueva, julgado em 16/06/2026 | O princípio da cooperação, na vertente do dever de auxílio, não impõe ao magistrado o dever de suprir a deficiência probatória da parte nem de assumir ônus que incumbem ao credor, especialmente quando este dispõe de meios para obter as informações necessárias. |
 
@@ -750,7 +750,7 @@ Parágrafo único. O Ministério Público requererá em juízo a medida solicita
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
-| § 1º — limites da defesa no juízo de delibação | AgInt no CR 19.637, Corte Especial, relator Min. Herman Benjamin, DJe de 25/03/2025 | A defesa em carta rogatória restringe-se à autenticidade dos documentos, à inteligência da decisão e à observância dos requisitos legais; o Superior Tribunal de Justiça exerce juízo meramente de delibação, e questões de mérito e a regularidade da citação no processo estrangeiro não podem ser ali examinadas. |
+| § 1º — limites da defesa no juízo de delibação | AgInt na CR 19.637, Corte Especial, relator Min. Herman Benjamin, julgado em 19/03/2025, DJEN de 25/03/2025 | A defesa em carta rogatória restringe-se à autenticidade dos documentos, à inteligência da decisão e à observância dos requisitos legais; o Superior Tribunal de Justiça exerce juízo meramente de delibação, e questões de mérito e a regularidade da citação no processo estrangeiro não podem ser ali examinadas. |
 
 ##### Seção IV: disposições comuns às seções anteriores (arts. 37 a 41)
 
@@ -1079,7 +1079,7 @@ II - às execuções fundadas no mesmo título executivo.
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
-| Caput — ação acessória no juízo da ação principal (aplicação narrada) | AgInt no REsp 2.206.431, Segunda Turma, relatora Min. Maria Thereza de Assis Moura | A ação anulatória de acordo extrajudicial homologado em segundo grau deve ser proposta e processada no juízo da ação principal, tal como decidiu o tribunal de origem ao aplicar o art. 61; a homologação da transação em fase recursal não desloca a competência para o tribunal. Trecho: “A ação ordinária principal, in casu, foi ajuizada perante a Vara Única de Brasilândia/MS, juízo onde deve tramitar a ação anulatória.” |
+| Caput — ação acessória no juízo da ação principal (aplicação narrada) | STJ, AgInt no REsp 2.206.431, Segunda Turma, relatora Min. Maria Thereza de Assis Moura, DJe de 27/10/2025 | A ação anulatória de acordo extrajudicial homologado em segundo grau deve ser proposta e processada no juízo da ação principal, tal como decidiu o tribunal de origem ao aplicar o art. 61; a homologação da transação em fase recursal não desloca a competência para o tribunal. Trecho: “A ação ordinária principal, in casu, foi ajuizada perante a Vara Única de Brasilândia/MS, juízo onde deve tramitar a ação anulatória.” |
 
 ###### Art. 62
 
@@ -1601,7 +1601,6 @@ IV - será considerado o salário-mínimo vigente quando prolatada sentença lí
 | Art. 85 (ação rescisória que aplica a modulação do Tema 69/STF) | Tema Repetitivo 1419, REsp 2.222.626, Primeira Seção, relatora Min. Maria Thereza de Assis Moura, julgado em 20/08/2026, DJEN de 27/08/2026 | A decisão que, para aplicar a modulação de efeitos realizada pelo STF no Tema 69 da repercussão geral, julga procedente ação rescisória contestada até 11/9/2024 não deve condenar ao pagamento de honorários advocatícios de sucumbência. |
 | Art. 85, § 10 (execução fiscal extinta por perda superveniente do objeto) | Tema Repetitivo 1413, REsp 2.215.141, Primeira Seção, relator Min. Gurgel de Faria, julgado em 10/06/2026, DJEN de 18/06/2026 | Em respeito ao princípio da causalidade e da norma extraída do texto do art. 85, § 10, do CPC/2015, é cabível a condenação do executado ao pagamento de honorários advocatícios em ação de execução fiscal extinta por perda superveniente do objeto, quando há a quitação extrajudicial do débito após o ajuizamento da ação executiva, ainda que antes da efetiva citação. |
 | Art. 85, § 8º (exceção de pré-executividade; exclusão do excipiente) | Tema Repetitivo 1265, REsp 2.097.166, Primeira Seção, relator Min. Herman Benjamin, julgado em 14/05/2025, DJEN de 23/06/2025 | Nos casos em que da Exceção de Pré-Executividade resultar, tão somente, a exclusão do excipiente do polo passivo da Execução Fiscal, os honorários advocatícios deverão ser fixados por apreciação equitativa, nos moldes do art. 85, § 8º, do CPC /2015, porquanto não há como se estimar o proveito econômico obtido com o provimento jurisdicional. |
-| Art. 85, § 8º (exceção de pré-executividade que só exclui o excipiente da execução fiscal) | Tema Repetitivo 1265, REsp 2.097.166, Primeira Seção, relator Min. Herman Benjamin, julgado em 14/05/2025, DJEN de 23/06/2025 | Nos casos em que da Exceção de Pré-Executividade resultar, tão somente, a exclusão do excipiente do polo passivo da Execução Fiscal, os honorários advocatícios deverão ser fixados por apreciação equitativa, nos moldes do art. 85, § 8º, do CPC /2015, porquanto não há como se estimar o proveito econômico obtido com o provimento jurisdicional. |
 | Art. 85, § 8º (desistência de desapropriação; percentuais do art. 27, § 1º, do Decreto-Lei 3.365/1941) | Tema Repetitivo 1298, REsp 2.129.162, Primeira Seção, relator Min. Paulo Sérgio Domingues, julgado em 09/04/2025, DJEN de 14/04/2025 | Aplicam-se os percentuais do art. 27, § 1º, do DL 3.365/41 no arbitramento de honorários sucumbenciais devidos pelo autor em caso de desistência de ação de desapropriação por utilidade pública ou de constituição de servidão administrativa, os quais terão como base de cálculo o valor atualizado da causa. Esses percentuais não se aplicam somente se o valor da causa for muito baixo, caso em que os honorários serão arbitrados por apreciação equitativa do juiz, na forma do art. 85, § 8º, do CPC. |
 | Art. 85, § 1º (cumprimento de sentença em mandado de segurança) | Tema Repetitivo 1232, REsp 2.053.306, Primeira Seção, relator Min. Sérgio Kukina, julgado em 27/11/2024, DJe de 04/12/2024 | Nos termos do art. 25 da Lei n. 12.016/2009, não se revela cabível a fixação de honorários de sucumbência em cumprimento de sentença proferida em mandado de segurança individual, ainda que dela resultem efeitos patrimoniais a serem saldados dentro dos mesmos autos. |
 | Art. 85, § 7º (cumprimento de sentença contra a Fazenda sem impugnação; RPV) | Tema Repetitivo 1190, REsp 2.029.636, Primeira Seção, relator Min. Herman Benjamin, julgado em 20/06/2024, DJe de 01/07/2024 | Na ausência de impugnação à pretensão executória, não são devidos honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, ainda que o crédito esteja submetido a pagamento por meio de Requisição de Pequeno Valor - RPV. |
@@ -2060,7 +2059,7 @@ Parágrafo único. Se qualquer parte alegar que falta ao requerente interesse ju
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
-| Caput — assistência e ausência de deferimento tácito | AgInt no AREsp 2.513.897, Primeira Turma, relator Min. Sérgio Kukina | Não há deferimento tácito do pedido de assistência: o silêncio da parte não supre a decisão que aprecia o requerimento, e a hipótese não se resolve pelo art. 24 da Lei de Introdução. |
+| Caput — assistência e ausência de deferimento tácito | STJ, AgInt no AREsp 2.513.897, Primeira Turma, relator Min. Sérgio Kukina, julgado em 11/02/2025, DJe de 17/02/2025 | Não há deferimento tácito do pedido de assistência: o silêncio da parte não supre a decisão que aprecia o requerimento, e a hipótese não se resolve pelo art. 24 da Lei de Introdução. |
 
 ##### Seção II: da assistência simples (arts. 121 a 123)
 
@@ -2605,7 +2604,7 @@ II - praticarem ato nulo com dolo ou culpa.
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
-| Caput — especialidade do perito e validade da perícia | AgInt no REsp 2.146.248, Segunda Turma, relator Min. Marco Aurélio Bellizze | A especialidade técnica do perito não é pressuposto de validade da prova pericial; incumbe ao próprio profissional escusar-se do encargo quando não detiver a habilitação necessária. |
+| Caput — especialidade do perito e validade da perícia | STJ, AgInt no REsp 2.146.248, Segunda Turma, relator Min. Marco Aurélio Bellizze, DJe de 27/11/2025 | A especialidade técnica do perito não é pressuposto de validade da prova pericial; incumbe ao próprio profissional escusar-se do encargo quando não detiver a habilitação necessária. |
 
 ###### Art. 158
 
@@ -2967,7 +2966,7 @@ Parágrafo único. O documento redigido em língua estrangeira somente poderá s
 
 | Fundamento | Julgado | Ratio |
 |---|---|---|
-| Art. 192, parágrafo único (documento em língua estrangeira e tradução) (aplicação narrada) | AgInt na HDE 12.555, Corte Especial, relator Min. Herman Benjamin, julgado em 18/08/2026 | A juntada de documento sem tradução juramentada é vício sanável: em prestígio à cooperação processual e ao aproveitamento dos atos, deve-se oportunizar à parte prazo para a regularização, mediante a juntada das respectivas traduções oficiais, sob pena de o documento ser desconsiderado. Trecho: “Assim, mostra-se adequado oportunizar à parte, em prestígio aos princípios da cooperação processual e do aproveitamento dos atos processuais, prazo para a devida regularização, mediante a juntada das respectivas traduções oficiais, sob pena de desconsideração dos documentos para os fins desta homologação.” |
+| Art. 192, parágrafo único (documento em língua estrangeira e tradução) (aplicação narrada) | AgInt na HDE 12.555, Corte Especial, relator Min. Herman Benjamin, julgado em 18/08/2026, DJEN de 21/08/2026 | A juntada de documento sem tradução juramentada é vício sanável: em prestígio à cooperação processual e ao aproveitamento dos atos, deve-se oportunizar à parte prazo para a regularização, mediante a juntada das respectivas traduções oficiais, sob pena de o documento ser desconsiderado. Trecho: “Assim, mostra-se adequado oportunizar à parte, em prestígio aos princípios da cooperação processual e do aproveitamento dos atos processuais, prazo para a devida regularização, mediante a juntada das respectivas traduções oficiais, sob pena de desconsideração dos documentos para os fins desta homologação.” |
 | Parágrafo único — documento redigido em língua estrangeira | HDE 10.733, Corte Especial, relator Min. Raul Araújo, julgado em 17/09/2025, DJEN de 25/09/2025 | Com base nos arts. 369, 370 e 371 do CPC, é possível a juntada aos autos de documento ou decisão em língua estrangeira, com a devida tradução, independentemente de sua homologação pelo STJ, para provar os fatos alegados, podendo o magistrado valorá-lo e indicar na decisão as razões de seu convencimento. |
 
 ##### Seção II: da prática eletrônica de atos processuais (arts. 193 a 199)
@@ -4486,7 +4485,7 @@ II - falecido o autor e sendo transmissível o direito em litígio, determinará
 
 ## 6.1 Livro I: das normas processuais civis
 
-Não localizadas nos acervos consultados para os dispositivos deste Livro. Os acórdãos de Turma sobre o art. 10 (REsp 2.076.294, 2023, e RMS 52.463, 2018) são convergentes.
+Não foram localizadas divergências nos acervos consultados para os dispositivos deste Livro. Os acórdãos de Turma sobre o art. 10 (REsp 2.076.294, 2023, e RMS 52.463, 2018) são convergentes.
 
 ## 6.2 Livro II: da função jurisdicional
 
@@ -4503,7 +4502,7 @@ Não localizadas nos acervos consultados para os dispositivos deste Livro. Os ac
 
 ## 6.4 Livro IV: dos atos processuais
 
-Não localizadas nas bases consultadas para os dispositivos deste Livro.
+Não foram localizadas divergências nas bases consultadas para os dispositivos deste Livro.
 
 ## 6.5 Livro V: da tutela provisória
 
@@ -4513,24 +4512,25 @@ Não localizadas nas bases consultadas para os dispositivos deste Livro.
 
 ## 6.6 Livro VI: da formação, da suspensão e da extinção do processo
 
-Não localizadas nas bases consultadas para os dispositivos deste Livro.
+Não foram localizadas divergências nas bases consultadas para os dispositivos deste Livro.
 
 # 7 Pendências de verificação
 
 ## 7.1 Livro I: das normas processuais civis
 
 - **Alcance da busca.** Colheita sistemática de 1º/01/2016 a 17/10/2026, por dispositivo (caput, parágrafos e incisos), nos acervos de curadoria interna (Supremo Tribunal Federal e Superior Tribunal de Justiça) e no repositório externo, com lista ordenada pela hierarquia dos precedentes. A busca é semântica: artigo sem julgado com tese própria no acervo permanece apenas com o texto legal, o que não prova inexistência de jurisprudência.
-- **Arts. 1º, 2º, 4º, 5º, 7º a 9º, 12, 13 e 15.** A busca por dispositivo não localizou acórdão com tese própria ou orientação de aplicação além dos citados; o resultado de pesquisa semântica por princípios é reduzido no acervo.
+- **Arts. 1º, 4º, 12 a 13, 15.** A busca por dispositivo não localizou acórdão com tese própria ou orientação de aplicação além dos citados; o resultado de pesquisa semântica por princípios é reduzido no acervo.
 
 ## 7.2 Livro II: da função jurisdicional
 
 - **Alcance da busca.** Colheita sistemática de 1º/01/2016 a 17/10/2026, por dispositivo (caput, parágrafos e incisos), nos acervos de curadoria interna (Supremo Tribunal Federal e Superior Tribunal de Justiça) e no repositório externo, com lista ordenada pela hierarquia dos precedentes. A busca é semântica: artigo sem julgado com tese própria no acervo permanece apenas com o texto legal, o que não prova inexistência de jurisprudência.
-- **Arts. 16, 18 a 20, 22, 27, 29, 31 a 41, 44, 47 a 51, 54, 57, 60 a 62, 65 e 67 a 69.** Sem acórdão com tese própria ou orientação de aplicação nos acervos consultados.
+- **Arts. 16, 20, 29 a 32, 34, 37 a 38, 44, 49 a 51, 54, 60 a 61, 67 a 69.** Sem acórdão com tese própria ou orientação de aplicação nos acervos consultados além dos citados.
 - **Súmula 33 e art. 63, §§ 3º e 5º.** Não foi localizado acórdão que tenha reexaminado a súmula à luz do texto atual do art. 63 (Lei 14.879/2024).
 
 ## 7.3 Livro III: dos sujeitos do processo
 
 - **Alcance da busca.** Colheita sistemática de 1º/01/2016 a 17/10/2026, por dispositivo (caput, parágrafos e incisos), nos acervos de curadoria interna (Supremo Tribunal Federal e Superior Tribunal de Justiça) e no repositório externo, com lista ordenada pela hierarquia dos precedentes. A busca é semântica: artigo sem julgado com tese própria no acervo permanece apenas com o texto legal, o que não prova inexistência de jurisprudência.
+- **Arts. 71, 73 a 74, 78 a 79, 82, 88 a 89, 92 a 94, 96 a 97, 100, 102 a 103, 106 a 108, 116 a 118, 122 a 123, 127 a 128, 132, 135 a 137, 142, 147 a 148, 150 a 155, 158, 160, 162 a 164, 166 a 175, 177, 181 a 182, 184 a 185, 187.** Sem acórdão com tese própria ou orientação de aplicação nos acervos consultados além dos citados.
 - **Art. 143 (responsabilidade civil do juiz).** A ADPF 774, a que o texto legal remete, foi localizada no portal oficial do STF (processo 0111010-62.2020.1.00.0000, rel. Min. André Mendonça); a cautelar foi deferida em parte em 22/03/2022 e o processo está pendente de julgamento definitivo (concluso ao relator em 24/07/2023). A decisão cautelar não alcança as ações fundadas exclusivamente no art. 143 do CPC, de modo que o dispositivo segue sem tese definitiva.
 - **Tema 1210/STJ.** O acervo traz, como acórdão do tema, o de afetação (15/08/2023); a data do julgamento da tese deve ser conferida no portal do tribunal.
 - **Tema 1255/STF.** Afetado e sem tese; pode alterar a aplicação do Tema 1076/STJ.
@@ -4540,59 +4540,65 @@ Não localizadas nas bases consultadas para os dispositivos deste Livro.
 ## 7.4 Livro IV: dos atos processuais
 
 - **Alcance da busca.** Colheita sistemática de 1º/01/2016 a 17/10/2026, por dispositivo (caput, parágrafos e incisos), nos acervos de curadoria interna (Supremo Tribunal Federal e Superior Tribunal de Justiça) e no repositório externo, com lista ordenada pela hierarquia dos precedentes. A busca é semântica: artigo sem julgado com tese própria no acervo permanece apenas com o texto legal, o que não prova inexistência de jurisprudência.
-- **Arts. 188 a 189, 191, 193 a 218 (exceto o 190), 221, 222, 225 a 228, 232 a 236, 238 e 239, 241, 243 a 245, 247, 249 a 255, 257 a 266, 268, 269, 271, 273, 274 e 276 a 289.** Sem acórdão com tese própria nos acervos consultados, ou apenas Turma que aplica óbice de admissibilidade.
+- **Arts. 188, 191, 193 a 195, 198 a 202, 204 a 218, 221 a 222, 226 a 228, 230, 233 a 236, 238, 241, 243 a 245, 254 a 255, 258 a 266, 268 a 269, 271, 273, 275 a 276, 281 a 285, 288 a 289, 292.** Sem acórdão com tese própria ou orientação de aplicação nos acervos consultados além dos citados.
 - **Repositório externo.** As referências marcadas devem ser conferidas no portal do STF.
 
 ## 7.5 Livro V: da tutela provisória
 
 - **Alcance da busca.** Colheita sistemática de 1º/01/2016 a 17/10/2026, por dispositivo (caput, parágrafos e incisos), nos acervos de curadoria interna (Supremo Tribunal Federal e Superior Tribunal de Justiça) e no repositório externo, com lista ordenada pela hierarquia dos precedentes. A busca é semântica: artigo sem julgado com tese própria no acervo permanece apenas com o texto legal, o que não prova inexistência de jurisprudência.
-- **Arts. 295 a 298, 302, 303 e 305 a 310.** Sem acórdão com tese própria ou orientação de aplicação nos acervos consultados além dos citados.
+- **Arts. 295, 298, 306, 310.** Sem acórdão com tese própria ou orientação de aplicação nos acervos consultados além dos citados.
 - **Tema 1257/STJ.** Recurso extraordinário pendente; conferir a situação no acervo.
 
 ## 7.6 Livro VI: da formação, da suspensão e da extinção do processo
 
 - **Alcance da busca.** Colheita sistemática de 1º/01/2016 a 17/10/2026, por dispositivo (caput, parágrafos e incisos), nos acervos de curadoria interna (Supremo Tribunal Federal e Superior Tribunal de Justiça) e no repositório externo, com lista ordenada pela hierarquia dos precedentes. A busca é semântica: artigo sem julgado com tese própria no acervo permanece apenas com o texto legal, o que não prova inexistência de jurisprudência.
-- **Arts. 312, 314, 315 e 316.** Sem acórdão com tese própria ou orientação de aplicação nos acervos consultados.
+- **Arts. 315 a 316.** Sem acórdão com tese própria ou orientação de aplicação nos acervos consultados além dos citados.
 
 # Referências
 
 ## Supremo Tribunal Federal (curadoria interna)
 
-BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 5.814. Relator: Min. Roberto Barroso. Julgado em 6 fev. 2019.
-
-BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 5737. Relator: Min. Dias Toffoli. Redator para o acórdão: Min. Roberto Barroso. Julgamento em sessão virtual de 14 a 24 abr. 2023 (julgada em conjunto com a ADI 5492).
+BRASIL. Supremo Tribunal Federal. Medida Cautelar na Arguição de Descumprimento de Preceito Fundamental 774. Relator: Min. André Mendonça. Distrito Federal, decisão monocrática de 22 mar. 2022. DJe 23 mar. 2022.
 
 BRASIL. Supremo Tribunal Federal. Primeira Turma. Petição 5.946. Relator: Min. Marco Aurélio. Julgado em 16 ago. 2016.
 
-BRASIL. Supremo Tribunal Federal. Segunda Turma. Recurso Extraordinário 634.595. Relator: Min. Dias Toffoli. Julgado em 3 abr. 2018. Informativo 896.
-
-BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 6792. Relatora originária: Min. Rosa Weber. Julgamento em 22 maio 2024 (julgada em conjunto com a ADI 7055).
-
-BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 7055. Relatora originária: Min. Rosa Weber. Julgamento em 22 maio 2024.
-
-BRASIL. Supremo Tribunal Federal. Medida Cautelar na Arguição de Descumprimento de Preceito Fundamental 774. Relator: Min. André Mendonça. Distrito Federal, decisão monocrática de 22 mar. 2022. DJe 23 mar. 2022.
-
 BRASIL. Supremo Tribunal Federal. Repercussão Geral. Tema 1255. Recurso Extraordinário 1412069 (paradigma). Afetado, sem tese.
 
+BRASIL. Supremo Tribunal Federal. Repercussão Geral. Tema 799. Agravo em Recurso Extraordinário 722421 (paradigma). Sem repercussão geral (questão infraconstitucional).
+
+BRASIL. Supremo Tribunal Federal. Segunda Turma. Recurso Extraordinário 634.595. Relator: Min. Dias Toffoli. Julgado em 3 abr. 2018. Informativo 896.
+
+BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 5.814. Relator: Min. Roberto Barroso. Julgado em 6 fev. 2019.
+
 BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 5.941. Relator: Min. Luiz Fux. Julgado em 9 fev. 2023.
+
+BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 5737. Relator: Min. Dias Toffoli. Redator para o acórdão: Min. Roberto Barroso. Julgamento em sessão virtual de 14 a 24 abr. 2023 (julgada em conjunto com a ADI 5492).
 
 BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 5953. Relator: Min. Edson Fachin. Redator para o acórdão: Min. Gilmar Mendes. Julgamento em sessão virtual de 11 a 21 ago. 2023.
 
 BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 6.324. Relator: Min. Roberto Barroso. Julgada em 21 ago. 2023. Informativo.
 
-BRASIL. Supremo Tribunal Federal. Repercussão Geral. Tema 799. Agravo em Recurso Extraordinário 722421 (paradigma). Sem repercussão geral (questão infraconstitucional).
+BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 6792. Relatora originária: Min. Rosa Weber. Julgamento em 22 maio 2024 (julgada em conjunto com a ADI 7055).
+
+BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 7055. Relatora originária: Min. Rosa Weber. Julgamento em 22 maio 2024.
 
 ## Supremo Tribunal Federal (repositório externo)
 
-BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Agravo em Recurso Extraordinário 954.858. Relator: Min. Edson Fachin. Julgado em 11 maio 2017. [Repositório externo].
+BRASIL. Supremo Tribunal Federal. Agravo em Recurso Extraordinário 1400191. Relatora: Min. Rosa Weber (Presidente). Julgado em 28 nov. 2022. **[Repositório externo]**
 
-BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Recurso Extraordinário 827996 (Tema 1011). Relator: Min. Gilmar Mendes. Julgado em 29 jun. 2020; embargos de declaração julgados em 9 nov. 2022. **[Repositório externo]**
+BRASIL. Supremo Tribunal Federal. Agravo em Recurso Extraordinário 1431847. Relatora: Min. Rosa Weber (Presidente). Julgado em 3 jul. 2023. **[Repositório externo]**
+
+BRASIL. Supremo Tribunal Federal. Agravo em Recurso Extraordinário 1433852. Relatora: Min. Rosa Weber (Presidente). Julgado em 28 ago. 2023. **[Repositório externo]**
 
 BRASIL. Supremo Tribunal Federal. Segunda Turma. Mandado de Segurança 39.290. Relator: Min. Gilmar Mendes. Julgado em 19 dez. 2023. [Repositório externo].
+
+BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Agravo em Recurso Extraordinário 954.858. Relator: Min. Edson Fachin. Julgado em 11 maio 2017. [Repositório externo].
 
 BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Arguição de Descumprimento de Preceito Fundamental 205. Relator: Min. Dias Toffoli. Sessão virtual de 9 a 16 jun. 2017. [Repositório externo].
 
 BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Cível Originária 3104. Relator: Min. Luís Roberto Barroso. Julgada em 29 jun. 2020. **[Repositório externo]**
+
+BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Declaratória de Constitucionalidade 51. Relator: Min. Gilmar Mendes. Julgado em 23 fev. 2023. [Repositório externo].
 
 BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Direta de Inconstitucionalidade 5.086. Relator: Min. Luiz Fux. Sessão virtual de 11 a 17 maio 2018. [Repositório externo].
 
@@ -4610,63 +4616,21 @@ BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Recurso Extraordinário 132655
 
 BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Recurso Extraordinário 593.849. Relator: Min. Edson Fachin. Julgado em 22 set. 2017. [Repositório externo].
 
+BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Recurso Extraordinário 827996 (Tema 1011). Relator: Min. Gilmar Mendes. Julgado em 29 jun. 2020; embargos de declaração julgados em 9 nov. 2022. **[Repositório externo]**
+
 BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Suspensão de Tutela Antecipada 831. Relator: Min. Rosa Weber (Presidente). Julgado em 2 out. 2023. [Repositório externo].
-
-BRASIL. Supremo Tribunal Federal. Agravo em Recurso Extraordinário 1400191. Relatora: Min. Rosa Weber (Presidente). Julgado em 28 nov. 2022. **[Repositório externo]**
-
-BRASIL. Supremo Tribunal Federal. Agravo em Recurso Extraordinário 1431847. Relatora: Min. Rosa Weber (Presidente). Julgado em 3 jul. 2023. **[Repositório externo]**
-
-BRASIL. Supremo Tribunal Federal. Agravo em Recurso Extraordinário 1433852. Relatora: Min. Rosa Weber (Presidente). Julgado em 28 ago. 2023. **[Repositório externo]**
-
-BRASIL. Supremo Tribunal Federal. Tribunal Pleno. Ação Declaratória de Constitucionalidade 51. Relator: Min. Gilmar Mendes. Julgado em 23 fev. 2023. [Repositório externo].
 
 ## Superior Tribunal de Justiça (curadoria interna)
 
-BRASIL. Superior Tribunal de Justiça. Corte Especial. Recurso Especial 2.021.665. Relator: Min. Moura Ribeiro. Julgado em 13 mar. 2025. DJEN 11 jun. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Corte Especial. Recurso Especial 2.148.059. Relator: Min. Luis Felipe Salomão. Julgado em 20 ago. 2025. DJEN 5 set. 2025.
-
-BRASIL. Superior Tribunal de Justiça. Corte Especial. Recurso Especial 2.148.580. Relator: Min. Luis Felipe Salomão. Julgado em 20 ago. 2025. DJEN 5 set. 2025.
-
-BRASIL. Superior Tribunal de Justiça. Corte Especial. Recurso Especial 2.150.218. Relator: Min. Luis Felipe Salomão. Julgado em 20 ago. 2025. DJEN 5 set. 2025.
-
-BRASIL. Superior Tribunal de Justiça. Primeira Seção. Conflito de Competência 139.519. Relator: Min. Napoleão Nunes Maia Filho. Julgado em 11 out. 2017. DJe 10 nov. 2017.
-
-BRASIL. Superior Tribunal de Justiça. Primeira Seção. Recurso Especial 1.913.152. Relatora: Min. Maria Thereza de Assis Moura. Julgado em 8 out. 2025. DJEN 6 nov. 2025.
-
-BRASIL. Superior Tribunal de Justiça. Primeira Seção. Recurso Especial 2.074.601. Relator: Min. Afrânio Vilela. Julgado em 6 fev. 2025. DJEN 13 fev. 2025.
-
-BRASIL. Superior Tribunal de Justiça. Primeira Seção. Recurso Especial 2.117.355. Relator: Min. Teodoro Silva Santos. Julgado em 11 jun. 2025. DJEN 30 jun. 2025.
-
-BRASIL. Superior Tribunal de Justiça. Primeira Turma. Recurso em Mandado de Segurança 52.463. Relator: Min. Gurgel de Faria. Julgado em 4 set. 2018. DJe 13 set. 2018.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 1.914.617. Relator: Min. Raul Araújo. Julgado em 1 jun. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 1.996.081. Relator: Min. João Otávio de Noronha. Julgado em 16 mar. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.264.854. Relator: Min. João Otávio de Noronha. Julgado em 25 maio 2026.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Seção. Conflito de Competência 150.252. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 10 jun. 2020. DJe 16 jun. 2020.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo em Recurso Especial 3.163.394. Relator: Min. Francisco Falcão. Julgado em 18 ago. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Turma. Recurso Especial 1.815.762. Relator: Min. Mauro Campbell Marques. Julgado em 5 nov. 2019. DJe 7 nov. 2019.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Turma. Recurso Especial 2.270.544. Relator: Min. Teodoro Silva Santos. Julgado em 12 ago. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Agravo em Recurso Especial 2.706.177. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 11 nov. 2024. DJe 14 nov. 2024.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.833.935. Relator: Min. Paulo de Tarso Sanseverino. Julgado em 5 maio 2020. DJe 11 maio 2020.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.076.294. Relatora: Min. Nancy Andrighi. DJe 18 dez. 2023.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.224.132. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 16 jun. 2026.
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Interno na CR 19.637. Relator: Min. Herman Benjamin. Julgado em 19 mar. 2025. DJEN 25 mar. 2025.
 
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Interno na CR 21.916. Relator: Min. Herman Benjamin. Julgado em 23 set. 2025. DJEN 29 set. 2025.
 
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Interno na CR 22.011. Relator: Min. Herman Benjamin. Julgado em 19 ago. 2026. DJEN 21 ago. 2026.
 
-BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Interno no CR 19.637. Relator: Min. Herman Benjamin. DJe 25 mar. 2025.
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Interno na Homologação de Decisão Estrangeira 12.166. Relator: Min. Herman Benjamin. Julgado em 10 mar. 2026. DJEN 16 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Interno na Homologação de Decisão Estrangeira 12.555. Relator: Min. Herman Benjamin. Julgado em 18 ago. 2026. DJEN 21 ago. 2026.
 
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Interno nos Embargos de Declaração na CR 20.634. Relator: Min. Herman Benjamin. Julgado em 18 ago. 2026. DJEN 21 ago. 2026.
 
@@ -4674,9 +4638,15 @@ BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Interno nos Embarg
 
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Regimental na Reclamação 39.223. Relator: Min. João Otávio de Noronha. Julgado em 25 ago. 2020. DJe 31 ago. 2020.
 
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Regimental no Habeas Corpus 969.308. Relatora: Min. Daniela Teixeira. DJe 10 jun. 2025.
+
 BRASIL. Superior Tribunal de Justiça. Corte Especial. CR 22.380. Relator: Min. Herman Benjamin. Julgado em 4 mar. 2026. DJEN 29 maio 2026.
 
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Embargos de Divergência em Recurso Especial 1.810.281. Relatora: Min. Nancy Andrighi. DJe 14 maio 2025.
+
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Homologação de Decisão Estrangeira 1.396. Relatora: Min. Nancy Andrighi. Julgado em 23 set. 2019. DJe 26 set. 2019.
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Homologação de Decisão Estrangeira 10.733. Relator: Min. Raul Araújo. Julgado em 17 set. 2025. DJEN 25 set. 2025.
 
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Homologação de Decisão Estrangeira 11.278. Relator: Min. Francisco Falcão. Julgado em 12 maio 2026. DJEN 15 maio 2026.
 
@@ -4688,87 +4658,7 @@ BRASIL. Superior Tribunal de Justiça. Corte Especial. Homologação de Decisão
 
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Homologação de Decisão Estrangeira 966. Relatora: Min. Nancy Andrighi. Julgado em 7 out. 2020. DJe 16 out. 2020.
 
-BRASIL. Superior Tribunal de Justiça. Corte Especial. Recurso Especial 2.092.311. Relatora: Min. Nancy Andrighi. Julgado em 19 fev. 2025. DJEN 25 fev. 2025.
-
-BRASIL. Superior Tribunal de Justiça. Corte Especial. Sentença Estrangeira Contestada 10.639. Relator: Min. Raul Araújo. Julgado em 2 fev. 2022. DJe 4 mar. 2022.
-
-BRASIL. Superior Tribunal de Justiça. Corte Especial. Sentença Estrangeira Contestada 7.009. Relator: Min. Francisco Falcão. Julgado em 15 ago. 2018. DJe 28 ago. 2018.
-
-BRASIL. Superior Tribunal de Justiça. Corte Especial. Súmula 150. Julgada em 7 fev. 1996. DJ 13 fev. 1996.
-
-BRASIL. Superior Tribunal de Justiça. Corte Especial. Súmula 224. Julgada em 2 ago. 1999. DJ 25 ago. 1999.
-
-BRASIL. Superior Tribunal de Justiça. Corte Especial. Súmula 235. Julgada em 1 fev. 2000. DJ 10 fev. 2000.
-
-BRASIL. Superior Tribunal de Justiça. Corte Especial. Súmula 33. Julgada em 24 out. 1991. DJ 29 out. 1991.
-
-BRASIL. Superior Tribunal de Justiça. Corte Especial. Súmula 489. Julgada em 28 jun. 2012. DJe 1 ago. 2012.
-
-BRASIL. Superior Tribunal de Justiça. Corte Especial. Súmula 59. Julgada em 8 out. 1992. DJ 14 out. 1992.
-
-BRASIL. Superior Tribunal de Justiça. Primeira Seção. Agravo Interno no Conflito de Competência 177.499. Relator: Min. Gurgel de Faria. Julgado em 9 fev. 2022. DJe 7 mar. 2022.
-
-BRASIL. Superior Tribunal de Justiça. Primeira Seção. Agravo Interno no Conflito de Competência 202.644. Relatora: Min. Maria Thereza de Assis Moura. Julgado em 11 mar. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Primeira Seção. Conflito de Competência 191.185. Relator: Min. Afrânio Vilela. Julgado em 28 fev. 2024. DJe 4 mar. 2024.
-
-BRASIL. Superior Tribunal de Justiça. Primeira Seção. Conflito de Competência 218.817. Relator: Min. Teodoro Silva Santos. Julgado em 16 jun. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Primeira Seção. Questão de Ordem no Conflito de Competência 170.051. Relator: Min. Mauro Campbell Marques. Julgado em 26 ago. 2020. DJe 25 set. 2020.
-
-BRASIL. Superior Tribunal de Justiça. Primeira Seção. Recurso Especial 1.903.920. Relator: Min. Og Fernandes. Julgado em 21 out. 2021. DJe 13 dez. 2021.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.434.964. Relator: Min. Raul Araújo. Julgado em 16 mar. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.554.171. Relator: Min. Antonio Carlos Ferreira. Julgado em 4 maio 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 1.197.814. Relator: Min. Raul Araújo. Julgado em 25 jun. 2019. DJe 1 jul. 2019.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 1.341.280. Relatora: Min. Maria Isabel Gallotti. Julgado em 21 ago. 2023. DJe 24 ago. 2023.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 2.008.580. Relator: Min. Raul Araújo. Julgado em 9 maio 2022. DJe 10 jun. 2022.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 2.523.075. Relatora: Min. Maria Isabel Gallotti. Julgado em 14 abr. 2025. DJEN 24 abr. 2025.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno nos Embargos de Declaração no Agravo em Recurso Especial 2.153.668. Relatora: Min. Maria Isabel Gallotti. Julgado em 4 maio 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Embargos de Declaração no Agravo Interno no Recurso Especial 2.187.071. Relator: Min. Luís Carlos Gambogi (Desembargador Convocado do Tjmg). Julgado em 12 ago. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Embargos de Divergência em Recurso Especial 1.630.199. Relator: Min. Antonio Carlos Ferreira. DJe 10 ago. 2021.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.249.200. Relator: Min. Antonio Carlos Ferreira. Julgado em 12 ago. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Seção. Agravo Interno no Conflito de Competência 165.083. Relatora: Min. Nancy Andrighi. Julgado em 18 ago. 2020. DJe 21 ago. 2020.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Seção. Ação Rescisória 6.328. Relatora: Min. Maria Isabel Gallotti. Julgado em 14 dez. 2022. DJe 7 fev. 2023.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Seção. Conflito de Competência 151.295. Relator: Min. Antonio Carlos Ferreira. Julgado em 14 jun. 2017. DJe 22 jun. 2017.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Seção. Conflito de Competência 153.641. Relator: Min. Marco Aurélio Bellizze. Julgado em 13 dez. 2017. DJe 19 dez. 2017.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Seção. Conflito de Competência 160.329. Relatora: Min. Nancy Andrighi. Julgado em 27 fev. 2019. DJe 6 mar. 2019.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Seção. Conflito de Competência 213.886. Relatora: Min. Daniela Teixeira. DJe 15 set. 2025.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo Interno no Agravo em Recurso Especial 3.023.882. Relator: Min. Marco Aurélio Bellizze. Julgado em 24 jun. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo Interno no Recurso Especial 2.206.431. Relatora: Min. Maria Thereza de Assis Moura.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Turma. Recurso em Mandado de Segurança 79.162. Relator: Min. Teodoro Silva Santos. Julgado em 12 ago. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 1.613.920. Relator: Min. Moura Ribeiro. Julgado em 16 mar. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 3.029.990. Relator: Min. Moura Ribeiro. Julgado em 1 jun. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.131.408. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 7 abr. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.187.009. Relator: Min. Humberto Martins. Julgado em 9 mar. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.196.099. Relator: Min. Moura Ribeiro. Julgado em 8 jun. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.229.257. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 9 fev. 2026. DJEN 12 fev. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Corte Especial. Embargos de Divergência em Recurso Especial 1.810.281. Relatora: Min. Nancy Andrighi. DJe 14 maio 2025.
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Recurso Especial 1.632.777. Relator: Min. Napoleão Nunes Maia Filho. Julgado em 17 maio 2017. DJe 26 maio 2017.
 
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Recurso Especial 1.648.238 (Tema 973). Relator: Min. Gurgel de Faria. Julgado em 20 jun. 2018. DJe 27 jun. 2018.
 
@@ -4778,33 +4668,87 @@ BRASIL. Superior Tribunal de Justiça. Corte Especial. Recurso Especial 1.954.38
 
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Recurso Especial 1.988.686 e Recurso Especial 1.988.697 (Tema 1178). Relator: Min. Og Fernandes. Julgados em 17 set. 2025. DJEN 18 mar. 2026.
 
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Recurso Especial 2.021.665. Relator: Min. Moura Ribeiro. Julgado em 13 mar. 2025. DJEN 11 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Recurso Especial 2.092.311. Relatora: Min. Nancy Andrighi. Julgado em 19 fev. 2025. DJEN 25 fev. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Recurso Especial 2.148.059. Relator: Min. Luis Felipe Salomão. Julgado em 20 ago. 2025. DJEN 5 set. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Recurso Especial 2.148.580. Relator: Min. Luis Felipe Salomão. Julgado em 20 ago. 2025. DJEN 5 set. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Recurso Especial 2.150.218. Relator: Min. Luis Felipe Salomão. Julgado em 20 ago. 2025. DJEN 5 set. 2025.
+
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Recurso Especial 2.225.061. Relator: Min. Luis Felipe Salomão. Julgado em 23 jun. 2026. DJEN 29 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Sentença Estrangeira Contestada 10.639. Relator: Min. Raul Araújo. Julgado em 2 fev. 2022. DJe 4 mar. 2022.
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Sentença Estrangeira Contestada 7.009. Relator: Min. Francisco Falcão. Julgado em 15 ago. 2018. DJe 28 ago. 2018.
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Súmula 106. Julgada em 26 maio 1994. DJ 3 jun. 1994.
 
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Súmula 115. Julgada em 27 out. 1994. DJ 7 nov. 1994.
 
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Súmula 116. Julgada em 27 out. 1994. DJ 7 nov. 1994.
 
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Súmula 150. Julgada em 7 fev. 1996. DJ 13 fev. 1996.
+
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Súmula 196. Julgada em 1 out. 1997. DJ 9 out. 1997.
 
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Súmula 224. Julgada em 2 ago. 1999. DJ 25 ago. 1999.
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Súmula 235. Julgada em 1 fev. 2000. DJ 10 fev. 2000.
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Súmula 33. Julgada em 24 out. 1991. DJ 29 out. 1991.
+
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Súmula 421. Julgada em 3 mar. 2010. DJe 11 mar. 2010. Cancelada em 17 abr. 2024 (DJe 22 abr. 2024).
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Súmula 489. Julgada em 28 jun. 2012. DJe 1 ago. 2012.
+
+BRASIL. Superior Tribunal de Justiça. Corte Especial. Súmula 59. Julgada em 8 out. 1992. DJ 14 out. 1992.
 
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Súmula 642. Julgada em 2 dez. 2020. DJe 7 dez. 2020.
 
 BRASIL. Superior Tribunal de Justiça. Corte Especial. Súmula 99. Julgada em 14 abr. 1994. DJ 25 abr. 1994.
 
+BRASIL. Superior Tribunal de Justiça. Primeira Seção. Agravo Interno no Conflito de Competência 177.499. Relator: Min. Gurgel de Faria. Julgado em 9 fev. 2022. DJe 7 mar. 2022.
+
+BRASIL. Superior Tribunal de Justiça. Primeira Seção. Agravo Interno no Conflito de Competência 202.644. Relatora: Min. Maria Thereza de Assis Moura. Julgado em 11 mar. 2026.
+
 BRASIL. Superior Tribunal de Justiça. Primeira Seção. Agravo Interno no Recurso Especial 1.828.606. Relator: Min. Herman Benjamin. Julgado em 12 abr. 2022. DJe 23 jun. 2022.
 
+BRASIL. Superior Tribunal de Justiça. Primeira Seção. Agravo Interno nos Embargos de Declaração no Conflito de Competência 191.937. Relator: Min. Afrânio Vilela. Julgado em 20 ago. 2024. DJe 26 ago. 2024.
+
+BRASIL. Superior Tribunal de Justiça. Primeira Seção. Conflito de Competência 139.519. Relator: Min. Napoleão Nunes Maia Filho. Julgado em 11 out. 2017. DJe 10 nov. 2017.
+
+BRASIL. Superior Tribunal de Justiça. Primeira Seção. Conflito de Competência 191.185. Relator: Min. Afrânio Vilela. Julgado em 28 fev. 2024. DJe 4 mar. 2024.
+
+BRASIL. Superior Tribunal de Justiça. Primeira Seção. Conflito de Competência 218.817. Relator: Min. Teodoro Silva Santos. Julgado em 16 jun. 2026.
+
 BRASIL. Superior Tribunal de Justiça. Primeira Seção. Embargos de Declaração nos Embargos de Declaração no Recurso Especial 1.338.942. Relator: Min. Og Fernandes. Julgado em 22 ago. 2018. DJe 28 ago. 2018.
+
+BRASIL. Superior Tribunal de Justiça. Primeira Seção. Petição 12.482 (Tema 692). Relator: Min. Og Fernandes. Julgado em 11 maio 2022. DJe 24 maio 2022.
+
+BRASIL. Superior Tribunal de Justiça. Primeira Seção. Questão de Ordem no Conflito de Competência 170.051. Relator: Min. Mauro Campbell Marques. Julgado em 26 ago. 2020. DJe 25 set. 2020.
 
 BRASIL. Superior Tribunal de Justiça. Primeira Seção. Recurso Especial 1.823.402. Relatora: Min. Assusete Magalhães. Julgado em 21 out. 2021. DJe 25 out. 2021.
 
 BRASIL. Superior Tribunal de Justiça. Primeira Seção. Recurso Especial 1.883.715. Relator: Min. Sérgio Kukina. Julgado em 8 mar. 2023. DJe 27 mar. 2023.
 
+BRASIL. Superior Tribunal de Justiça. Primeira Seção. Recurso Especial 1.903.920. Relator: Min. Og Fernandes. Julgado em 21 out. 2021. DJe 13 dez. 2021.
+
+BRASIL. Superior Tribunal de Justiça. Primeira Seção. Recurso Especial 1.913.152. Relatora: Min. Maria Thereza de Assis Moura. Julgado em 8 out. 2025. DJEN 6 nov. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Primeira Seção. Recurso Especial 1.976.624 e Recurso Especial 1.962.118 (Tema 1131). Relator: Min. Afrânio Vilela. Julgados em 14 maio 2025. DJEN 26 maio 2025.
+
 BRASIL. Superior Tribunal de Justiça. Primeira Seção. Recurso Especial 2.029.636. Relator: Min. Herman Benjamin. Julgado em 20 jun. 2024. DJe 1 jul. 2024.
 
 BRASIL. Superior Tribunal de Justiça. Primeira Seção. Recurso Especial 2.053.306. Relator: Min. Sérgio Kukina. Julgado em 27 nov. 2024. DJe 4 dez. 2024.
 
+BRASIL. Superior Tribunal de Justiça. Primeira Seção. Recurso Especial 2.074.601. Relator: Min. Afrânio Vilela. Julgado em 6 fev. 2025. DJEN 13 fev. 2025.
+
 BRASIL. Superior Tribunal de Justiça. Primeira Seção. Recurso Especial 2.097.166. Relator: Min. Herman Benjamin. Julgado em 14 maio 2025. DJEN 23 jun. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Primeira Seção. Recurso Especial 2.117.355. Relator: Min. Teodoro Silva Santos. Julgado em 11 jun. 2025. DJEN 30 jun. 2025.
 
 BRASIL. Superior Tribunal de Justiça. Primeira Seção. Recurso Especial 2.129.162. Relator: Min. Paulo Sérgio Domingues. Julgado em 9 abr. 2025. DJEN 14 abr. 2025.
 
@@ -4814,11 +4758,9 @@ BRASIL. Superior Tribunal de Justiça. Primeira Seção. Recurso Especial 2.222.
 
 BRASIL. Superior Tribunal de Justiça. Primeira Seção. Súmula 189. Julgada em 11 jun. 1997. DJ 23 jun. 1997.
 
-BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo em Recurso Especial 2.670.058. Relator: Min. Gurgel de Faria. Julgado em 22 out. 2024. DJe 11 nov. 2024.
+BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo Interno no Agravo em Recurso Especial 2.072.362. Relator: Min. Gurgel de Faria. Julgado em 8 maio 2023. DJe 17 maio 2023.
 
-BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo em Recurso Especial 3.055.177. Relator: Min. Paulo Sérgio Domingues. Julgado em 19 maio 2026.
-
-BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo Interno no Agravo em Recurso Especial 2.513.897. Relator: Min. Sérgio Kukina.
+BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo Interno no Agravo em Recurso Especial 2.513.897. Relator: Min. Sérgio Kukina. Julgado em 11 fev. 2025. DJe 17 fev. 2025.
 
 BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo Interno no Agravo em Recurso Especial 2.551.247. Relator: Min. Sérgio Kukina. Julgado em 23 set. 2024. DJe 25 set. 2024.
 
@@ -4826,15 +4768,83 @@ BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo Interno no Agravo 
 
 BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo Interno no Agravo em Recurso Especial 2.891.635. Relator: Min. Paulo Sérgio Domingues. Julgado em 24 ago. 2026. DJEN 27 ago. 2026.
 
+BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo Interno no Recurso Especial 1.837.482. Relator: Min. Gurgel de Faria. Julgado em 7 nov. 2023. DJe 15 dez. 2023.
+
 BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo Interno no Recurso Especial 2.046.942. Relator: Min. Benedito Gonçalves. Julgado em 20 nov. 2023. DJe 22 nov. 2023.
 
 BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo Interno no Recurso Especial 2.137.725. Relatora: Min. Regina Helena Costa. DJe 12 dez. 2024.
 
+BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo em Recurso Especial 2.670.058. Relator: Min. Gurgel de Faria. Julgado em 22 out. 2024. DJe 11 nov. 2024.
+
+BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo em Recurso Especial 3.055.177. Relator: Min. Paulo Sérgio Domingues. Julgado em 19 maio 2026.
+
+BRASIL. Superior Tribunal de Justiça. Primeira Turma. Recurso Especial 1.797.365. Relator: Min. Sérgio Kukina. Julgado em 3 out. 2019. DJe 22 out. 2019.
+
+BRASIL. Superior Tribunal de Justiça. Primeira Turma. Recurso em Mandado de Segurança 52.463. Relator: Min. Gurgel de Faria. Julgado em 4 set. 2018. DJe 13 set. 2018.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno na Petição 18.792. Relatora: Min. Maria Isabel Gallotti. Julgado em 30 jun. 2026. DJEN 3 jul. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno na TutAntAnt 22. Relator: Min. Raul Araújo. Julgado em 2 out. 2023. DJe 5 out. 2023.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno na TutCautAnt 1.482. Relatora: Min. Maria Isabel Gallotti. Julgado em 12 ago. 2026. DJEN 17 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 1.197.814. Relator: Min. Raul Araújo. Julgado em 25 jun. 2019. DJe 1 jul. 2019.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 1.341.280. Relatora: Min. Maria Isabel Gallotti. Julgado em 21 ago. 2023. DJe 24 ago. 2023.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 2.008.580. Relator: Min. Raul Araújo. Julgado em 9 maio 2022. DJe 10 jun. 2022.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 2.062.597. Relatora: Min. Maria Isabel Gallotti. DJe 31 mar. 2023.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 2.332.925. Relatora: Min. Maria Isabel Gallotti. DJe 22 mar. 2024.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 2.509.062. Relator: Min. Raul Araújo. Julgado em 24 jun. 2024. DJe 27 jun. 2024.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 2.523.075. Relatora: Min. Maria Isabel Gallotti. Julgado em 14 abr. 2025. DJEN 24 abr. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 2.989.688. Relator: Min. Raul Araújo. Julgado em 8 jun. 2026. DJEN 12 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 3.089.957. Relator: Min. Luís Carlos Gambogi (Desembargador Convocado do Tjmg). Julgado em 22 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 3.117.991. Relator: Min. Raul Araújo. Julgado em 15 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Recurso Especial 1.745.718. Relator: Min. Luis Felipe Salomão. Julgado em 31 ago. 2020. DJe 9 set. 2020.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Recurso Especial 2.110.998. Relatora: Min. Maria Isabel Gallotti. Julgado em 12 maio 2025. DJEN 16 maio 2025.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Recurso Especial 2.154.773. Relator: Min. Marco Buzzi. DJe 19 dez. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Recurso Especial 2.247.023. Relatora: Min. Maria Isabel Gallotti. Julgado em 22 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno nos Embargos de Declaração no Agravo em Recurso Especial 2.153.668. Relatora: Min. Maria Isabel Gallotti. Julgado em 4 maio 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno nos Embargos de Declaração no Recurso Especial 1.722.693. Relatora: Min. Maria Isabel Gallotti. Julgado em 22 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 1.914.617. Relator: Min. Raul Araújo. Julgado em 1 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.094.467. Relator: Min. João Otávio de Noronha. Julgado em 22 abr. 2026. DJEN 27 abr. 2026.
+
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.132.333. Relator: Min. Raul Araújo. Julgado em 2 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.304.564. Relator: Min. Raul Araújo. Julgado em 1 dez. 2025. DJEN 9 dez. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.363.091. Relator: Min. Raul Araújo. Julgado em 16 mar. 2026.
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.367.534. Relator: Min. Raul Araújo. Julgado em 16 mar. 2026.
 
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.434.964. Relator: Min. Raul Araújo. Julgado em 16 mar. 2026.
+
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.540.229. Relator: Min. Raul Araújo. Julgado em 12 maio 2025. DJEN 19 maio 2025.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.554.171. Relator: Min. Antonio Carlos Ferreira. Julgado em 4 maio 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.644.080. Relator: Min. João Otávio de Noronha. Julgado em 9 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.651.596. Relator: Min. João Otávio de Noronha. Julgado em 22 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.663.378. Relator: Min. João Otávio de Noronha. Julgado em 9 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.878.218. Relator: Min. Raul Araújo. Julgado em 15 jun. 2026. DJEN 19 jun. 2026.
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.937.328. Relator: Min. João Otávio de Noronha. Julgado em 22 abr. 2026.
 
@@ -4848,163 +4858,33 @@ BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 3.133.518. Relator: Min. João Otávio de Noronha. Julgado em 16 jun. 2026.
 
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 2.062.597. Relatora: Min. Maria Isabel Gallotti. DJe 31 mar. 2023.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 2.509.062. Relator: Min. Raul Araújo. Julgado em 24 jun. 2024. DJe 27 jun. 2024.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 2.989.688. Relator: Min. Raul Araújo. Julgado em 8 jun. 2026. DJEN 12 jun. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 3.117.991. Relator: Min. Raul Araújo. Julgado em 15 jun. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Recurso Especial 2.154.773. Relator: Min. Marco Buzzi. DJe 19 dez. 2025.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno nos Embargos de Declaração no Recurso Especial 1.722.693. Relatora: Min. Maria Isabel Gallotti. Julgado em 22 jun. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 1.991.994. Relator: Min. Raul Araújo. Julgado em 7 jun. 2022. DJe 20 jun. 2022.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.021.425. Relator: Min. João Otávio de Noronha. Julgado em 11 maio 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.027.283. Relatora: Min. Maria Isabel Gallotti. Julgado em 12 ago. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.042.061. Relator: Min. Raul Araújo. Julgado em 20 out. 2025. DJEN 29 out. 2025.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.120.455. Relator: Min. Antonio Carlos Ferreira. Julgado em 11 maio 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.126.492. Relator: Min. João Otávio de Noronha. Julgado em 16 mar. 2026. DJEN 19 mar. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.154.502. Relator: Min. João Otávio de Noronha. Julgado em 9 fev. 2026. DJEN 12 fev. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.178.775. Relator: Min. João Otávio de Noronha. Julgado em 8 jun. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.224.697. Relator: Min. João Otávio de Noronha. Julgado em 9 mar. 2026. DJEN 12 mar. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.246.112. Relator: Min. Raul Araújo. Julgado em 30 mar. 2026. DJEN 8 abr. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.246.430. Relatora: Min. Maria Isabel Gallotti. Julgado em 16 mar. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.255.093. Relator: Min. João Otávio de Noronha. Julgado em 8 jun. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quinta Turma. Agravo Interno no Agravo em Recurso Especial 3.110.344. Relatora: Min. Daniela Teixeira. Julgado em 22 jun. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quinta Turma. Agravo Regimental no Agravo em Recurso Especial 3.132.410. Relator: Min. Joel Ilan Paciornik. Julgado em 4 ago. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Seção. Agravo Interno na ExSusp 195. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 26 jun. 2019. DJe 1 jul. 2019.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Seção. Agravo Interno na ExSusp 256. Relatora: Min. Nancy Andrighi. Julgado em 8 mar. 2023. DJe 10 mar. 2023.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Seção. Agravo Interno no ExeAR 6.369. Relator: Min. Ricardo Villas Bôas Cueva. DJe 16 maio 2024.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Seção. Proposta de Afetação no Recurso Especial 1.873.187 e 1.873.811 (Tema 1210). Relator: Min. Raul Araújo. Julgados em 15 ago. 2023. DJe 29 ago. 2023.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Seção. Recurso Especial 1.763.462. Relator: Min. Paulo de Tarso Sanseverino. Julgado em 9 jun. 2021. DJe 1 jul. 2021.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo em Recurso Especial 1.992.131. Relator: Min. Francisco Falcão. Julgado em 8 nov. 2022. DJe 14 nov. 2022.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo Interno no Agravo em Recurso Especial 2.237.543. Relator: Min. Herman Benjamin. Julgado em 24 jun. 2024. DJe 28 jun. 2024.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo Interno no Recurso Especial 2.146.248. Relator: Min. Marco Aurélio Bellizze.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Turma. Recurso Especial 1.831.507. Relator: Min. Mauro Campbell Marques. Julgado em 6 ago. 2024. DJe 9 ago. 2024.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Seção. Recurso Especial 1.349.935. Relator: Min. Rogerio Schietti Cruz. Julgado em 23 ago. 2017. DJe 14 set. 2017.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 2.503.062. Relator: Min. Moura Ribeiro. Julgado em 16 mar. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 2.828.269. Relator: Min. Moura Ribeiro. Julgado em 27 out. 2025. DJEN 30 out. 2025.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 2.982.042. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 22 abr. 2026. DJEN 27 abr. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Agravo em Recurso Especial 1.790.001. Relatora: Min. Nancy Andrighi. DJe 25 jun. 2021.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Agravo em Recurso Especial 2.230.102. Relator: Min. Humberto Martins. Julgado em 21 ago. 2023. DJe 24 ago. 2023.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Agravo em Recurso Especial 2.830.723. Relator: Min. Humberto Martins. Julgado em 1 jun. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Recurso Especial 2.260.946. Relator: Min. Humberto Martins. Julgado em 1 jun. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Embargos de Declaração no Agravo Interno no Agravo em Recurso Especial 2.890.761. Relator: Min. Moura Ribeiro. Julgado em 22 jun. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso em Mandado de Segurança 64.894. Relatora: Min. Nancy Andrighi. Julgado em 3 ago. 2021. DJe 9 ago. 2021.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.651.165. Relatora: Min. Nancy Andrighi. Julgado em 19 set. 2017. DJe 26 set. 2017.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.821.048. Relatora: Min. Nancy Andrighi. Julgado em 27 ago. 2019. DJe 29 ago. 2019.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.827.692. Relatora: Min. Daniela Teixeira. Julgado em 23 jun. 2025. DJEN 26 jun. 2025.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.870.654. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 18 ago. 2026. DJEN 24 ago. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.925.959. Relator: Min. Paulo de Tarso Sanseverino. Julgado em 12 set. 2023. DJe 22 set. 2023.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.949.665. Relator: Min. Marco Aurélio Bellizze. Julgado em 17 out. 2023. DJe 25 out. 2023.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.037.961. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 12 ago. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.055.363. Relatora: Min. Nancy Andrighi. Julgado em 13 jun. 2023. DJe 23 jun. 2023.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.092.572. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 9 mar. 2026. DJe 12 mar. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.101.170. Relator: Min. Humberto Martins. Julgado em 8 jun. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.169.413. Relatora: Min. Nancy Andrighi. Julgado em 3 mar. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.230.568. Relator: Min. Moura Ribeiro. Julgado em 4 maio 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.232.532. Relator: Min. Moura Ribeiro. Julgado em 4 maio 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.235.989. Relator: Min. Humberto Martins. Julgado em 8 jun. 2026. DJEN 11 jun. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.239.150. Relatora: Min. Daniela Teixeira. Julgado em 12 ago. 2026. DJEN 17 ago. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.241.508. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 15 dez. 2025. DJEN 18 dez. 2025.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.259.176. Relatora: Min. Nancy Andrighi. Julgado em 16 jun. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Interno na Homologação de Decisão Estrangeira 12.166. Relator: Min. Herman Benjamin. Julgado em 10 mar. 2026. DJEN 16 mar. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Interno na Homologação de Decisão Estrangeira 12.555. Relator: Min. Herman Benjamin. Julgado em 18 ago. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Corte Especial. Agravo Regimental no Habeas Corpus 969.308. Relatora: Min. Daniela Teixeira. DJe 10 jun. 2025.
-
-BRASIL. Superior Tribunal de Justiça. Corte Especial. Homologação de Decisão Estrangeira 10.733. Relator: Min. Raul Araújo. Julgado em 17 set. 2025. DJEN 25 set. 2025.
-
-BRASIL. Superior Tribunal de Justiça. Corte Especial. Recurso Especial 1.632.777. Relator: Min. Napoleão Nunes Maia Filho. Julgado em 17 maio 2017. DJe 26 maio 2017.
-
-BRASIL. Superior Tribunal de Justiça. Corte Especial. Súmula 106. Julgada em 26 maio 1994. DJ 3 jun. 1994.
-
-BRASIL. Superior Tribunal de Justiça. Primeira Seção. Agravo Interno nos Embargos de Declaração no Conflito de Competência 191.937. Relator: Min. Afrânio Vilela. Julgado em 20 ago. 2024. DJe 26 ago. 2024.
-
-BRASIL. Superior Tribunal de Justiça. Primeira Seção. Recurso Especial 1.976.624 e Recurso Especial 1.962.118 (Tema 1131). Relator: Min. Afrânio Vilela. Julgados em 14 maio 2025. DJEN 26 maio 2025.
-
-BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo Interno no Agravo em Recurso Especial 2.072.362. Relator: Min. Gurgel de Faria. Julgado em 8 maio 2023. DJe 17 maio 2023.
-
-BRASIL. Superior Tribunal de Justiça. Primeira Turma. Agravo Interno no Recurso Especial 1.837.482. Relator: Min. Gurgel de Faria. Julgado em 7 nov. 2023. DJe 15 dez. 2023.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.094.467. Relator: Min. João Otávio de Noronha. Julgado em 22 abr. 2026. DJEN 27 abr. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.304.564. Relator: Min. Raul Araújo. Julgado em 1 dez. 2025. DJEN 9 dez. 2025.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.651.596. Relator: Min. João Otávio de Noronha. Julgado em 22 jun. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.663.378. Relator: Min. João Otávio de Noronha. Julgado em 9 mar. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.878.218. Relator: Min. Raul Araújo. Julgado em 15 jun. 2026. DJEN 19 jun. 2026.
-
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 3.169.476. Relator: Min. João Otávio de Noronha. Julgado em 12 ago. 2026.
 
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno na Petição 18.792. Relatora: Min. Maria Isabel Gallotti. Julgado em 30 jun. 2026. DJEN 3 jul. 2026.
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Embargos de Declaração no Agravo Interno no Recurso Especial 2.187.071. Relator: Min. Luís Carlos Gambogi (Desembargador Convocado do Tjmg). Julgado em 12 ago. 2026.
 
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 2.332.925. Relatora: Min. Maria Isabel Gallotti. DJe 22 mar. 2024.
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Embargos de Divergência em Recurso Especial 1.630.199. Relator: Min. Antonio Carlos Ferreira. DJe 10 ago. 2021.
 
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Agravo em Recurso Especial 3.089.957. Relator: Min. Luís Carlos Gambogi (Desembargador Convocado do Tjmg). Julgado em 22 jun. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Recurso Especial 1.745.718. Relator: Min. Luis Felipe Salomão. Julgado em 31 ago. 2020. DJe 9 set. 2020.
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 1.236.057. Relator: Min. Antonio Carlos Ferreira. Julgado em 6 abr. 2021. DJe 28 abr. 2021.
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 1.763.736. Relator: Min. Antonio Carlos Ferreira. Julgado em 21 jun. 2022. DJe 18 ago. 2022.
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 1.857.194. Relator: Min. Antonio Carlos Ferreira. Julgado em 17 set. 2024. DJe 4 out. 2024.
 
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 1.938.645. Relatora: Min. Maria Isabel Gallotti. Julgado em 4 jun. 2024. DJe 6 set. 2024.
+
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 1.948.877. Relator: Min. Raul Araújo. Julgado em 16 dez. 2025. DJEN 19 dez. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 1.991.994. Relator: Min. Raul Araújo. Julgado em 7 jun. 2022. DJe 20 jun. 2022.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 1.996.081. Relator: Min. João Otávio de Noronha. Julgado em 16 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.021.425. Relator: Min. João Otávio de Noronha. Julgado em 11 maio 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.025.626. Relatora: Min. Maria Isabel Gallotti. Julgado em 4 jun. 2024. DJe 5 set. 2024.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.027.283. Relatora: Min. Maria Isabel Gallotti. Julgado em 12 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.042.061. Relator: Min. Raul Araújo. Julgado em 20 out. 2025. DJEN 29 out. 2025.
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.059.799. Relatora: Min. Maria Isabel Gallotti. Julgado em 9 fev. 2026. DJEN 12 fev. 2026.
 
@@ -5012,107 +4892,227 @@ BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.072.505.
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.117.951. Relator: Min. Raul Araújo. Julgado em 9 mar. 2026.
 
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.120.455. Relator: Min. Antonio Carlos Ferreira. Julgado em 11 maio 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.126.492. Relator: Min. João Otávio de Noronha. Julgado em 16 mar. 2026. DJEN 19 mar. 2026.
+
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.140.098. Relator: Min. João Otávio de Noronha. Julgado em 16 mar. 2026.
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.144.119. Relatora: Min. Maria Isabel Gallotti. Julgado em 9 mar. 2026.
 
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.154.502. Relator: Min. João Otávio de Noronha. Julgado em 9 fev. 2026. DJEN 12 fev. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.178.775. Relator: Min. João Otávio de Noronha. Julgado em 8 jun. 2026.
+
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.179.925. Relator: Min. João Otávio de Noronha. Julgado em 30 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.224.697. Relator: Min. João Otávio de Noronha. Julgado em 9 mar. 2026. DJEN 12 mar. 2026.
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.225.786. Relator: Min. Antonio Carlos Ferreira. Julgado em 22 jun. 2026. DJEN 30 jun. 2026.
 
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.227.802. Relator: Min. João Otávio de Noronha. Julgado em 30 mar. 2026.
 
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.246.112. Relator: Min. Raul Araújo. Julgado em 30 mar. 2026. DJEN 8 abr. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.246.430. Relatora: Min. Maria Isabel Gallotti. Julgado em 16 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.249.200. Relator: Min. Antonio Carlos Ferreira. Julgado em 12 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.255.093. Relator: Min. João Otávio de Noronha. Julgado em 8 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.264.854. Relator: Min. João Otávio de Noronha. Julgado em 25 maio 2026.
+
 BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.268.610. Relator: Min. Raul Araújo. Julgado em 30 jun. 2026.
 
-BRASIL. Superior Tribunal de Justiça. Segunda Seção. Conflito de Competência 215.225. Relatora: Min. Daniela Teixeira. DJe 13 out. 2025.
+BRASIL. Superior Tribunal de Justiça. Quinta Turma. Agravo Interno no Agravo em Recurso Especial 3.110.344. Relatora: Min. Daniela Teixeira. Julgado em 22 jun. 2026.
 
-BRASIL. Superior Tribunal de Justiça. Segunda Seção. Recurso Especial 1.361.869 e Recurso Especial 1.362.038 (Tema 1015). Relator: Min. Raul Araújo. Julgados em 25 maio 2022. DJe 24 out. 2022.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo Interno no Agravo em Recurso Especial 1.625.236. Relator: Min. Mauro Campbell Marques. Julgado em 14 set. 2020. DJe 17 set. 2020.
-
-BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo Interno nos Embargos de Declaração no Agravo em Recurso Especial 3.137.040. Relator: Min. Francisco Falcão. Julgado em 19 ago. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 2.226.192. Relator: Min. Moura Ribeiro. Julgado em 16 mar. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 2.731.232. Relator: Min. Moura Ribeiro. Julgado em 4 maio 2026. DJEN 8 maio 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 3.016.999. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 24 ago. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 3.083.220. Relator: Min. Moura Ribeiro. Julgado em 23 mar. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Agravo em Recurso Especial 2.455.226. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 10 jun. 2024. DJe 13 jun. 2024.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Agravo em Recurso Especial 2.715.195. Relator: Min. Humberto Martins. Julgado em 1 jun. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.906.378. Relatora: Min. Nancy Andrighi. Julgado em 11 maio 2021. DJe 14 maio 2021.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.016.092. Relatora: Min. Nancy Andrighi. Julgado em 25 out. 2022. DJe 1 dez. 2022.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.069.123. Relatora: Min. Nancy Andrighi. Julgado em 3 out. 2023. DJe 9 out. 2023.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.070.921. Relator: Min. Humberto Martins. Julgado em 12 ago. 2026. DJEN 17 ago. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.095.170. Relator: Min. Humberto Martins. Julgado em 12 ago. 2025. DJEN 15 ago. 2025.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.111.092. Relator: Min. Moura Ribeiro. Julgado em 13 abr. 2026. DJEN 16 abr. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.126.117. Relatora: Min. Nancy Andrighi. Julgado em 14 maio 2024. DJe 17 maio 2024.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.179.211. Relator: Min. Moura Ribeiro. Julgado em 11 nov. 2025. DJe 24 nov. 2025.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.234.214. Relator: Min. Moura Ribeiro. Julgado em 2 mar. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.243.354. Relator: Min. Humberto Martins. Julgado em 8 jun. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.264.349. Relator: Min. Humberto Martins. Julgado em 12 ago. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Primeira Seção. Petição 12.482 (Tema 692). Relator: Min. Og Fernandes. Julgado em 11 maio 2022. DJe 24 maio 2022.
-
-BRASIL. Superior Tribunal de Justiça. Primeira Turma. Recurso Especial 1.797.365. Relator: Min. Sérgio Kukina. Julgado em 3 out. 2019. DJe 22 out. 2019.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.363.091. Relator: Min. Raul Araújo. Julgado em 16 mar. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno na TutAntAnt 22. Relator: Min. Raul Araújo. Julgado em 2 out. 2023. DJe 5 out. 2023.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno na TutCautAnt 1.482. Relatora: Min. Maria Isabel Gallotti. Julgado em 12 ago. 2026. DJEN 17 ago. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Recurso Especial 2.110.998. Relatora: Min. Maria Isabel Gallotti. Julgado em 12 maio 2025. DJEN 16 maio 2025.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo Interno no Recurso Especial 2.247.023. Relatora: Min. Maria Isabel Gallotti. Julgado em 22 jun. 2026.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 1.236.057. Relator: Min. Antonio Carlos Ferreira. Julgado em 6 abr. 2021. DJe 28 abr. 2021.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 1.938.645. Relatora: Min. Maria Isabel Gallotti. Julgado em 4 jun. 2024. DJe 6 set. 2024.
-
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Recurso Especial 2.025.626. Relatora: Min. Maria Isabel Gallotti. Julgado em 4 jun. 2024. DJe 5 set. 2024.
+BRASIL. Superior Tribunal de Justiça. Quinta Turma. Agravo Regimental no Agravo em Recurso Especial 3.132.410. Relator: Min. Joel Ilan Paciornik. Julgado em 4 ago. 2026.
 
 BRASIL. Superior Tribunal de Justiça. Quinta Turma. Recurso Especial 2.236.052. Relatora: Min. Daniela Teixeira. Julgado em 12 ago. 2026.
 
 BRASIL. Superior Tribunal de Justiça. Segunda Seção. Agravo Interno na Ação Rescisória 5.839. Relator: Min. Luis Felipe Salomão. Julgado em 15 jun. 2021. DJe 21 jun. 2021.
 
+BRASIL. Superior Tribunal de Justiça. Segunda Seção. Agravo Interno na ExSusp 195. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 26 jun. 2019. DJe 1 jul. 2019.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Seção. Agravo Interno na ExSusp 256. Relatora: Min. Nancy Andrighi. Julgado em 8 mar. 2023. DJe 10 mar. 2023.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Seção. Agravo Interno no Conflito de Competência 165.083. Relatora: Min. Nancy Andrighi. Julgado em 18 ago. 2020. DJe 21 ago. 2020.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Seção. Agravo Interno no ExeAR 6.369. Relator: Min. Ricardo Villas Bôas Cueva. DJe 16 maio 2024.
+
 BRASIL. Superior Tribunal de Justiça. Segunda Seção. Agravo Interno no TP 575. Relator: Min. Marco Buzzi. Julgado em 28 jun. 2022. DJe 30 jun. 2022.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Seção. Ação Rescisória 6.328. Relatora: Min. Maria Isabel Gallotti. Julgado em 14 dez. 2022. DJe 7 fev. 2023.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Seção. Conflito de Competência 150.252. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 10 jun. 2020. DJe 16 jun. 2020.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Seção. Conflito de Competência 151.295. Relator: Min. Antonio Carlos Ferreira. Julgado em 14 jun. 2017. DJe 22 jun. 2017.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Seção. Conflito de Competência 153.641. Relator: Min. Marco Aurélio Bellizze. Julgado em 13 dez. 2017. DJe 19 dez. 2017.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Seção. Conflito de Competência 160.329. Relatora: Min. Nancy Andrighi. Julgado em 27 fev. 2019. DJe 6 mar. 2019.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Seção. Conflito de Competência 213.886. Relatora: Min. Daniela Teixeira. DJe 15 set. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Seção. Conflito de Competência 215.225. Relatora: Min. Daniela Teixeira. DJe 13 out. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Seção. Proposta de Afetação no Recurso Especial 1.873.187 e 1.873.811 (Tema 1210). Relator: Min. Raul Araújo. Julgados em 15 ago. 2023. DJe 29 ago. 2023.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Seção. Recurso Especial 1.361.869 e Recurso Especial 1.362.038 (Tema 1015). Relator: Min. Raul Araújo. Julgados em 25 maio 2022. DJe 24 out. 2022.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Seção. Recurso Especial 1.763.462. Relator: Min. Paulo de Tarso Sanseverino. Julgado em 9 jun. 2021. DJe 1 jul. 2021.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo Interno no Agravo em Recurso Especial 1.625.236. Relator: Min. Mauro Campbell Marques. Julgado em 14 set. 2020. DJe 17 set. 2020.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo Interno no Agravo em Recurso Especial 2.237.543. Relator: Min. Herman Benjamin. Julgado em 24 jun. 2024. DJe 28 jun. 2024.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo Interno no Agravo em Recurso Especial 3.023.882. Relator: Min. Marco Aurélio Bellizze. Julgado em 24 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo Interno no Recurso Especial 2.146.248. Relator: Min. Marco Aurélio Bellizze. DJe 27 nov. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo Interno no Recurso Especial 2.206.431. Relatora: Min. Maria Thereza de Assis Moura. DJe 27 out. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo Interno nos Embargos de Declaração no Agravo em Recurso Especial 3.137.040. Relator: Min. Francisco Falcão. Julgado em 19 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo em Recurso Especial 1.992.131. Relator: Min. Francisco Falcão. Julgado em 8 nov. 2022. DJe 14 nov. 2022.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Agravo em Recurso Especial 3.163.394. Relator: Min. Francisco Falcão. Julgado em 18 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Recurso Especial 1.815.762. Relator: Min. Mauro Campbell Marques. Julgado em 5 nov. 2019. DJe 7 nov. 2019.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Recurso Especial 1.831.507. Relator: Min. Mauro Campbell Marques. Julgado em 6 ago. 2024. DJe 9 ago. 2024.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Recurso Especial 2.066.843. Relator: Min. Marco Aurélio Bellizze. Julgado em 5 maio 2026.
 
 BRASIL. Superior Tribunal de Justiça. Segunda Turma. Recurso Especial 2.266.198. Relator: Min. Afrânio Vilela. Julgado em 12 ago. 2026.
 
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Recurso Especial 2.270.544. Relator: Min. Teodoro Silva Santos. Julgado em 12 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Segunda Turma. Recurso em Mandado de Segurança 79.162. Relator: Min. Teodoro Silva Santos. Julgado em 12 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Seção. Recurso Especial 1.349.935. Relator: Min. Rogerio Schietti Cruz. Julgado em 23 ago. 2017. DJe 14 set. 2017.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Agravo em Recurso Especial 1.790.001. Relatora: Min. Nancy Andrighi. DJe 25 jun. 2021.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Agravo em Recurso Especial 2.230.102. Relator: Min. Humberto Martins. Julgado em 21 ago. 2023. DJe 24 ago. 2023.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Agravo em Recurso Especial 2.455.226. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 10 jun. 2024. DJe 13 jun. 2024.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Agravo em Recurso Especial 2.706.177. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 11 nov. 2024. DJe 14 nov. 2024.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Agravo em Recurso Especial 2.715.195. Relator: Min. Humberto Martins. Julgado em 1 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Agravo em Recurso Especial 2.830.723. Relator: Min. Humberto Martins. Julgado em 1 jun. 2026.
+
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Recurso Especial 1.910.272. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 26 ago. 2024. DJe 29 ago. 2024.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo Interno no Recurso Especial 2.260.946. Relator: Min. Humberto Martins. Julgado em 1 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 1.613.920. Relator: Min. Moura Ribeiro. Julgado em 16 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 2.226.192. Relator: Min. Moura Ribeiro. Julgado em 16 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 2.442.156. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 24 nov. 2025. DJEN 1 dez. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 2.503.062. Relator: Min. Moura Ribeiro. Julgado em 16 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 2.731.232. Relator: Min. Moura Ribeiro. Julgado em 4 maio 2026. DJEN 8 maio 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 2.828.269. Relator: Min. Moura Ribeiro. Julgado em 27 out. 2025. DJEN 30 out. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 2.982.042. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 22 abr. 2026. DJEN 27 abr. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 3.016.999. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 24 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 3.029.990. Relator: Min. Moura Ribeiro. Julgado em 1 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 3.083.220. Relator: Min. Moura Ribeiro. Julgado em 23 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Embargos de Declaração no Agravo Interno no Agravo em Recurso Especial 2.890.761. Relator: Min. Moura Ribeiro. Julgado em 22 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.651.165. Relatora: Min. Nancy Andrighi. Julgado em 19 set. 2017. DJe 26 set. 2017.
 
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.760.966. Relator: Min. Marco Aurélio Bellizze. Julgado em 4 dez. 2018. DJe 7 dez. 2018.
 
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.766.376. Relatora: Min. Nancy Andrighi. Julgado em 25 ago. 2020. DJe 28 ago. 2020.
 
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.821.048. Relatora: Min. Nancy Andrighi. Julgado em 27 ago. 2019. DJe 29 ago. 2019.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.827.692. Relatora: Min. Daniela Teixeira. Julgado em 23 jun. 2025. DJEN 26 jun. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.833.935. Relator: Min. Paulo de Tarso Sanseverino. Julgado em 5 maio 2020. DJe 11 maio 2020.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.870.654. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 18 ago. 2026. DJEN 24 ago. 2026.
+
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.895.663. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 14 dez. 2021. DJe 16 dez. 2021.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.906.378. Relatora: Min. Nancy Andrighi. Julgado em 11 maio 2021. DJe 14 maio 2021.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.925.959. Relator: Min. Paulo de Tarso Sanseverino. Julgado em 12 set. 2023. DJe 22 set. 2023.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 1.949.665. Relator: Min. Marco Aurélio Bellizze. Julgado em 17 out. 2023. DJe 25 out. 2023.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.016.092. Relatora: Min. Nancy Andrighi. Julgado em 25 out. 2022. DJe 1 dez. 2022.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.037.961. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 12 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.055.363. Relatora: Min. Nancy Andrighi. Julgado em 13 jun. 2023. DJe 23 jun. 2023.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.069.123. Relatora: Min. Nancy Andrighi. Julgado em 3 out. 2023. DJe 9 out. 2023.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.070.921. Relator: Min. Humberto Martins. Julgado em 12 ago. 2026. DJEN 17 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.076.294. Relatora: Min. Nancy Andrighi. DJe 18 dez. 2023.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.092.572. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 9 mar. 2026. DJe 12 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.095.170. Relator: Min. Humberto Martins. Julgado em 12 ago. 2025. DJEN 15 ago. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.101.170. Relator: Min. Humberto Martins. Julgado em 8 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.111.092. Relator: Min. Moura Ribeiro. Julgado em 13 abr. 2026. DJEN 16 abr. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.126.117. Relatora: Min. Nancy Andrighi. Julgado em 14 maio 2024. DJe 17 maio 2024.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.131.408. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 7 abr. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.135.866. Relator: Min. Moura Ribeiro. Julgado em 4 maio 2026. DJEN 8 maio 2026.
 
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.157.370. Relator: Min. Moura Ribeiro. Julgado em 22 abr. 2026.
 
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.169.413. Relatora: Min. Nancy Andrighi. Julgado em 3 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.179.211. Relator: Min. Moura Ribeiro. Julgado em 11 nov. 2025. DJe 24 nov. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.187.009. Relator: Min. Humberto Martins. Julgado em 9 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.196.099. Relator: Min. Moura Ribeiro. Julgado em 8 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.224.132. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 16 jun. 2026.
+
 BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.224.632. Relator: Min. Moura Ribeiro. Julgado em 12 ago. 2026.
 
-BRASIL. Superior Tribunal de Justiça. Quarta Turma. Agravo em Recurso Especial 2.644.080. Relator: Min. João Otávio de Noronha. Julgado em 9 mar. 2026.
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.229.257. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 9 fev. 2026. DJEN 12 fev. 2026.
 
-BRASIL. Superior Tribunal de Justiça. Segunda Turma. Recurso Especial 2.066.843. Relator: Min. Marco Aurélio Bellizze. Julgado em 5 maio 2026.
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.230.568. Relator: Min. Moura Ribeiro. Julgado em 4 maio 2026.
 
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Agravo em Recurso Especial 2.442.156. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 24 nov. 2025. DJEN 1 dez. 2025.
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.232.532. Relator: Min. Moura Ribeiro. Julgado em 4 maio 2026.
 
-BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.135.866. Relator: Min. Moura Ribeiro. Julgado em 4 maio 2026. DJEN 8 maio 2026.
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.234.214. Relator: Min. Moura Ribeiro. Julgado em 2 mar. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.235.989. Relator: Min. Humberto Martins. Julgado em 8 jun. 2026. DJEN 11 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.239.150. Relatora: Min. Daniela Teixeira. Julgado em 12 ago. 2026. DJEN 17 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.241.508. Relator: Min. Ricardo Villas Bôas Cueva. Julgado em 15 dez. 2025. DJEN 18 dez. 2025.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.243.354. Relator: Min. Humberto Martins. Julgado em 8 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.259.176. Relatora: Min. Nancy Andrighi. Julgado em 16 jun. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso Especial 2.264.349. Relator: Min. Humberto Martins. Julgado em 12 ago. 2026.
+
+BRASIL. Superior Tribunal de Justiça. Terceira Turma. Recurso em Mandado de Segurança 64.894. Relatora: Min. Nancy Andrighi. Julgado em 3 ago. 2021. DJe 9 ago. 2021.
 
 # Índice de artigos
 
@@ -5126,27 +5126,27 @@ Remete cada artigo da Parte Geral à página em que começa o seu texto.
 | Art. 4º | 23 | Art. 84 | 60 | Art. 164 | 97 | Art. 244 | 123 |
 | Art. 5º | 23 | Art. 85 | 60 | Art. 165 | 98 | Art. 245 | 123 |
 | Art. 6º | 24 | Art. 86 | 65 | Art. 166 | 98 | Art. 246 | 124 |
-| Art. 7º | 24 | Art. 87 | 66 | Art. 167 | 99 | Art. 247 | 125 |
+| Art. 7º | 24 | Art. 87 | 65 | Art. 167 | 99 | Art. 247 | 125 |
 | Art. 8º | 24 | Art. 88 | 66 | Art. 168 | 99 | Art. 248 | 126 |
 | Art. 9º | 25 | Art. 89 | 66 | Art. 169 | 100 | Art. 249 | 126 |
 | Art. 10 | 25 | Art. 90 | 66 | Art. 170 | 100 | Art. 250 | 127 |
 | Art. 11 | 26 | Art. 91 | 67 | Art. 171 | 100 | Art. 251 | 127 |
 | Art. 12 | 26 | Art. 92 | 67 | Art. 172 | 100 | Art. 252 | 128 |
-| Art. 13 | 27 | Art. 93 | 68 | Art. 173 | 100 | Art. 253 | 128 |
-| Art. 14 | 27 | Art. 94 | 68 | Art. 174 | 101 | Art. 254 | 129 |
+| Art. 13 | 27 | Art. 93 | 67 | Art. 173 | 100 | Art. 253 | 128 |
+| Art. 14 | 27 | Art. 94 | 67 | Art. 174 | 101 | Art. 254 | 129 |
 | Art. 15 | 28 | Art. 95 | 68 | Art. 175 | 101 | Art. 255 | 129 |
-| Art. 16 | 29 | Art. 96 | 69 | Art. 176 | 101 | Art. 256 | 129 |
+| Art. 16 | 29 | Art. 96 | 68 | Art. 176 | 101 | Art. 256 | 129 |
 | Art. 17 | 29 | Art. 97 | 69 | Art. 177 | 101 | Art. 257 | 130 |
 | Art. 18 | 29 | Art. 98 | 69 | Art. 178 | 101 | Art. 258 | 130 |
 | Art. 19 | 30 | Art. 99 | 71 | Art. 179 | 102 | Art. 259 | 130 |
-| Art. 20 | 30 | Art. 100 | 72 | Art. 180 | 102 | Art. 260 | 131 |
+| Art. 20 | 30 | Art. 100 | 71 | Art. 180 | 102 | Art. 260 | 131 |
 | Art. 21 | 30 | Art. 101 | 72 | Art. 181 | 103 | Art. 261 | 131 |
-| Art. 22 | 31 | Art. 102 | 73 | Art. 182 | 103 | Art. 262 | 131 |
+| Art. 22 | 31 | Art. 102 | 72 | Art. 182 | 103 | Art. 262 | 131 |
 | Art. 23 | 32 | Art. 103 | 73 | Art. 183 | 103 | Art. 263 | 132 |
 | Art. 24 | 32 | Art. 104 | 73 | Art. 184 | 104 | Art. 264 | 132 |
-| Art. 25 | 33 | Art. 105 | 74 | Art. 185 | 104 | Art. 265 | 132 |
+| Art. 25 | 33 | Art. 105 | 73 | Art. 185 | 104 | Art. 265 | 132 |
 | Art. 26 | 33 | Art. 106 | 74 | Art. 186 | 104 | Art. 266 | 132 |
-| Art. 27 | 34 | Art. 107 | 75 | Art. 187 | 105 | Art. 267 | 132 |
+| Art. 27 | 34 | Art. 107 | 74 | Art. 187 | 105 | Art. 267 | 132 |
 | Art. 28 | 35 | Art. 108 | 75 | Art. 188 | 106 | Art. 268 | 133 |
 | Art. 29 | 35 | Art. 109 | 75 | Art. 189 | 106 | Art. 269 | 133 |
 | Art. 30 | 36 | Art. 110 | 76 | Art. 190 | 107 | Art. 270 | 133 |
