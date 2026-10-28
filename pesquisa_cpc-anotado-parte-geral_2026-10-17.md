@@ -54,7 +54,7 @@ lang: pt-BR
 - **Bases consultadas:** legislação e jurisprudência do STF e do STJ (curadoria interna); e repositório externo, com os acórdãos assinalados como **[Repositório externo]**
 - **Recorte:** julgados e entendimentos de 1º/01/2016 a 17/10/2026. Entendimento anterior só aparece quando ainda é o marco vigente do artigo, com a data de origem declarada. Só os artigos com julgado relevante são anotados (172 dos 317); os demais trazem apenas o texto legal.
 - **Datas dos julgados:** a data indicada é a do julgamento e, quando a fonte traz apenas a da publicação, a do Diário de Justiça eletrônico (Diário da Justiça eletrônico (DJe)) ou do Diário de Justiça Eletrônico Nacional (DJEN).
-- **Uso de IA:** consulta às fontes e redação assistidas por IA generativa (Claude Code). A conferência dos julgados na fonte primária cabe ao leitor (ver seção 7).
+- **Uso de IA:** consulta às fontes e redação assistidas por IA generativa, em terminal, com o OpenCode e o modelo DeepSeek V4.1. A conferência dos julgados na fonte primária cabe ao leitor (ver seção 7).
 - **Estrutura:** a seção 5 reproduz o texto legal artigo por artigo, na ordem do Código, com as anotações nos artigos que as têm; cada Livro abre com página própria, seguido dos Títulos, Capítulos e Seções do Código, com a faixa de artigos de cada um. O índice de artigos, ao final, remete cada artigo à sua página.
 
 # 2 Síntese executiva
