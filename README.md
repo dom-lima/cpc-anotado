@@ -2,30 +2,16 @@
 
 *Estudo jurisprudencial do Supremo Tribunal Federal e do Superior Tribunal de Justiça.*
 
-Código de Processo Civil (Lei 13.105/2015) anotado com jurisprudência do STF e do STJ, artigo por artigo: Parte Geral (arts. 1º a 317), Parte Especial (arts. 318 a 1.072) e volume único do Código inteiro. Edições em vade-mécum. CC BY 4.0.
+Código de Processo Civil (Lei 13.105/2015) anotado com jurisprudência do STF e do STJ, artigo por artigo, em volume único dos arts. 1º a 1.072. Edição em vade-mécum. CC BY 4.0.
 
 **Autor:** Domingos José de Souza Lima Júnior
 **Data:** Realizado em 26 de outubro de 2026
 
-## Arquivos
+## Arquivo
 
-### Código de Processo Civil anotado: Parte Geral, arts. 1º a 317
+Código de Processo Civil anotado, Parte Geral e Parte Especial, arts. 1º a 1.072, em volume único:
 
-- [`pesquisa_cpc-anotado-parte-geral_2026-10-17.md`](pesquisa_cpc-anotado-parte-geral_2026-10-17.md)
-- [`pesquisa_cpc-anotado-parte-geral_2026-10-17_vademecum.pdf`](pesquisa_cpc-anotado-parte-geral_2026-10-17_vademecum.pdf)
-- [`pesquisa_cpc-anotado-parte-geral_2026-10-17_vademecum.docx`](pesquisa_cpc-anotado-parte-geral_2026-10-17_vademecum.docx)
-
-### Código de Processo Civil anotado: Parte Especial, arts. 318 a 1.072
-
-- [`pesquisa_cpc-anotado-parte-especial_2026-10-26.md`](pesquisa_cpc-anotado-parte-especial_2026-10-26.md)
-- [`pesquisa_cpc-anotado-parte-especial_2026-10-26_vademecum.pdf`](pesquisa_cpc-anotado-parte-especial_2026-10-26_vademecum.pdf)
-- [`pesquisa_cpc-anotado-parte-especial_2026-10-26_vademecum.docx`](pesquisa_cpc-anotado-parte-especial_2026-10-26_vademecum.docx)
-
-### Código de Processo Civil anotado: Parte Geral e Parte Especial, arts. 1º a 1.072
-
-- [`pesquisa_cpc-anotado-codigo-inteiro_2026-10-26.md`](pesquisa_cpc-anotado-codigo-inteiro_2026-10-26.md)
 - [`pesquisa_cpc-anotado-codigo-inteiro_2026-10-26_vademecum.pdf`](pesquisa_cpc-anotado-codigo-inteiro_2026-10-26_vademecum.pdf)
-- [`pesquisa_cpc-anotado-codigo-inteiro_2026-10-26_vademecum.docx`](pesquisa_cpc-anotado-codigo-inteiro_2026-10-26_vademecum.docx)
 
 ## Licença
 
